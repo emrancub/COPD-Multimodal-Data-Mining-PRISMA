@@ -4,9 +4,9 @@ This repository contains the complete machine-readable PRISMA 2020 / PRISMA-ScR 
 
 > **Title:** *Mining health data for chronic obstructive pulmonary disease: Machine learning, deep learning, and knowledge discovery across modalities*
 >
-> **Authors:** Md Emran Hasan\$^{1}$, Yue-Fang Wu$^{2}$, and Dong-Jun Yu$^{1\*}\$
+> **Authors:** Md Emran Hasan{1}, Yue-Fang Wu{2}, and Dong-Jun Yu{1\*}\
 >
-> **Affiliations:** \$^{1}$School of Computer Science and Engineering, Nanjing University of Science and Technology, Nanjing 210094, China; $^{2}$Department of Internal Medicine, Nanjing University of Science and Technology Hospital, Nanjing 210094, China.
+> **Affiliations:** {1}School of Computer Science and Engineering, Nanjing University of Science and Technology, Nanjing 210094, China; {2}Department of Internal Medicine, Nanjing University of Science and Technology Hospital, Nanjing 210094, China.
 >
 > **Corresponding Author:** Prof. Dong-Jun Yu (`njyudj@njust.edu.cn`) | **First Author:** Md Emran Hasan (`mdemranhasan@njust.edu.cn`)
 
