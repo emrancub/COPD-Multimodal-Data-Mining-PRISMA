@@ -1,0 +1,1847 @@
+[
+  {
+    "cite_key": "W001",
+    "citation_label": "Aaron et~al.(2024)",
+    "year": "2024",
+    "doi": "10.1164/rccm.202311-2120PP",
+    "url": "https://doi.org/10.1164/rccm.202311-2120PP",
+    "formatted_apa": "Aaron, S. D., Montes de Oca, M., Celli, B., Bhatt, S. P., Bourbeau, J., Criner, G. J., DeMeo, D. L., Halpin, D. M. G., Han, M. K., Hurst, J. R., Krishnan, J. K., Mannino, D., van Boven, J. F. M., Vogelmeier, C. F., Wedzicha, J. A., Yawn, B. P., \\& Martinez, F. J. (2024). Early diagnosis and treatment of chronic obstructive pulmonary disease: The costs and benefits of case finding. \\textit{American Journal of Respiratory and Critical Care Medicine}, \\textit{209}(8), 928--937. \\url{https://doi.org/10.1164/rccm.202311-2120PP}",
+    "verification_status": "Verified against Crossref and PubMed metadata by the review authors"
+  },
+  {
+    "cite_key": "W002",
+    "citation_label": "Abulizi et~al.(2026)",
+    "year": "2026",
+    "doi": "10.1016/j.rmed.2026.108778",
+    "url": "https://doi.org/10.1016/j.rmed.2026.108778",
+    "formatted_apa": "Abulizi, A., Zhou, J., Abudukelimu, N., Yehaiya, G., Abudukelimu, M., \\& Abudukelimu, H. (2026). A review of artificial intelligence-based research on chronic obstructive pulmonary disease. \\textit{Respiratory Medicine}, \\textit{255}, 108778. \\url{https://doi.org/10.1016/j.rmed.2026.108778}",
+    "verification_status": "Verified against Crossref and PubMed metadata by the review authors"
+  },
+  {
+    "cite_key": "MultimodalAI",
+    "citation_label": "Acosta et~al.(2022)",
+    "year": "2022",
+    "doi": "10.1038/s41591-022-01981-2",
+    "url": "https://doi.org/10.1038/s41591-022-01981-2",
+    "formatted_apa": "Acosta, J. N., Falcone, G. J., Rajpurkar, P., \\& Topol, E. J. (2022). Multimodal biomedical AI. \\textit{Nature Medicine}, \\textit{28}(9), 1773--1784. \\url{https://doi.org/10.1038/s41591-022-01981-2}",
+    "verification_status": "Verified against Crossref and PubMed metadata by the review authors"
+  },
+  {
+    "cite_key": "W004",
+    "citation_label": "Adeloye et~al.(2022)",
+    "year": "2022",
+    "doi": "10.1016/S2213-2600(21)00511-7",
+    "url": "https://doi.org/10.1016/S2213-2600(21)00511-7",
+    "formatted_apa": "Adeloye, D., Song, P., Zhu, Y., Campbell, H., Sheikh, A., \\& Rudan, I. (2022). Global, regional, and national prevalence of, and risk factors for, chronic obstructive pulmonary disease (COPD) in 2019: A systematic review and modelling analysis. \\textit{The Lancet Respiratory Medicine}, \\textit{10}(5), 447--458. \\url{https://doi.org/10.1016/S2213-2600(21)00511-7}",
+    "verification_status": "Verified against Crossref and PubMed metadata by the review authors"
+  },
+  {
+    "cite_key": "A026",
+    "citation_label": "Adibi et~al.(2020)",
+    "year": "2020",
+    "doi": "10.1016/S2213-2600(19)30397-2",
+    "url": "https://doi.org/10.1016/S2213-2600(19)30397-2",
+    "formatted_apa": "Adibi, A., Sin, D. D., Safari, A., Johnson, K. M., Aaron, S. D., FitzGerald, J. M., \\& Sadatsafavi, M. (2020). The Acute COPD Exacerbation Prediction Tool (ACCEPT): A modelling study. \\textit{The Lancet Respiratory Medicine}, \\textit{8}(10), 1013--1021. \\url{https://doi.org/10.1016/S2213-2600(19)30397-2}",
+    "verification_status": "Verified against Crossref and PubMed metadata by the review authors"
+  },
+  {
+    "cite_key": "T241",
+    "citation_label": "Alvarez-Romero et~al.(2022)",
+    "year": "2022",
+    "doi": "10.2196/35307",
+    "url": "https://doi.org/10.2196/35307",
+    "formatted_apa": "Alvarez-Romero, C., Martinez-Garcia, A., Ternero Vega, J., D\u00edaz-Jim\u00e8nez, P., Jim\u00e8nez-Juan, C., Nieto-Mart\u00edn, M. D., Rom\u00e1n Villar\u00e1n, E., Kovacevic, T., Bokan, D., Hromis, S., Djekic Malbasa, J., Besla\\'{c}, S., Zaric, B., Gencturk, M., Sinaci, A. A., Ollero Baturone, M., \\& Parra Calder\u00f3n, C. L. (2022). Predicting 30-Day Readmission Risk for Patients With Chronic Obstructive Pulmonary Disease Through a Federated Machine Learning Architecture on Findable, Accessible, Interoperable, and Reusable (FAIR) Data: Development and Validation Study. \\textit{JMIR Medical Informatics}, \\textit{10}(6), e35307. \\url{https://doi.org/10.2196/35307}",
+    "verification_status": "Verified against Crossref and PubMed metadata by the review authors"
+  },
+  {
+    "cite_key": "W007",
+    "citation_label": "Atzeni et~al.(2025)",
+    "year": "2025",
+    "doi": "10.1038/s41598-024-85089-2",
+    "url": "https://doi.org/10.1038/s41598-024-85089-2",
+    "formatted_apa": "Atzeni, M., Cappon, G., Quint, J. K., Kelly, F., Barratt, B., \\& Vettoretti, M. (2025). A machine learning framework for short-term prediction of chronic obstructive pulmonary disease exacerbations using personal air quality monitors and lifestyle data. \\textit{Scientific Reports}, \\textit{15}, 2385. \\url{https://doi.org/10.1038/s41598-024-85089-2}",
+    "verification_status": "Verified against Crossref and PubMed metadata by the review authors"
+  },
+  {
+    "cite_key": "B789",
+    "citation_label": "Bak et~al.(2020)",
+    "year": "2020",
+    "doi": "10.1007/s00330-020-07020-3",
+    "url": "https://doi.org/10.1007/s00330-020-07020-3",
+    "formatted_apa": "Bak, S. H., Kim, J. H., Jin, H., Kwon, S. O., Kim, B., Cha, Y. K., \\& Kim, W. J. (2020). Emphysema quantification using low-dose computed tomography with deep learning-based kernel conversion comparison. \\textit{European Radiology}, \\textit{30}(12), 6779--6787. \\url{https://doi.org/10.1007/s00330-020-07020-3}",
+    "verification_status": "Verified against Crossref and PubMed metadata by the review authors"
+  },
+  {
+    "cite_key": "B157",
+    "citation_label": "Bordag et~al.(2025)",
+    "year": "2025",
+    "doi": "10.1016/j.isci.2025.112966",
+    "url": "https://doi.org/10.1016/j.isci.2025.112966",
+    "formatted_apa": "Bordag, N., Jandl, K., Syarif, A. H., Gindlhuber, J., Schnoegl, D., Mutgan, A. C., Foris, V., Hoetzenecker, K., Boehm, P. M., Breyer-Kohansal, R., Zeder, K., Gorkiewicz, G., Polverino, F., Crnkovic, S., Kwapiszewska, G., \\& Marsh, L. M. (2025). Machine learning assisted immune profiling of COPD identifies a unique emphysema subtype independent of GOLD stage. \\textit{iScience}, \\textit{28}(7), 112966. \\url{https://doi.org/10.1016/j.isci.2025.112966}",
+    "verification_status": "Verified against Crossref and PubMed metadata by the review authors"
+  },
+  {
+    "cite_key": "W008",
+    "citation_label": "Budler et~al.(2025)",
+    "year": "2025",
+    "doi": "10.1002/widm.70010",
+    "url": "https://doi.org/10.1002/widm.70010",
+    "formatted_apa": "Budler, L. C., Chen, H., Chen, A., Topaz, M., Tam, W., Bian, J., \\& Stiglic, G. (2025). A brief review on benchmarking for large language models evaluation in healthcare. \\textit{WIREs Data Mining and Knowledge Discovery}, \\textit{15}(2), e70010. \\url{https://doi.org/10.1002/widm.70010}",
+    "verification_status": "Verified against Crossref and PubMed metadata by the review authors"
+  },
+  {
+    "cite_key": "B138",
+    "citation_label": "Cao \\& Chu(2025)",
+    "year": "2025",
+    "doi": "10.1038/s41598-025-11347-6",
+    "url": "https://doi.org/10.1038/s41598-025-11347-6",
+    "formatted_apa": "Cao, H., \\& Chu, X. (2025). Identification of telomere maintenance related biomarkers and regulatory mechanisms in chronic obstructive pulmonary disease by machine learning algorithm. \\textit{Scientific Reports}, \\textit{15}(1), 26614. \\url{https://doi.org/10.1038/s41598-025-11347-6}",
+    "verification_status": "Verified against Crossref and PubMed metadata by the review authors"
+  },
+  {
+    "cite_key": "KDD",
+    "citation_label": "Cao(2012)",
+    "year": "2012",
+    "doi": "10.1002/widm.1044",
+    "url": "https://doi.org/10.1002/widm.1044",
+    "formatted_apa": "Cao, L. (2012). Actionable knowledge discovery and delivery. \\textit{WIREs Data Mining and Knowledge Discovery}, \\textit{2}(2), 149--163. \\url{https://doi.org/10.1002/widm.1044}",
+    "verification_status": "Verified against Crossref and PubMed metadata by the review authors"
+  },
+  {
+    "cite_key": "W009",
+    "citation_label": "Castaldi et~al.(2014)",
+    "year": "2014",
+    "doi": "10.1136/thoraxjnl-2013-203601",
+    "url": "https://doi.org/10.1136/thoraxjnl-2013-203601",
+    "formatted_apa": "Castaldi, P. J., Dy, J., Ross, J., Chang, Y., Washko, G. R., Curran-Everett, D., Williams, A., Lynch, D. A., Make, B. J., Crapo, J. D., Bowler, R. P., Regan, E. A., Hokanson, J. E., Kinney, G. L., Han, M. K., Soler, X., Ramsdell, J. W., Barr, R. G., Foreman, M., \\& Silverman, E. K. (2014). Cluster analysis in the COPDGene study identifies subtypes of smokers with distinct patterns of airway disease and emphysema. \\textit{Thorax}, \\textit{69}(5), 415--422. \\url{https://doi.org/10.1136/thoraxjnl-2013-203601}",
+    "verification_status": "Verified against Crossref and PubMed metadata by the review authors"
+  },
+  {
+    "cite_key": "C001",
+    "citation_label": "Chaudhary et~al.(2025)",
+    "year": "2025",
+    "doi": "10.1164/rccm.202409-1847OC",
+    "url": "https://doi.org/10.1164/rccm.202409-1847OC",
+    "formatted_apa": "Chaudhary, M. F. A., Awan, H. A., Gerard, S. E., Bodduluri, S., Comellas, A. P., Barjaktarevic, I. Z., Barr, R. G., Cooper, C. B., Galban, C. J., Han, M. K., Curtis, J. L., Hansel, N. N., Krishnan, J. A., Menchaca, M. G., Martinez, F. J., Ohar, J., Vargas Buonfiglio, L. G., Paine, R., Bhatt, S. P., \\& Reinhardt, J. M. (2025). Deep learning estimation of small airway disease from inspiratory chest computed tomography: Clinical validation, repeatability, and associations with adverse clinical outcomes in chronic obstructive pulmonary disease. \\textit{American Journal of Respiratory and Critical Care Medicine}, \\textit{211}(7), 1185--1195. \\url{https://doi.org/10.1164/rccm.202409-1847OC}",
+    "verification_status": "Verified against Crossref and PubMed metadata by the review authors"
+  },
+  {
+    "cite_key": "W011",
+    "citation_label": "Chen \\& Guestrin(2016)",
+    "year": "2016",
+    "doi": "10.1145/2939672.2939785",
+    "url": "https://doi.org/10.1145/2939672.2939785",
+    "formatted_apa": "Chen, T., \\& Guestrin, C. (2016). XGBoost: A scalable tree boosting system. \\textit{Proceedings of the 22nd ACM SIGKDD International Conference on Knowledge Discovery and Data Mining}, 785--794. \\url{https://doi.org/10.1145/2939672.2939785}",
+    "verification_status": "Verified against Crossref and PubMed metadata by the review authors"
+  },
+  {
+    "cite_key": "T050",
+    "citation_label": "Chen et~al.(2026)",
+    "year": "2026",
+    "doi": "10.2147/copd.s596477",
+    "url": "https://doi.org/10.2147/copd.s596477",
+    "formatted_apa": "Chen, W., Zhao, J., Sun, Z., Zhou, X., Zhang, X., \\& Yan, Z. (2026). Identification and Functional Characterization of COPD Molecular Subtypes Based on Oxeiptosis-Related Genes via WGCNA and Machine Learning. \\textit{International Journal of Chronic Obstructive Pulmonary Disease}, \\textit{21}, 1--16. \\url{https://doi.org/10.2147/copd.s596477}",
+    "verification_status": "Verified against Crossref and PubMed metadata by the review authors"
+  },
+  {
+    "cite_key": "W012",
+    "citation_label": "Chmiel et~al.(2022)",
+    "year": "2022",
+    "doi": "10.2196/26499",
+    "url": "https://doi.org/10.2196/26499",
+    "formatted_apa": "Chmiel, F. P., Burns, D. K., Pickering, J. B., Blythin, A., Wilkinson, T. M. A., \\& Boniface, M. J. (2022). Prediction of chronic obstructive pulmonary disease exacerbation events by using patient self-reported data in a digital health app: Statistical evaluation and machine learning approach. \\textit{JMIR mHealth and uHealth}, \\textit{10}(3), e26499. \\url{https://doi.org/10.2196/26499}",
+    "verification_status": "Verified against Crossref and PubMed metadata by the review authors"
+  },
+  {
+    "cite_key": "COPDOverview",
+    "citation_label": "Christenson et~al.(2022)",
+    "year": "2022",
+    "doi": "10.1016/s0140-6736(22)00470-6",
+    "url": "https://doi.org/10.1016/s0140-6736(22)00470-6",
+    "formatted_apa": "Christenson, S. A., Smith, B. M., Bafadhel, M., \\& Putcha, N. (2022). Chronic obstructive pulmonary disease. \\textit{The Lancet}, \\textit{399}(10342), 2227--2242. \\url{https://doi.org/10.1016/s0140-6736(22)00470-6}",
+    "verification_status": "Verified against Crossref and PubMed metadata by the review authors"
+  },
+  {
+    "cite_key": "TRIPODAI",
+    "citation_label": "Collins et~al.(2024)",
+    "year": "2024",
+    "doi": "10.1136/bmj-2023-078378",
+    "url": "https://doi.org/10.1136/bmj-2023-078378",
+    "formatted_apa": "Collins, G. S., Moons, K. G. M., Dhiman, P., Riley, R. D., Beam, A. L., Van Calster, B., Ghassemi, M., Liu, X., Reitsma, J. B., van Smeden, M., Boulesteix, A.-L., Camaradou, J. C., Celi, L. A., Denaxas, S., Denniston, A. K., Glocker, B., Golub, R. M., Harvey, H., Heinze, G., . . . Logullo, P. (2024). TRIPOD+AI statement: updated guidance for reporting clinical prediction models that use regression or machine learning methods. \\textit{BMJ}, \\textit{385}, e078378. \\url{https://doi.org/10.1136/bmj-2023-078378}",
+    "verification_status": "Verified against Crossref and PubMed metadata by the review authors"
+  },
+  {
+    "cite_key": "RawSpirogram",
+    "citation_label": "Cosentino et~al.(2023)",
+    "year": "2023",
+    "doi": "10.1038/s41588-023-01372-4",
+    "url": "https://doi.org/10.1038/s41588-023-01372-4",
+    "formatted_apa": "Cosentino, J., Behsaz, B., Alipanahi, B., McCaw, Z. R., Hill, D., Schwantes-An, T.-H., Lai, D., Carroll, A., Hobbs, B. D., Cho, M. H., McLean, C. Y., \\& Hormozdiari, F. (2023). Inference of chronic obstructive pulmonary disease with deep learning on raw spirograms identifies new genetic loci and improves risk models. \\textit{Nature Genetics}, \\textit{55}(5), 787--795. \\url{https://doi.org/10.1038/s41588-023-01372-4}",
+    "verification_status": "Verified against Crossref and PubMed metadata by the review authors"
+  },
+  {
+    "cite_key": "T269",
+    "citation_label": "D'Almeida et~al.(2024)",
+    "year": "2024",
+    "doi": "10.1007/s00330-023-10540-3",
+    "url": "https://doi.org/10.1007/s00330-023-10540-3",
+    "formatted_apa": "D'Almeida, S., Norajitra, T., L{\\\"u}th, C. T., Wald, T., Weru, V., Nolden, M., J{\\\"a}ger, P. F., von Stackelberg, O., Heu{\\ss}el, C. P., Weinheimer, O., Biederer, J., Kauczor, H.-U., \\& Maier-Hein, K. (2024). Prediction of disease severity in COPD: a deep learning approach for anomaly-based quantitative assessment of chest CT. \\textit{European Radiology}, \\textit{34}(7), 4379--4392. \\url{https://doi.org/10.1007/s00330-023-10540-3}",
+    "verification_status": "Verified against Crossref and PubMed metadata by the review authors"
+  },
+  {
+    "cite_key": "W017",
+    "citation_label": "Deng et~al.(2025a)",
+    "year": "2025",
+    "doi": "10.1063/5.0289414",
+    "url": "https://doi.org/10.1063/5.0289414",
+    "formatted_apa": "Deng, H., Ding, X., Zhu, S., Song, X., \\& Guo, Y. (2025a). Prediction of chronic obstructive pulmonary disease based on multimodal data and deep learning. \\textit{APL Bioengineering}, \\textit{9}(4), 046115. \\url{https://doi.org/10.1063/5.0289414}",
+    "verification_status": "Verified against Crossref and PubMed metadata by the review authors"
+  },
+  {
+    "cite_key": "B220",
+    "citation_label": "Deng et~al.(2025b)",
+    "year": "2025",
+    "doi": "10.1186/s40360-025-00842-1",
+    "url": "https://doi.org/10.1186/s40360-025-00842-1",
+    "formatted_apa": "Deng, J., Wei, L., Chen, Y., Li, X., Zhang, H., Wei, X., Feng, X., Qiu, X., Liang, B., \\& Zhang, J. (2025b). Identification of benzo(a)pyrene-related toxicological targets and their role in chronic obstructive pulmonary disease pathogenesis: a comprehensive bioinformatics and machine learning approach. \\textit{BMC Pharmacology and Toxicology}, \\textit{26}(1), 33. \\url{https://doi.org/10.1186/s40360-025-00842-1}",
+    "verification_status": "Verified against Crossref and PubMed metadata by the review authors"
+  },
+  {
+    "cite_key": "B011",
+    "citation_label": "Ding et~al.(2026)",
+    "year": "2026",
+    "doi": "10.3389/fmed.2026.1922619",
+    "url": "https://doi.org/10.3389/fmed.2026.1922619",
+    "formatted_apa": "Ding, L., Hu, Y., \\& Wang, W. (2026). Decoding serum C-reactive protein-associated molecular patterns in aging and secondhand smoke exposure chronic obstructive pulmonary disease male patients: evidence from cross-sectional, multi-omic and clinical studies. \\textit{Frontiers in Medicine}, \\textit{13}, 1922619. \\url{https://doi.org/10.3389/fmed.2026.1922619}",
+    "verification_status": "Verified against Crossref and PubMed metadata by the review authors"
+  },
+  {
+    "cite_key": "T098",
+    "citation_label": "Du et~al.(2026)",
+    "year": "2026",
+    "doi": "10.1177/17534666261478820",
+    "url": "https://doi.org/10.1177/17534666261478820",
+    "formatted_apa": "Du, W., Wang, Y., Li, X., Wang, R., \\& Tong, S. (2026). Integrative multi-omics identifies a four-gene diagnostic signature linking immune dysfunction and airway remodeling in COPD. \\textit{Therapeutic Advances in Respiratory Disease}, \\textit{20}, 17534666261478820. \\url{https://doi.org/10.1177/17534666261478820}",
+    "verification_status": "Verified against Crossref and PubMed metadata by the review authors"
+  },
+  {
+    "cite_key": "T141",
+    "citation_label": "Egerod et~al.(2025)",
+    "year": "2025",
+    "doi": "10.1183/23120541.01289-2024",
+    "url": "https://doi.org/10.1183/23120541.01289-2024",
+    "formatted_apa": "Egerod, L., ter Haar, E. A. M. D., Karsdal, M. A., Leeming, D. J., Nanthakumar, C. B., Yates, J. C., Slebos, D.-J., Pouwels, S. D., Hartman, J. E., \\& Sand, J. M. B. (2025). Comorbidity profiles in chronic obstructive pulmonary disease: a multicohort study. \\textit{ERJ Open Research}, \\textit{11}(5), 01289--2024. \\url{https://doi.org/10.1183/23120541.01289-2024}",
+    "verification_status": "Verified against Crossref and PubMed metadata by the review authors"
+  },
+  {
+    "cite_key": "W018",
+    "citation_label": "Exarchos et~al.(2022)",
+    "year": "2022",
+    "doi": "10.1109/JBHI.2021.3135838",
+    "url": "https://doi.org/10.1109/JBHI.2021.3135838",
+    "formatted_apa": "Exarchos, K. P., Aggelopoulou, A., Oikonomou, A., Biniskou, T., Beli, V., Antoniadou, E., \\& Kostikas, K. (2022). Review of artificial intelligence techniques in chronic obstructive lung disease. \\textit{IEEE Journal of Biomedical and Health Informatics}, \\textit{26}(5), 2331--2338. \\url{https://doi.org/10.1109/JBHI.2021.3135838}",
+    "verification_status": "Verified against Crossref and PubMed metadata by the review authors"
+  },
+  {
+    "cite_key": "B628",
+    "citation_label": "Fan et~al.(2023)",
+    "year": "2023",
+    "doi": "10.3389/fphar.2023.1139137",
+    "url": "https://doi.org/10.3389/fphar.2023.1139137",
+    "formatted_apa": "Fan, P., Zhang, Y., Ding, S., Du, Z., Zhou, C., \\& Du, X. (2023). Integrating RNA-seq and scRNA-seq to explore the mechanism of macrophage ferroptosis associated with COPD. \\textit{Frontiers in Pharmacology}, \\textit{14}, 1139137. \\url{https://doi.org/10.3389/fphar.2023.1139137}",
+    "verification_status": "Verified against Crossref and PubMed metadata by the review authors"
+  },
+  {
+    "cite_key": "T004",
+    "citation_label": "Fei et~al.(2026a)",
+    "year": "2026",
+    "doi": "10.3389/fmed.2026.1831103",
+    "url": "https://doi.org/10.3389/fmed.2026.1831103",
+    "formatted_apa": "Fei, Q., Mei, X., Zhao, J., Xing, Y., Li, Y., Yang, M., Xue, J., Qi, L., Zheng, Y., Zhao, H., \\& Bian, H. (2026a). Development and validation of a multimodal clinical-radiomics-deep learning nomogram based on automated chest CT segmentation for classifying COPD severity: a multicenter study. \\textit{Frontiers in Medicine}, \\textit{13}, 1831103. \\url{https://doi.org/10.3389/fmed.2026.1831103}",
+    "verification_status": "Verified against Crossref and PubMed metadata by the review authors"
+  },
+  {
+    "cite_key": "B005",
+    "citation_label": "Fei et~al.(2026b)",
+    "year": "2026",
+    "doi": "10.3389/fimmu.2026.1875146",
+    "url": "https://doi.org/10.3389/fimmu.2026.1875146",
+    "formatted_apa": "Fei, Y., Chai, Y., Tong, S., Sun, B., Chen, Z., Chen, S., Zhang, Z., He, Y., \\& Qiu, S. (2026b). SHAP-interpretable machine learning integrating exposures and multi-omics reveals immune alterations and biomarkers in COPD--lung cancer comorbidity. \\textit{Frontiers in Immunology}, \\textit{17}, 1875146. \\url{https://doi.org/10.3389/fimmu.2026.1875146}",
+    "verification_status": "Verified against Crossref and PubMed metadata by the review authors"
+  },
+  {
+    "cite_key": "T013",
+    "citation_label": "Feng et~al.(2026)",
+    "year": "2026",
+    "doi": "10.1159/000548595",
+    "url": "https://doi.org/10.1159/000548595",
+    "formatted_apa": "Feng, S., Zhang, W., Zhang, R., Yang, Y., Wang, F., Miao, C., Chen, Z., Yang, K., Yao, Q., Liang, Q., Zhao, H., Chen, Y., Liang, C., Liang, X., Chen, R., \\& Liang, Z. (2026). The identification and severity staging of chronic obstructive pulmonary disease using quantitative CT parameters, radiomics features, and deep learning features. \\textit{Respiration}, \\textit{105}(2), 259--271. \\url{https://doi.org/10.1159/000548595}",
+    "verification_status": "Verified against Crossref and PubMed metadata by the review authors"
+  },
+  {
+    "cite_key": "B175",
+    "citation_label": "Fu et~al.(2025)",
+    "year": "2025",
+    "doi": "10.2147/copd.s524381",
+    "url": "https://doi.org/10.2147/copd.s524381",
+    "formatted_apa": "Fu, W., Liu, Y., Li, R., \\& Jin, H. (2025). Integrating Mendelian Randomization and Machine Learning to Identify Hypoxia-Related Diagnostic Biomarkers and Causal Relationship in COPD. \\textit{International Journal of Chronic Obstructive Pulmonary Disease}, \\textit{20}, 3187--3202. \\url{https://doi.org/10.2147/copd.s524381}",
+    "verification_status": "Verified against Crossref and PubMed metadata by the review authors"
+  },
+  {
+    "cite_key": "T280",
+    "citation_label": "Genkin et~al.(2024)",
+    "year": "2024",
+    "doi": "10.1183/23120541.00485-2023",
+    "url": "https://doi.org/10.1183/23120541.00485-2023",
+    "formatted_apa": "Genkin, D., Jenkins, A. R., van Noord, N., Makimoto, K., Collins, S., Stickland, M. K., Tan, W. C., Bourbeau, J., Jensen, D., \\& Kirby, M. (2024). A fully automated pipeline for the extraction of pectoralis muscle area from chest computed tomography scans. \\textit{ERJ Open Research}, \\textit{10}(1), 00485--2023. \\url{https://doi.org/10.1183/23120541.00485-2023}",
+    "verification_status": "Verified against Crossref and PubMed metadata by the review authors"
+  },
+  {
+    "cite_key": "Explainability",
+    "citation_label": "Ghassemi et~al.(2021)",
+    "year": "2021",
+    "doi": "10.1016/s2589-7500(21)00208-9",
+    "url": "https://doi.org/10.1016/s2589-7500(21)00208-9",
+    "formatted_apa": "Ghassemi, M., Oakden-Rayner, L., \\& Beam, A. L. (2021). The false hope of current approaches to explainable artificial intelligence in health care. \\textit{The Lancet Digital Health}, \\textit{3}(11), e745--e750. \\url{https://doi.org/10.1016/s2589-7500(21)00208-9}",
+    "verification_status": "Verified against Crossref and PubMed metadata by the review authors"
+  },
+  {
+    "cite_key": "GOLD2026",
+    "citation_label": "Global Initiative for Chronic Obstructive Lung Disease(2026)",
+    "year": "2026",
+    "doi": "",
+    "url": "https://goldcopd.org/",
+    "formatted_apa": "Global Initiative for Chronic Obstructive Lung Disease. (2026). \\textit{Global strategy for the prevention, diagnosis and management of COPD: 2026 report.} \\url{https://goldcopd.org/}",
+    "verification_status": "Verified against Crossref and PubMed metadata by the review authors"
+  },
+  {
+    "cite_key": "W022",
+    "citation_label": "Glyde et~al.(2024)",
+    "year": "2024",
+    "doi": "10.2196/52143",
+    "url": "https://doi.org/10.2196/52143",
+    "formatted_apa": "Glyde, H. M. G., Morgan, C., Wilkinson, T. M. A., Nabney, I. T., \\& Dodd, J. W. (2024). Remote patient monitoring and machine learning in acute exacerbations of chronic obstructive pulmonary disease: Dual systematic literature review and narrative synthesis. \\textit{Journal of Medical Internet Research}, \\textit{26}, e52143. \\url{https://doi.org/10.2196/52143}",
+    "verification_status": "Verified against Crossref and PubMed metadata by the review authors"
+  },
+  {
+    "cite_key": "W023",
+    "citation_label": "Gonz{\\'a}lez et~al.(2018)",
+    "year": "2018",
+    "doi": "10.1164/rccm.201705-0860OC",
+    "url": "https://doi.org/10.1164/rccm.201705-0860OC",
+    "formatted_apa": "Gonz{\\'a}lez, G., Ash, S. Y., Vegas-S{\\'a}nchez-Ferrero, G., Onieva Onieva, J., Rahaghi, F. N., Ross, J. C., D{\\'i}az, A., San Jos{\\'e} Est{\\'e}par, R., \\& Washko, G. R. (2018). Disease staging and prognosis in smokers using deep learning in chest computed tomography. \\textit{American Journal of Respiratory and Critical Care Medicine}, \\textit{197}(2), 193--203. \\url{https://doi.org/10.1164/rccm.201705-0860OC}",
+    "verification_status": "Verified against Crossref and PubMed metadata by the review authors"
+  },
+  {
+    "cite_key": "B137",
+    "citation_label": "Guo et~al.(2025)",
+    "year": "2025",
+    "doi": "10.3389/fgene.2025.1653163",
+    "url": "https://doi.org/10.3389/fgene.2025.1653163",
+    "formatted_apa": "Guo, H., Sun, W., Zhao, F., Yu, Y., Zhao, X., \\& Sun, D. (2025). Transcriptomic profiling reveals macrophage gene signatures associated with lactylation-related pathways in chronic obstructive pulmonary disease. \\textit{Frontiers in Genetics}, \\textit{16}, 1653163. \\url{https://doi.org/10.3389/fgene.2025.1653163}",
+    "verification_status": "Verified against Crossref and PubMed metadata by the review authors"
+  },
+  {
+    "cite_key": "W024",
+    "citation_label": "Haider et~al.(2019)",
+    "year": "2019",
+    "doi": "10.1007/s10916-019-1388-0",
+    "url": "https://doi.org/10.1007/s10916-019-1388-0",
+    "formatted_apa": "Haider, N. S., Singh, B. K., Periyasamy, R., \\& Behera, A. K. (2019). Respiratory sound based classification of chronic obstructive pulmonary disease: A risk stratification approach in machine learning paradigm. \\textit{Journal of Medical Systems}, \\textit{43}(8), 255. \\url{https://doi.org/10.1007/s10916-019-1388-0}",
+    "verification_status": "Verified against Crossref and PubMed metadata by the review authors"
+  },
+  {
+    "cite_key": "W025",
+    "citation_label": "Han et~al.(2021)",
+    "year": "2021",
+    "doi": "10.1164/rccm.202008-3328PP",
+    "url": "https://doi.org/10.1164/rccm.202008-3328PP",
+    "formatted_apa": "Han, M. K., Agusti, A., Celli, B. R., Criner, G. J., Halpin, D. M. G., Roche, N., Papi, A., Stockley, R. A., Wedzicha, J. A., \\& Vogelmeier, C. F. (2021). From GOLD 0 to pre-COPD. \\textit{American Journal of Respiratory and Critical Care Medicine}, \\textit{203}(4), 414--423. \\url{https://doi.org/10.1164/rccm.202008-3328PP}",
+    "verification_status": "Verified against Crossref and PubMed metadata by the review authors"
+  },
+  {
+    "cite_key": "W026",
+    "citation_label": "Han et~al.(2025)",
+    "year": "2025",
+    "doi": "10.1186/s12911-025-03065-w",
+    "url": "https://doi.org/10.1186/s12911-025-03065-w",
+    "formatted_apa": "Han, S., Lee, Y.-R., Lee, J.-H., Jeon, J., Min, C., Kim, K., Kim, D., Kim, M. P., Park, Y. M., An, U., \\& Moon, K. M. (2025). Deep learning-based cough classification using application-recorded sounds: A transfer learning approach with VGGish. \\textit{BMC Medical Informatics and Decision Making}, \\textit{25}(1), 228. \\url{https://doi.org/10.1186/s12911-025-03065-w}",
+    "verification_status": "Verified against Crossref and PubMed metadata by the review authors"
+  },
+  {
+    "cite_key": "B637",
+    "citation_label": "Hasenstab et~al.(2021)",
+    "year": "2021",
+    "doi": "10.1148/ryct.2021200477",
+    "url": "https://doi.org/10.1148/ryct.2021200477",
+    "formatted_apa": "Hasenstab, K. A., Yuan, N., Retson, T., Conrad, D. J., Kligerman, S., Lynch, D. A., \\& Hsiao, A. (2021). Automated CT staging of chronic obstructive pulmonary disease severity for predicting disease progression and mortality with a deep learning convolutional neural network. \\textit{Radiology: Cardiothoracic Imaging}, \\textit{3}(2), e200477. \\url{https://doi.org/10.1148/ryct.2021200477}",
+    "verification_status": "Verified against Crossref and PubMed metadata by the review authors"
+  },
+  {
+    "cite_key": "W027",
+    "citation_label": "Ho et~al.(2021)",
+    "year": "2021",
+    "doi": "10.1038/s41598-020-79336-5",
+    "url": "https://doi.org/10.1038/s41598-020-79336-5",
+    "formatted_apa": "Ho, T. T., Kim, T., Kim, W. J., Lee, C. H., Chae, K. J., Bak, S. H., Kwon, S. O., Jin, G. Y., Park, E.-K., \\& Choi, S. (2021). A 3D-CNN model with CT-based parametric response mapping for classifying COPD subjects. \\textit{Scientific Reports}, \\textit{11}(1), 34. \\url{https://doi.org/10.1038/s41598-020-79336-5}",
+    "verification_status": "Verified against Crossref and PubMed metadata by the review authors"
+  },
+  {
+    "cite_key": "T176",
+    "citation_label": "Hu et~al.(2026)",
+    "year": "2026",
+    "doi": "10.3791/72242",
+    "url": "https://doi.org/10.3791/72242",
+    "formatted_apa": "Hu, A., Hong, X., Ma, Y., Wu, J., Zeng, X., Xu, Y., \\& Li, H. (2026). UPP1 as a Diagnostic Biomarker: Insights from Integrative Bioinformatics and Immune Infiltration Analyses in COPD. \\textit{Journal of Visualized Experiments}, \\textit{235}(235), e72242. \\url{https://doi.org/10.3791/72242}",
+    "verification_status": "Verified against Crossref and PubMed metadata by the review authors"
+  },
+  {
+    "cite_key": "B293",
+    "citation_label": "Hu et~al.(2025a)",
+    "year": "2025",
+    "doi": "10.3390/biomedicines13082006",
+    "url": "https://doi.org/10.3390/biomedicines13082006",
+    "formatted_apa": "Hu, C., Qian, W., Wei, R., Liu, G., Jiang, Q., Sun, Z., \\& Li, H. (2025a). Identification of Novel Lactylation-Related Biomarkers for COPD Diagnosis Through Machine Learning and Experimental Validation. \\textit{Biomedicines}, \\textit{13}(8), 2006. \\url{https://doi.org/10.3390/biomedicines13082006}",
+    "verification_status": "Verified against Crossref and PubMed metadata by the review authors"
+  },
+  {
+    "cite_key": "B241",
+    "citation_label": "Hu et~al.(2025b)",
+    "year": "2025",
+    "doi": "10.3389/fimmu.2025.1536551",
+    "url": "https://doi.org/10.3389/fimmu.2025.1536551",
+    "formatted_apa": "Hu, T., Duan, X., Gao, J., Li, Z., Xu, D., Jing, J., Li, F., Ding, J., Ma, L., Jiang, M., \\& Wang, J. (2025b). A comprehensive bioinformatics analysis of pathways and biomarkers shared between type 2 diabetes mellitus and chronic obstructive pulmonary disease. \\textit{Frontiers in Immunology}, \\textit{16}, 1536551. \\url{https://doi.org/10.3389/fimmu.2025.1536551}",
+    "verification_status": "Verified against Crossref and PubMed metadata by the review authors"
+  },
+  {
+    "cite_key": "T130",
+    "citation_label": "Hu et~al.(2025c)",
+    "year": "2025",
+    "doi": "10.2147/jir.s534626",
+    "url": "https://doi.org/10.2147/jir.s534626",
+    "formatted_apa": "Hu, W., Sun, J., Wang, M., Wang, Y., Mu, C., Yu, X., Yuan, P., Han, W., Li, Y., \\& Li, Q. (2025c). Development of Diagnostic and Predictive Models for COPD Based on Anoikis Resistance. \\textit{Journal of Inflammation Research}, \\textit{18}, 12263--12278. \\url{https://doi.org/10.2147/jir.s534626}",
+    "verification_status": "Verified against Crossref and PubMed metadata by the review authors"
+  },
+  {
+    "cite_key": "T143",
+    "citation_label": "Huang et~al.(2025)",
+    "year": "2025",
+    "doi": "10.3390/ijms26083907",
+    "url": "https://doi.org/10.3390/ijms26083907",
+    "formatted_apa": "Huang, S., Zhang, L., \\& Liu, X. (2025). Bioinformatics Approach to Identifying Molecular Targets of Isoliquiritigenin Affecting Chronic Obstructive Pulmonary Disease: A Machine Learning Pharmacology Study. \\textit{International Journal of Molecular Sciences}, \\textit{26}(8), 3907. \\url{https://doi.org/10.3390/ijms26083907}",
+    "verification_status": "Verified against Crossref and PubMed metadata by the review authors"
+  },
+  {
+    "cite_key": "W028",
+    "citation_label": "Humphries et~al.(2020)",
+    "year": "2020",
+    "doi": "10.1148/radiol.2019191022",
+    "url": "https://doi.org/10.1148/radiol.2019191022",
+    "formatted_apa": "Humphries, S. M., Notary, A. M., Centeno, J. P., Strand, M. J., Crapo, J. D., Silverman, E. K., \\& Lynch, D. A. (2020). Deep learning enables automatic classification of emphysema pattern at CT. \\textit{Radiology}, \\textit{294}(2), 434--444. \\url{https://doi.org/10.1148/radiol.2019191022}",
+    "verification_status": "Verified against Crossref and PubMed metadata by the review authors"
+  },
+  {
+    "cite_key": "T252",
+    "citation_label": "Jabbour et~al.(2022)",
+    "year": "2022",
+    "doi": "10.1093/jamia/ocac030",
+    "url": "https://doi.org/10.1093/jamia/ocac030",
+    "formatted_apa": "Jabbour, S., Fouhey, D., Kazerooni, E., Wiens, J., \\& Sjoding, M. W. (2022). Combining chest X-rays and electronic health record (EHR) data using machine learning to diagnose acute respiratory failure. \\textit{Journal of the American Medical Informatics Association}, \\textit{29}(6), 1060--1068. \\url{https://doi.org/10.1093/jamia/ocac030}",
+    "verification_status": "Verified against Crossref and PubMed metadata by the review authors"
+  },
+  {
+    "cite_key": "T083",
+    "citation_label": "Jeon et~al.(2025)",
+    "year": "2025",
+    "doi": "10.2196/69785",
+    "url": "https://doi.org/10.2196/69785",
+    "formatted_apa": "Jeon, E.-T., Park, H., Lee, J.-K., Heo, E. Y., Lee, C. H., Kim, D. K., Kim, D. H., \\& Lee, H. W. (2025). Deep Learning--Based Chronic Obstructive Pulmonary Disease Exacerbation Prediction Using Flow-Volume and Volume-Time Curve Imaging: Retrospective Cohort Study. \\textit{Journal of Medical Internet Research}, \\textit{27}, e69785. \\url{https://doi.org/10.2196/69785}",
+    "verification_status": "Verified against Crossref and PubMed metadata by the review authors"
+  },
+  {
+    "cite_key": "B271",
+    "citation_label": "Ji et~al.(2025)",
+    "year": "2025",
+    "doi": "10.1111/crj.70057",
+    "url": "https://doi.org/10.1111/crj.70057",
+    "formatted_apa": "Ji, Q., Meng, Y., Han, X., Yi, C., Chen, X., \\& Zhan, Y. (2025). Bioinformatic Insights and XGBoost Identify Shared Genetics in Chronic Obstructive Pulmonary Disease and Type 2 Diabetes. \\textit{The Clinical Respiratory Journal}, \\textit{19}(3), e70057. \\url{https://doi.org/10.1111/crj.70057}",
+    "verification_status": "Verified against Crossref and PubMed metadata by the review authors"
+  },
+  {
+    "cite_key": "T173",
+    "citation_label": "Jo et~al.(2023)",
+    "year": "2023",
+    "doi": "10.1038/s41598-023-45835-4",
+    "url": "https://doi.org/10.1038/s41598-023-45835-4",
+    "formatted_apa": "Jo, Y. S., Han, S., Lee, D., Min, K. H., Park, S. J., Yoon, H. K., Lee, W.-Y., Yoo, K. H., Jung, K.-S., \\& Rhee, C. K. (2023). Development of a daily predictive model for the exacerbation of chronic obstructive pulmonary disease. \\textit{Scientific Reports}, \\textit{13}(1), 18669. \\url{https://doi.org/10.1038/s41598-023-45835-4}",
+    "verification_status": "Verified against Crossref and PubMed metadata by the review authors"
+  },
+  {
+    "cite_key": "W029",
+    "citation_label": "Kapatais et~al.(2026)",
+    "year": "2026",
+    "doi": "10.1183/23120541.01420-2025",
+    "url": "https://doi.org/10.1183/23120541.01420-2025",
+    "formatted_apa": "Kapatais, C., Karaoulani, T., Papanikolaou, A., Koukaki, E., Bakakos, A., Anagnostopoulou, C., Papaioannou, A. I., Bakakos, P., \\& Rovina, N. (2026). The role of artificial intelligence in predicting COPD exacerbations using multimodal data: A systematic review. \\textit{ERJ Open Research}, \\textit{12}(3), 01420-2025. \\url{https://doi.org/10.1183/23120541.01420-2025}",
+    "verification_status": "Verified against Crossref and PubMed metadata by the review authors"
+  },
+  {
+    "cite_key": "W030",
+    "citation_label": "Khanaghavalle \\& Anitha(2026)",
+    "year": "2026",
+    "doi": "10.1007/s11760-026-05179-8",
+    "url": "https://doi.org/10.1007/s11760-026-05179-8",
+    "formatted_apa": "Khanaghavalle, G. R., \\& Anitha, R. (2026). A vision transformer-based approach for COPD detection using hybrid time-frequency audio features. \\textit{Signal, Image and Video Processing}, \\textit{20}, 05179. \\url{https://doi.org/10.1007/s11760-026-05179-8}",
+    "verification_status": "Verified against Crossref and PubMed metadata by the review authors"
+  },
+  {
+    "cite_key": "T217",
+    "citation_label": "Kocks et~al.(2023)",
+    "year": "2023",
+    "doi": "10.1016/j.jaip.2023.01.017",
+    "url": "https://doi.org/10.1016/j.jaip.2023.01.017",
+    "formatted_apa": "Kocks, J. W. H., Cao, H., Holzhauer, B., Kaplan, A., FitzGerald, J. M., Kostikas, K., Price, D., Reddel, H. K., Tsiligianni, I., Vogelmeier, C. F., Bostel, S., \\& Mastoridis, P. (2023). Diagnostic performance of a machine learning algorithm (asthma/chronic obstructive pulmonary disease [COPD] differentiation classification) tool versus primary care physicians and pulmonologists in asthma, COPD, and asthma/COPD overlap. \\textit{The Journal of Allergy and Clinical Immunology: In Practice}, \\textit{11}(5), 1463--1474.e3. \\url{https://doi.org/10.1016/j.jaip.2023.01.017}",
+    "verification_status": "Verified against Crossref and PubMed metadata by the review authors"
+  },
+  {
+    "cite_key": "B486",
+    "citation_label": "Kumar et~al.(2024)",
+    "year": "2024",
+    "doi": "10.1016/j.cmpb.2023.107911",
+    "url": "https://doi.org/10.1016/j.cmpb.2023.107911",
+    "formatted_apa": "Kumar, S., Bhagat, V., Sahu, P., Chaube, M. K., Behera, A. K., Guizani, M., Gravina, R., Di Dio, M., Fortino, G., Curry, E., \\& Alsamhi, S. H. (2024). A novel multimodal framework for early diagnosis and classification of COPD based on CT scan images and multivariate pulmonary respiratory diseases. \\textit{Computer Methods and Programs in Biomedicine}, \\textit{243}, 107911. \\url{https://doi.org/10.1016/j.cmpb.2023.107911}",
+    "verification_status": "Verified against Crossref and PubMed metadata by the review authors"
+  },
+  {
+    "cite_key": "W032",
+    "citation_label": "Lamprecht et~al.(2015)",
+    "year": "2015",
+    "doi": "10.1378/chest.14-2535",
+    "url": "https://doi.org/10.1378/chest.14-2535",
+    "formatted_apa": "Lamprecht, B., Soriano, J. B., Studnicka, M., Kaiser, B., Vanfleteren, L. E., Gnatiuc, L., Burney, P., Miravitlles, M., Garc{\\'i}a-Rio, F., Akbari, K., Ancochea, J., Menezes, A. M., Perez-Padilla, R., Montes de Oca, M., T{\\'a}lamo, C., N{\\'i}zankowska-Mogilnicka, E., \\& Buist, A. S. (2015). Determinants of underdiagnosis of COPD in national and international surveys. \\textit{Chest}, \\textit{148}(4), 971--985. \\url{https://doi.org/10.1378/chest.14-2535}",
+    "verification_status": "Verified against Crossref and PubMed metadata by the review authors"
+  },
+  {
+    "cite_key": "W033",
+    "citation_label": "LeCun et~al.(2015)",
+    "year": "2015",
+    "doi": "10.1038/nature14539",
+    "url": "https://doi.org/10.1038/nature14539",
+    "formatted_apa": "LeCun, Y., Bengio, Y., \\& Hinton, G. (2015). Deep learning. \\textit{Nature}, \\textit{521}(7553), 436--444. \\url{https://doi.org/10.1038/nature14539}",
+    "verification_status": "Verified against Crossref and PubMed metadata by the review authors"
+  },
+  {
+    "cite_key": "B036",
+    "citation_label": "Lee et~al.(2026)",
+    "year": "2026",
+    "doi": "10.1038/s41420-026-03020-2",
+    "url": "https://doi.org/10.1038/s41420-026-03020-2",
+    "formatted_apa": "Lee, C. M., Kim, J., Song, J., Kim, A. S., Jo, S., Hwang, N., Jeong, J. W., Kim, M., Shin, S. J., Fang, S., \\& Yoon, B. K. (2026). Endothelial cell senescence shapes T cell activity in late-stage of chronic obstructive pulmonary disease. \\textit{Cell Death Discovery}, \\textit{12}(1), 160. \\url{https://doi.org/10.1038/s41420-026-03020-2}",
+    "verification_status": "Verified against Crossref and PubMed metadata by the review authors"
+  },
+  {
+    "cite_key": "B056",
+    "citation_label": "Lei et~al.(2026)",
+    "year": "2026",
+    "doi": "10.1186/s41065-026-00682-x",
+    "url": "https://doi.org/10.1186/s41065-026-00682-x",
+    "formatted_apa": "Lei, J., Zhang, J., Yang, L., \\& Chen, Y. (2026). Identification and validation of biomarkers related to lysine $\\beta$-hydroxybutyrylation in chronic obstructive pulmonary disease based on transcriptomics data. \\textit{Hereditas}, \\textit{163}(1), 74. \\url{https://doi.org/10.1186/s41065-026-00682-x}",
+    "verification_status": "Verified against Crossref and PubMed metadata by the review authors"
+  },
+  {
+    "cite_key": "T151",
+    "citation_label": "Li et~al.(2025a)",
+    "year": "2025",
+    "doi": "10.1186/s12931-025-03250-5",
+    "url": "https://doi.org/10.1186/s12931-025-03250-5",
+    "formatted_apa": "Li, B., Liu, J., Cao, Y., Wang, Y., Wu, S., Hu, H., Xiao, X., Hu, J., Wang, Q., Wu, J., Luo, L., Liu, Y., Tang, Q., Xing, Y., Zhang, T., Zhou, J., Wang, L., Yang, J., Wang, J., \\& Wang, C. (2025a). Multi-omics characterization of early chronic obstructive pulmonary disease. \\textit{Respiratory Research}, \\textit{26}(1), 167. \\url{https://doi.org/10.1186/s12931-025-03250-5}",
+    "verification_status": "Verified against Crossref and PubMed metadata by the review authors"
+  },
+  {
+    "cite_key": "B009",
+    "citation_label": "Li et~al.(2026a)",
+    "year": "2026",
+    "doi": "10.1038/s41467-026-77040-y",
+    "url": "https://doi.org/10.1038/s41467-026-77040-y",
+    "formatted_apa": "Li, C., Yao, J., Wu, F., Zhu, L., Zhang, X., Peng, L., Cui, J., Fang, S., Lin, L., Peng, W., Lei, M., Fang, M., Wang, C., Chen, B., Gui, Z., Wang, X., Jin, Y., Zhu, B., Lu, C., . . . Hu, W. (2026a). Plasma metabolomic signatures enable the diagnosis and prognosis of chronic obstructive pulmonary disease. \\textit{Nature Communications}, \\textit{17}(1), 10098. \\url{https://doi.org/10.1038/s41467-026-77040-y}",
+    "verification_status": "Verified against Crossref and PubMed metadata by the review authors"
+  },
+  {
+    "cite_key": "B060",
+    "citation_label": "Li et~al.(2025b)",
+    "year": "2025",
+    "doi": "10.2147/copd.s548160",
+    "url": "https://doi.org/10.2147/copd.s548160",
+    "formatted_apa": "Li, J., Li, G., Liu, J., Li, L., Zhou, H., Fei, X., Wen, Y., \\& Zhao, D. (2025b). ER Stress-Related Biomarkers in Chronic Obstructive Pulmonary Disease: A Comprehensive Transcriptome, Mendelian Randomization, and Machine-Learning Analysis. \\textit{International Journal of Chronic Obstructive Pulmonary Disease}, \\textit{20}, 3803--3818. \\url{https://doi.org/10.2147/copd.s548160}",
+    "verification_status": "Verified against Crossref and PubMed metadata by the review authors"
+  },
+  {
+    "cite_key": "B040",
+    "citation_label": "Li et~al.(2026b)",
+    "year": "2026",
+    "doi": "10.2147/copd.s596649",
+    "url": "https://doi.org/10.2147/copd.s596649",
+    "formatted_apa": "Li, Q., Xue, D., Yu, J., Yang, M., Zhang, Y., \\& Obuli, R. (2026b). Identification of Th17 Cell-Associated Biomarkers and Their Potential Regulatory Mechanisms in Chronic Obstructive Pulmonary Disease Through Integrated Bioinformatics Analysis and Machine Learning. \\textit{International Journal of Chronic Obstructive Pulmonary Disease}, \\textit{21}, 1--19. \\url{https://doi.org/10.2147/copd.s596649}",
+    "verification_status": "Verified against Crossref and PubMed metadata by the review authors"
+  },
+  {
+    "cite_key": "B209",
+    "citation_label": "Li et~al.(2025c)",
+    "year": "2025",
+    "doi": "10.1186/s12920-024-02076-2",
+    "url": "https://doi.org/10.1186/s12920-024-02076-2",
+    "formatted_apa": "Li, S., Zhu, Q., Huang, A., Lan, Y., Wei, X., He, H., Meng, X., Li, W., Lin, Y., \\& Yang, S. (2025c). A machine learning model and identification of immune infiltration for chronic obstructive pulmonary disease based on disulfidptosis-related genes. \\textit{BMC Medical Genomics}, \\textit{18}(1), 7. \\url{https://doi.org/10.1186/s12920-024-02076-2}",
+    "verification_status": "Verified against Crossref and PubMed metadata by the review authors"
+  },
+  {
+    "cite_key": "T040",
+    "citation_label": "Li et~al.(2026c)",
+    "year": "2026",
+    "doi": "10.2147/copd.s604522",
+    "url": "https://doi.org/10.2147/copd.s604522",
+    "formatted_apa": "Li, X., Wang, J., Hu, Z., Chen, S., \\& Liu, C. (2026c). Identification and Validation of Mannose Metabolism-Related Biomarkers in COPD Through Integrated Bioinformatics and Machine Learning Analysis: A Pilot Study. \\textit{International Journal of Chronic Obstructive Pulmonary Disease}, \\textit{21}, 1--17. \\url{https://doi.org/10.2147/copd.s604522}",
+    "verification_status": "Verified against Crossref and PubMed metadata by the review authors"
+  },
+  {
+    "cite_key": "B357",
+    "citation_label": "Li et~al.(2025d)",
+    "year": "2025",
+    "doi": "10.2147/copd.s510846",
+    "url": "https://doi.org/10.2147/copd.s510846",
+    "formatted_apa": "Li, X., Xiao, Y., Yang, M., Zhang, X., Yuan, Z., Zhang, Z., Zhang, H., Liu, L., \\& Zhao, M. (2025d). Identifying Common Diagnostic Biomarkers and Therapeutic Targets between COPD and Sepsis: A Bioinformatics and Machine Learning Approach. \\textit{International Journal of Chronic Obstructive Pulmonary Disease}, \\textit{20}, 1761--1786. \\url{https://doi.org/10.2147/copd.s510846}",
+    "verification_status": "Verified against Crossref and PubMed metadata by the review authors"
+  },
+  {
+    "cite_key": "T116",
+    "citation_label": "Li et~al.(2026d)",
+    "year": "2026",
+    "doi": "10.1186/s12931-026-03702-6",
+    "url": "https://doi.org/10.1186/s12931-026-03702-6",
+    "formatted_apa": "Li, Y., Bu, X., Geng, Z., Dai, N., Fu, B., Deng, R., \\& Fu, X. (2026d). Interpretable machine learning for predicting in-hospital mortality in COPD ICU patients: a rigorous validation across time and geography. \\textit{Respiratory Research}, \\textit{27}(1), 283. \\url{https://doi.org/10.1186/s12931-026-03702-6}",
+    "verification_status": "Verified against Crossref and PubMed metadata by the review authors"
+  },
+  {
+    "cite_key": "T177",
+    "citation_label": "Lin et~al.(2025)",
+    "year": "2025",
+    "doi": "10.1016/j.eclinm.2025.103166",
+    "url": "https://doi.org/10.1016/j.eclinm.2025.103166",
+    "formatted_apa": "Lin, F., Zhang, Z., Wang, J., Liang, C., Xu, J., Zeng, X., Zeng, Q., Chen, H., Zhuang, J., Ma, Y., Ma, Q., Shi, R., Xu, J., Li, Y., Yuan, L., Wei, X., Wu, L., Huang, R., Xiao, T., . . . Lu, W. (2025). AutoCOPD--A novel and practical machine learning model for COPD detection using whole-lung inspiratory quantitative CT measurements: a retrospective, multicenter study. \\textit{eClinicalMedicine}, \\textit{82}, 103166. \\url{https://doi.org/10.1016/j.eclinm.2025.103166}",
+    "verification_status": "Verified against Crossref and PubMed metadata by the review authors"
+  },
+  {
+    "cite_key": "T002",
+    "citation_label": "Lin et~al.(2026)",
+    "year": "2026",
+    "doi": "10.21037/jtd-2026-0549",
+    "url": "https://doi.org/10.21037/jtd-2026-0549",
+    "formatted_apa": "Lin, J., Zhang, Y., Lu, S., Zhao, H., Zhu, C., Du, H., Zheng, Y., Bian, H., \\& Qian, H. (2026). Predicting the progression risk of chronic obstructive pulmonary disease in high-risk individuals based on whole-lung radiomics and deep learning: a multicenter study. \\textit{Journal of Thoracic Disease}, \\textit{18}(6), 601. \\url{https://doi.org/10.21037/jtd-2026-0549}",
+    "verification_status": "Verified against Crossref and PubMed metadata by the review authors"
+  },
+  {
+    "cite_key": "W035",
+    "citation_label": "Liu et~al.(2024)",
+    "year": "2024",
+    "doi": "10.7717/peerj.16950",
+    "url": "https://doi.org/10.7717/peerj.16950",
+    "formatted_apa": "Liu, G., Hu, J., Yang, J., \\& Song, J. (2024). Predicting early-onset COPD risk in adults aged 20--50 using electronic health records and machine learning. \\textit{PeerJ}, \\textit{12}, e16950. \\url{https://doi.org/10.7717/peerj.16950}",
+    "verification_status": "Verified against Crossref and PubMed metadata by the review authors"
+  },
+  {
+    "cite_key": "T077",
+    "citation_label": "Liu et~al.(2026a)",
+    "year": "2026",
+    "doi": "10.1007/s00011-026-02294-7",
+    "url": "https://doi.org/10.1007/s00011-026-02294-7",
+    "formatted_apa": "Liu, L., Jiang, M., Lei, M., Du, K., Ye, X., Wei, D., Tan, X., Mi, Z., Tang, Y., Sun, R., \\& Liu, S. (2026a). Integrative multi-omics identifies CYP1B1 as a candidate molecular link between toxicant exposure and ferroptosis-related epithelial stress in COPD. \\textit{Inflammation Research}, \\textit{75}(1), 173. \\url{https://doi.org/10.1007/s00011-026-02294-7}",
+    "verification_status": "Verified against Crossref and PubMed metadata by the review authors"
+  },
+  {
+    "cite_key": "CONSORTAI",
+    "citation_label": "Liu et~al.(2020)",
+    "year": "2020",
+    "doi": "10.1038/s41591-020-1034-x",
+    "url": "https://doi.org/10.1038/s41591-020-1034-x",
+    "formatted_apa": "Liu, X., Cruz Rivera, S., Moher, D., Calvert, M. J., Denniston, A. K., Chan, A.-W., Darzi, A., Holmes, C., Yau, C., Ashrafian, H., Deeks, J. J., Ferrante di Ruffano, L., Faes, L., Keane, P. A., Vollmer, S. J., Lee, A. Y., Jonas, A., Esteva, A., Beam, A. L., . . . Rowley, S. (2020). Reporting guidelines for clinical trial reports for interventions involving artificial intelligence: the CONSORT-AI extension. \\textit{Nature Medicine}, \\textit{26}(9), 1364--1374. \\url{https://doi.org/10.1038/s41591-020-1034-x}",
+    "verification_status": "Verified against Crossref and PubMed metadata by the review authors"
+  },
+  {
+    "cite_key": "B032",
+    "citation_label": "Liu et~al.(2026b)",
+    "year": "2026",
+    "doi": "10.2147/copd.s615813",
+    "url": "https://doi.org/10.2147/copd.s615813",
+    "formatted_apa": "Liu, X., Wang, L., Tang, T., Qian, H., He, B., Xu, Z., Wang, G., \\& Zhang, M. (2026b). Bioinformatics Screening and Preliminary Experimental Verification of Integrated Stress Response-Associated MYC and BAG3 in Chronic Obstructive Pulmonary Disease. \\textit{International Journal of Chronic Obstructive Pulmonary Disease}, \\textit{21}, 1--26. \\url{https://doi.org/10.2147/copd.s615813}",
+    "verification_status": "Verified against Crossref and PubMed metadata by the review authors"
+  },
+  {
+    "cite_key": "T062",
+    "citation_label": "Liu et~al.(2026c)",
+    "year": "2026",
+    "doi": "10.3389/fmed.2026.1806614",
+    "url": "https://doi.org/10.3389/fmed.2026.1806614",
+    "formatted_apa": "Liu, Y., Zhou, Y., Zhang, Y., Tan, J., \\& Gong, J. (2026c). Multimodal machine learning predicts type 2 respiratory failure in COPD exacerbations: a multicenter XGBoost model with clinical nomogram. \\textit{Frontiers in Medicine}, \\textit{13}, 1806614. \\url{https://doi.org/10.3389/fmed.2026.1806614}",
+    "verification_status": "Verified against Crossref and PubMed metadata by the review authors"
+  },
+  {
+    "cite_key": "Lundberg2017",
+    "citation_label": "Lundberg \\& Lee(2017)",
+    "year": "2017",
+    "doi": "",
+    "url": "",
+    "formatted_apa": "Lundberg, S. M., \\& Lee, S.-I. (2017). A unified approach to interpreting model predictions. \\textit{Advances in Neural Information Processing Systems}, \\textit{30}, 4765--4774.",
+    "verification_status": "Verified against Crossref and PubMed metadata by the review authors"
+  },
+  {
+    "cite_key": "B150",
+    "citation_label": "Luo et~al.(2024)",
+    "year": "2024",
+    "doi": "10.1038/s41598-024-71773-w",
+    "url": "https://doi.org/10.1038/s41598-024-71773-w",
+    "formatted_apa": "Luo, X., Zeng, W., Tang, J., Liu, W., Yang, J., Chen, H., Jiang, L., Zhou, X., Huang, J., Zhang, S., Du, L., Shen, X., Chi, H., \\& Wang, H. (2024). Multi-modal transcriptomic analysis reveals metabolic dysregulation and immune responses in chronic obstructive pulmonary disease. \\textit{Scientific Reports}, \\textit{14}(1), 22699. \\url{https://doi.org/10.1038/s41598-024-71773-w}",
+    "verification_status": "Verified against Crossref and PubMed metadata by the review authors"
+  },
+  {
+    "cite_key": "W037",
+    "citation_label": "Lynch et~al.(2018)",
+    "year": "2018",
+    "doi": "10.1148/radiol.2018172294",
+    "url": "https://doi.org/10.1148/radiol.2018172294",
+    "formatted_apa": "Lynch, D. A., Moore, C. M., Wilson, C., Nevrekar, D., Jennermann, T., Humphries, S. M., Austin, J. H. M., Grenier, P. A., Kauczor, H.-U., Han, M. K., Regan, E. A., Make, B. J., Bowler, R. P., Beaty, T. H., Curran-Everett, D., Hokanson, J. E., Curtis, J. L., Silverman, E. K., \\& Crapo, J. D. (2018). CT-based visual classification of emphysema: Association with mortality in the COPDGene study. \\textit{Radiology}, \\textit{288}(3), 859--866. \\url{https://doi.org/10.1148/radiol.2018172294}",
+    "verification_status": "Verified against Crossref and PubMed metadata by the review authors"
+  },
+  {
+    "cite_key": "T156",
+    "citation_label": "Ma et~al.(2025)",
+    "year": "2025",
+    "doi": "10.1007/s11547-025-02061-4",
+    "url": "https://doi.org/10.1007/s11547-025-02061-4",
+    "formatted_apa": "Ma, Z., Sun, Y., Ma, Z., Zhang, L., Cheng, F., Ma, H., Jin, L., \\& Li, M. (2025). Chest CT imaging for differentiating normal, PRISm, and COPD in comparison with pulmonary function tests. \\textit{La radiologia medica}, \\textit{130}(11), 1786--1796. \\url{https://doi.org/10.1007/s11547-025-02061-4}",
+    "verification_status": "Verified against Crossref and PubMed metadata by the review authors"
+  },
+  {
+    "cite_key": "A030",
+    "citation_label": "Maiorino et~al.(2026)",
+    "year": "2026",
+    "doi": "10.1038/s41467-026-72989-2",
+    "url": "https://doi.org/10.1038/s41467-026-72989-2",
+    "formatted_apa": "Maiorino, E., De Marzio, M., Xu, Z., Yun, J. H., Chase, R. P., Hersh, C. P., Sin, D. D., Weiss, S. T., Silverman, E. K., Castaldi, P. J., \\& Glass, K. (2026). Joint clinical and molecular subtyping of COPD with variational autoencoders. \\textit{Nature Communications}, \\textit{17}(1), 7046. \\url{https://doi.org/10.1038/s41467-026-72989-2}",
+    "verification_status": "Verified against Crossref and PubMed metadata by the review authors"
+  },
+  {
+    "cite_key": "T110",
+    "citation_label": "Makimoto et~al.(2026)",
+    "year": "2026",
+    "doi": "10.1016/j.chest.2026.07.5207",
+    "url": "https://doi.org/10.1016/j.chest.2026.07.5207",
+    "formatted_apa": "Makimoto, K., Smith, B. M., Reinhardt, J. M., Hague, C. J., Hogg, J. C., Bourbeau, J., Tan, W. C., \\& Kirby, M. (2026). Sex-specific machine learning improves prediction of incident and prevalent COPD. \\textit{Chest}, \\textit{169}, 5207. \\url{https://doi.org/10.1016/j.chest.2026.07.5207}",
+    "verification_status": "Verified against Crossref and PubMed metadata by the review authors"
+  },
+  {
+    "cite_key": "W039",
+    "citation_label": "Mei et~al.(2025)",
+    "year": "2025",
+    "doi": "10.1038/s41540-025-00489-y",
+    "url": "https://doi.org/10.1038/s41540-025-00489-y",
+    "formatted_apa": "Mei, S., Li, X., Zhou, Y., Xu, J., Zhang, Y., Wan, Y., Cao, S., Zhao, Q., Geng, S., Xie, J., Chen, S., \\& Hong, S. (2025). Deep learning for detecting and early predicting chronic obstructive pulmonary disease from spirogram time series. \\textit{npj Systems Biology and Applications}, \\textit{11}, 18. \\url{https://doi.org/10.1038/s41540-025-00489-y}",
+    "verification_status": "Verified against Crossref and PubMed metadata by the review authors"
+  },
+  {
+    "cite_key": "W040",
+    "citation_label": "Mei et~al.(2026)",
+    "year": "2026",
+    "doi": "10.1371/journal.pdig.0001300",
+    "url": "https://doi.org/10.1371/journal.pdig.0001300",
+    "formatted_apa": "Mei, S., Long, Y., Xiao, X., Cao, S., Han, X., Geng, S., Sun, J., Zhou, Y., \\& Hong, S. (2026). SpiroLLM: Finetuning pretrained LLMs to understand spirogram time series with clinical validation in COPD reporting. \\textit{PLOS Digital Health}, \\textit{5}(3), e0001300. \\url{https://doi.org/10.1371/journal.pdig.0001300}",
+    "verification_status": "Verified against Crossref and PubMed metadata by the review authors"
+  },
+  {
+    "cite_key": "B566",
+    "citation_label": "Meng et~al.(2022)",
+    "year": "2022",
+    "doi": "10.1016/j.envint.2022.107469",
+    "url": "https://doi.org/10.1016/j.envint.2022.107469",
+    "formatted_apa": "Meng, Q., Wang, J., Cui, J., Li, B., Wu, S., Yun, J., Aschner, M., Wang, C., Zhang, L., Li, X., \\& Chen, R. (2022). Prediction of COPD acute exacerbation in response to air pollution using exosomal circRNA profile and machine learning. \\textit{Environment International}, \\textit{168}, 107469. \\url{https://doi.org/10.1016/j.envint.2022.107469}",
+    "verification_status": "Verified against Crossref and PubMed metadata by the review authors"
+  },
+  {
+    "cite_key": "B557",
+    "citation_label": "Moll et~al.(2025)",
+    "year": "2025",
+    "doi": "10.1186/s12931-025-03320-8",
+    "url": "https://doi.org/10.1186/s12931-025-03320-8",
+    "formatted_apa": "Moll, M., Hobbs, B. D., Pratte, K. A., Zhang, C., Ghosh, A. J., Bowler, R. P., Lomas, D. A., Silverman, E. K., \\& DeMeo, D. L. (2025). Assessing inflammatory protein biomarkers in COPD subjects with and without alpha-1 antitrypsin deficiency. \\textit{Respiratory Research}, \\textit{26}(1), 247. \\url{https://doi.org/10.1186/s12931-025-03320-8}",
+    "verification_status": "Verified against Crossref and PubMed metadata by the review authors"
+  },
+  {
+    "cite_key": "C002",
+    "citation_label": "Moll et~al.(2020)",
+    "year": "2020",
+    "doi": "10.1016/j.chest.2020.02.079",
+    "url": "https://doi.org/10.1016/j.chest.2020.02.079",
+    "formatted_apa": "Moll, M., Qiao, D., Regan, E. A., Hunninghake, G. M., Make, B. J., Tal-Singer, R., McGeachie, M. J., Castaldi, P. J., San Jose Estepar, R., Washko, G. R., Wells, J. M., LaFon, D., Strand, M., Bowler, R. P., Han, M. K., Vestbo, J., Celli, B., Calverley, P., Crapo, J., \\& Cho, M. H. (2020). Machine learning and prediction of all-cause mortality in COPD. \\textit{Chest}, \\textit{158}(3), 952--964. \\url{https://doi.org/10.1016/j.chest.2020.02.079}",
+    "verification_status": "Verified against Crossref and PubMed metadata by the review authors"
+  },
+  {
+    "cite_key": "W042",
+    "citation_label": "Mongan et~al.(2020)",
+    "year": "2020",
+    "doi": "10.1148/ryai.2020200029",
+    "url": "https://doi.org/10.1148/ryai.2020200029",
+    "formatted_apa": "Mongan, J., Moy, L., \\& Kahn, C. E. (2020). Checklist for artificial intelligence in medical imaging (CLAIM): A guide for authors and reviewers. \\textit{Radiology: Artificial Intelligence}, \\textit{2}(2), e200029. \\url{https://doi.org/10.1148/ryai.2020200029}",
+    "verification_status": "Verified against Crossref and PubMed metadata by the review authors"
+  },
+  {
+    "cite_key": "W098",
+    "citation_label": "Montenegro et~al.(2026)",
+    "year": "2026",
+    "doi": "10.2196/84814",
+    "url": "https://doi.org/10.2196/84814",
+    "formatted_apa": "Montenegro, M., Gielen, J., Wang, C., Vanrumste, B., Ruttens, D., Knevels, R., \\& Aerts, J.-M. (2026). AI and Internet of Things for chronic obstructive pulmonary disease remote monitoring: Systematic review of exacerbation prediction and key physiological variables. \\textit{JMIR Medical Informatics}, \\textit{14}, e84814. \\url{https://doi.org/10.2196/84814}",
+    "verification_status": "Verified against Crossref and PubMed metadata by the review authors"
+  },
+  {
+    "cite_key": "PROBASTAI",
+    "citation_label": "Moons et~al.(2025)",
+    "year": "2025",
+    "doi": "10.1136/bmj-2024-082505",
+    "url": "https://doi.org/10.1136/bmj-2024-082505",
+    "formatted_apa": "Moons, K. G. M., Damen, J. A. A., Kaul, T., Hooft, L., Andaur Navarro, C., Dhiman, P., Beam, A. L., Van Calster, B., Celi, L. A., Denaxas, S., Denniston, A. K., Ghassemi, M., Heinze, G., Kengne, A. P., Maier-Hein, L., Liu, X., Logullo, P., McCradden, M. D., Liu, N., . . . van Smeden, M. (2025). PROBAST+AI: an updated quality, risk of bias, and applicability assessment tool for prediction models using regression or artificial intelligence methods. \\textit{BMJ}, \\textit{388}, e082505. \\url{https://doi.org/10.1136/bmj-2024-082505}",
+    "verification_status": "Verified against Crossref and PubMed metadata by the review authors"
+  },
+  {
+    "cite_key": "FoundationModels",
+    "citation_label": "Moor et~al.(2023)",
+    "year": "2023",
+    "doi": "10.1038/s41586-023-05881-4",
+    "url": "https://doi.org/10.1038/s41586-023-05881-4",
+    "formatted_apa": "Moor, M., Banerjee, O., Abad, Z. S. H., Krumholz, H. M., Leskovec, J., Topol, E. J., \\& Rajpurkar, P. (2023). Foundation models for generalist medical artificial intelligence. \\textit{Nature}, \\textit{616}(7956), 259--265. \\url{https://doi.org/10.1038/s41586-023-05881-4}",
+    "verification_status": "Verified against Crossref and PubMed metadata by the review authors"
+  },
+  {
+    "cite_key": "W045",
+    "citation_label": "Morales et~al.(2018)",
+    "year": "2018",
+    "doi": "10.1016/j.rmed.2018.04.003",
+    "url": "https://doi.org/10.1016/j.rmed.2018.04.003",
+    "formatted_apa": "Morales, D. R., Flynn, R., Zhang, J., Trucco, E., Quint, J. K., \\& Zutis, K. (2018). External validation of ADO, DOSE, COTE and CODEX at predicting death in primary care patients with COPD using standard and machine learning approaches. \\textit{Respiratory Medicine}, \\textit{138}, 150--155. \\url{https://doi.org/10.1016/j.rmed.2018.04.003}",
+    "verification_status": "Verified against Crossref and PubMed metadata by the review authors"
+  },
+  {
+    "cite_key": "T080",
+    "citation_label": "Mou et~al.(2026)",
+    "year": "2026",
+    "doi": "10.3389/fradi.2026.1829853",
+    "url": "https://doi.org/10.3389/fradi.2026.1829853",
+    "formatted_apa": "Mou, Y., Bian, X., Tian, N., Xia, Z., Shi, J., Li, M., Shao, Z., Qi, L., Ge, H., \\& Huang, M. (2026). Early identification of PRISm from chest CT: a multimodal for three-class stratification of normal, PRISm, and COPD. \\textit{Frontiers in Radiology}, \\textit{6}, 1829853. \\url{https://doi.org/10.3389/fradi.2026.1829853}",
+    "verification_status": "Verified against Crossref and PubMed metadata by the review authors"
+  },
+  {
+    "cite_key": "B610",
+    "citation_label": "Nadeem et~al.(2022)",
+    "year": "2022",
+    "doi": "10.1148/ryct.210311",
+    "url": "https://doi.org/10.1148/ryct.210311",
+    "formatted_apa": "Nadeem, S. A., Comellas, A. P., Hoffman, E. A., \\& Saha, P. K. (2022). Airway detection in COPD at low-dose CT using deep learning and multiparametric freeze and grow. \\textit{Radiology: Cardiothoracic Imaging}, \\textit{4}(6), e210311. \\url{https://doi.org/10.1148/ryct.210311}",
+    "verification_status": "Verified against Crossref and PubMed metadata by the review authors"
+  },
+  {
+    "cite_key": "T233",
+    "citation_label": "Nam et~al.(2022)",
+    "year": "2022",
+    "doi": "10.1148/radiol.212071",
+    "url": "https://doi.org/10.1148/radiol.212071",
+    "formatted_apa": "Nam, J. G., Kang, H.-R., Lee, S. M., Kim, H., Rhee, C., Goo, J. M., Oh, Y.-M., Lee, C.-H., \\& Park, C. M. (2022). Deep learning prediction of survival in patients with chronic obstructive pulmonary disease using chest radiographs. \\textit{Radiology}, \\textit{305}(1), 199--208. \\url{https://doi.org/10.1148/radiol.212071}",
+    "verification_status": "Verified against Crossref and PubMed metadata by the review authors"
+  },
+  {
+    "cite_key": "T291",
+    "citation_label": "Nam et~al.(2021)",
+    "year": "2021",
+    "doi": "10.1007/s00330-021-08036-z",
+    "url": "https://doi.org/10.1007/s00330-021-08036-z",
+    "formatted_apa": "Nam, J. G., Witanto, J. N., Park, S. J., Yoo, S. J., Goo, J. M., \\& Yoon, S. H. (2021). Automatic pulmonary vessel segmentation on noncontrast chest CT: deep learning algorithm developed using spatiotemporally matched virtual noncontrast images and low-keV contrast-enhanced vessel maps. \\textit{European Radiology}, \\textit{31}(12), 9012--9021. \\url{https://doi.org/10.1007/s00330-021-08036-z}",
+    "verification_status": "Verified against Crossref and PubMed metadata by the review authors"
+  },
+  {
+    "cite_key": "W047",
+    "citation_label": "Naqvi \\& Choudhry(2020)",
+    "year": "2020",
+    "doi": "10.3390/s20226512",
+    "url": "https://doi.org/10.3390/s20226512",
+    "formatted_apa": "Naqvi, S. Z. H., \\& Choudhry, M. A. (2020). An automated system for classification of chronic obstructive pulmonary disease and pneumonia patients using lung sound analysis. \\textit{Sensors}, \\textit{20}(22), 6512. \\url{https://doi.org/10.3390/s20226512}",
+    "verification_status": "Verified against Crossref and PubMed metadata by the review authors"
+  },
+  {
+    "cite_key": "W048",
+    "citation_label": "Niraula et~al.(2025)",
+    "year": "2025",
+    "doi": "10.3389/fdgth.2025.1641356",
+    "url": "https://doi.org/10.3389/fdgth.2025.1641356",
+    "formatted_apa": "Niraula, P., Upreti, M., Kadariya, S., Poudel, B., Kadariya, S., \\& Kunwar, S. (2025). AI/ML-driven prediction of COPD exacerbations and readmissions: A systematic review and meta-analysis. \\textit{Frontiers in Digital Health}, \\textit{7}, 1641356. \\url{https://doi.org/10.3389/fdgth.2025.1641356}",
+    "verification_status": "Verified against Crossref and PubMed metadata by the review authors"
+  },
+  {
+    "cite_key": "W049",
+    "citation_label": "Oh et~al.(2022)",
+    "year": "2022",
+    "doi": "10.1148/radiol.213054",
+    "url": "https://doi.org/10.1148/radiol.213054",
+    "formatted_apa": "Oh, A. S., Baraghoshi, D., Lynch, D. A., Ash, S. Y., Crapo, J. D., \\& Humphries, S. M. (2022). Emphysema progression at CT by deep learning predicts functional impairment and mortality: Results from the COPDGene study. \\textit{Radiology}, \\textit{304}(3), 672--679. \\url{https://doi.org/10.1148/radiol.213054}",
+    "verification_status": "Verified against Crossref and PubMed metadata by the review authors"
+  },
+  {
+    "cite_key": "PRISMA2020",
+    "citation_label": "Page et~al.(2021)",
+    "year": "2021",
+    "doi": "10.1136/bmj.n71",
+    "url": "https://doi.org/10.1136/bmj.n71",
+    "formatted_apa": "Page, M. J., McKenzie, J. E., Bossuyt, P. M., Boutron, I., Hoffmann, T. C., Mulrow, C. D., Shamseer, L., Tetzlaff, J. M., Akl, E. A., Brennan, S. E., Chou, R., Glanville, J., Grimshaw, J. M., Hr\u00f3bjartsson, A., Lalu, M. M., Li, T., Loder, E. W., Mayo-Wilson, E., McDonald, S., . . . Moher, D. (2021). The PRISMA 2020 statement: an updated guideline for reporting systematic reviews. \\textit{BMJ}, \\textit{372}, n71. \\url{https://doi.org/10.1136/bmj.n71}",
+    "verification_status": "Verified against Crossref and PubMed metadata by the review authors"
+  },
+  {
+    "cite_key": "T108",
+    "citation_label": "Peng et~al.(2025a)",
+    "year": "2025",
+    "doi": "10.1186/s12911-025-03281-4",
+    "url": "https://doi.org/10.1186/s12911-025-03281-4",
+    "formatted_apa": "Peng, H., Zhou, Y., Lu, S., Nie, Y., Zhang, J., \\& Yang, J. (2025a). Predicting the frequent exacerbator phenotype in COPD: development and validation of a multicenter real-world prediction model. \\textit{BMC Medical Informatics and Decision Making}, \\textit{25}(1), 443. \\url{https://doi.org/10.1186/s12911-025-03281-4}",
+    "verification_status": "Verified against Crossref and PubMed metadata by the review authors"
+  },
+  {
+    "cite_key": "B217",
+    "citation_label": "Peng et~al.(2025b)",
+    "year": "2025",
+    "doi": "10.1038/s41598-025-99002-y",
+    "url": "https://doi.org/10.1038/s41598-025-99002-y",
+    "formatted_apa": "Peng, M., Jiang, C., Dai, Z., Xie, B., Chen, Q., \\& Lin, J. (2025b). Identification and verification of mitochondria-related genes biomarkers associated with immune infiltration for COPD using WGCNA and machine learning algorithms. \\textit{Scientific Reports}, \\textit{15}(1), 14347. \\url{https://doi.org/10.1038/s41598-025-99002-y}",
+    "verification_status": "Verified against Crossref and PubMed metadata by the review authors"
+  },
+  {
+    "cite_key": "B232",
+    "citation_label": "Peng et~al.(2025c)",
+    "year": "2025",
+    "doi": "10.1111/ceo.14501",
+    "url": "https://doi.org/10.1111/ceo.14501",
+    "formatted_apa": "Peng, Q., Rim, T. H., Soh, Z. D., Chee, M. L., Tham, Y.-C., Zhu, Z., Nusinovici, S., Sabanayagam, C., Leem, A. Y., Lee, C. J., Lee, B. K., Park, S., Kim, S. S., Kim, H. C., Yu, M. C. Y., Wong, T. Y., \\& Cheng, C.-Y. (2025c). Predictive potential of retina-based biological age in assessing chronic obstructive pulmonary disease risk. \\textit{Clinical \\& Experimental Ophthalmology}, \\textit{53}(4), 402--408. \\url{https://doi.org/10.1111/ceo.14501}",
+    "verification_status": "Verified against Crossref and PubMed metadata by the review authors"
+  },
+  {
+    "cite_key": "T044",
+    "citation_label": "Qiao et~al.(2026)",
+    "year": "2026",
+    "doi": "10.21037/jtd-2025-1-2558",
+    "url": "https://doi.org/10.21037/jtd-2025-1-2558",
+    "formatted_apa": "Qiao, R., Zhang, W., Huang, F., Zhang, Y., Liu, J., Wang, Q., Zhou, L., Wang, H., Liang, X., \\& Miao, L. (2026). Automated identification of chronic obstructive pulmonary disease and asthma using impulse oscillometry combined with quantitative computed tomography parameters and radiomics features. \\textit{Journal of Thoracic Disease}, \\textit{18}(4), 357. \\url{https://doi.org/10.21037/jtd-2025-1-2558}",
+    "verification_status": "Verified against Crossref and PubMed metadata by the review authors"
+  },
+  {
+    "cite_key": "B165",
+    "citation_label": "Qu et~al.(2025)",
+    "year": "2025",
+    "doi": "10.1155/ijog/7060748",
+    "url": "https://doi.org/10.1155/ijog/7060748",
+    "formatted_apa": "Qu, J., Zhang, M., Hu, Y., Yang, G., Zhang, X., Zhang, W., \\& Qu, Y. (2025). Identifying the Key Mitochondria-Related Genes in COPD by Integrating Machine Learning and Bioinformatics Analyses. \\textit{International Journal of Genomics}, \\textit{2025}(1), 7060748. \\url{https://doi.org/10.1155/ijog/7060748}",
+    "verification_status": "Verified against Crossref and PubMed metadata by the review authors"
+  },
+  {
+    "cite_key": "W050",
+    "citation_label": "Regan et~al.(2010)",
+    "year": "2010",
+    "doi": "10.3109/15412550903499522",
+    "url": "https://doi.org/10.3109/15412550903499522",
+    "formatted_apa": "Regan, E. A., Hokanson, J. E., Murphy, J. R., Make, B., Lynch, D. A., Beaty, T. H., Curran-Everett, D., Silverman, E. K., \\& Crapo, J. D. (2010). Genetic epidemiology of COPD (COPDGene) study design. \\textit{COPD: Journal of Chronic Obstructive Pulmonary Disease}, \\textit{7}(1), 32--43. \\url{https://doi.org/10.3109/15412550903499522}",
+    "verification_status": "Verified against Crossref and PubMed metadata by the review authors"
+  },
+  {
+    "cite_key": "PRISMAS",
+    "citation_label": "Rethlefsen et~al.(2021)",
+    "year": "2021",
+    "doi": "10.1186/s13643-020-01542-z",
+    "url": "https://doi.org/10.1186/s13643-020-01542-z",
+    "formatted_apa": "Rethlefsen, M. L., Kirtley, S., Waffenschmidt, S., Ayala, A. P., Moher, D., Page, M. J., Koffel, J. B., Blunt, H., Brigham, T., Chang, S., Clark, J., Conway, A., Couban, R., de Kock, S., Farrah, K., Fehrmann, P., Foster, M., Fowler, S. A., Glanville, J., . . . Young, S. (2021). PRISMA-S: an extension to the PRISMA Statement for Reporting Literature Searches in Systematic Reviews. \\textit{Systematic Reviews}, \\textit{10}(1), 39. \\url{https://doi.org/10.1186/s13643-020-01542-z}",
+    "verification_status": "Verified against Crossref and PubMed metadata by the review authors"
+  },
+  {
+    "cite_key": "W051",
+    "citation_label": "Rieke et~al.(2020)",
+    "year": "2020",
+    "doi": "10.1038/s41746-020-00323-1",
+    "url": "https://doi.org/10.1038/s41746-020-00323-1",
+    "formatted_apa": "Rieke, N., Hancox, J., Li, W., Milletari, F., Roth, H. R., Albarqouni, S., Bakas, S., Galtier, M. N., Landman, B. A., Maier-Hein, K., Ourselin, S., Sheller, M., Summers, R. M., Trask, A., Xu, D., Baust, M., \\& Cardoso, M. J. (2020). The future of digital health with federated learning. \\textit{npj Digital Medicine}, \\textit{3}, 119. \\url{https://doi.org/10.1038/s41746-020-00323-1}",
+    "verification_status": "Verified against Crossref and PubMed metadata by the review authors"
+  },
+  {
+    "cite_key": "W052",
+    "citation_label": "Riley et~al.(2020)",
+    "year": "2020",
+    "doi": "10.1136/bmj.m441",
+    "url": "https://doi.org/10.1136/bmj.m441",
+    "formatted_apa": "Riley, R. D., Ensor, J., Snell, K. I. E., Harrell, F. E., Martin, G. P., Reitsma, J. B., Moons, K. G. M., Collins, G. S., \\& van Smeden, M. (2020). Calculating the sample size required for developing a clinical prediction model. \\textit{BMJ}, \\textit{368}, m441. \\url{https://doi.org/10.1136/bmj.m441}",
+    "verification_status": "Verified against Crossref and PubMed metadata by the review authors"
+  },
+  {
+    "cite_key": "W053",
+    "citation_label": "Rocha et~al.(2018)",
+    "year": "2018",
+    "doi": "10.1007/978-981-10-7419-6_6",
+    "url": "https://doi.org/10.1007/978-981-10-7419-6_6",
+    "formatted_apa": "Rocha, B. M., Filos, D., Mendes, L., Vogiatzis, I., Perantoni, E., Kaimakamis, E., Natsiavas, P., Oliveira, A., J{\\'a}come, C., Marques, A., Paiva, R. P., Chouvarda, I., Carvalho, P., \\& Maglaveras, N. (2018). An open access database for the evaluation of respiratory sound classification algorithms. \\textit{Precision Medicine Powered by pHealth and Connected Health (IFMBE Proceedings)}, \\textit{66}, 33--37. \\url{https://doi.org/10.1007/978-981-10-7419-6_6}",
+    "verification_status": "Verified against Crossref and PubMed metadata by the review authors"
+  },
+  {
+    "cite_key": "A020",
+    "citation_label": "Safari et~al.(2022)",
+    "year": "2022",
+    "doi": "10.1016/j.eclinm.2022.101574",
+    "url": "https://doi.org/10.1016/j.eclinm.2022.101574",
+    "formatted_apa": "Safari, A., Adibi, A., Sin, D. D., Lee, T. Y., Ho, J. K., \\& Sadatsafavi, M. (2022). ACCEPT 2.0: Recalibrating and externally validating the Acute COPD exacerbation prediction tool (ACCEPT). \\textit{eClinicalMedicine}, \\textit{51}, 101574. \\url{https://doi.org/10.1016/j.eclinm.2022.101574}",
+    "verification_status": "Verified against Crossref and PubMed metadata by the review authors"
+  },
+  {
+    "cite_key": "W095",
+    "citation_label": "Saha et~al.(2023)",
+    "year": "2023",
+    "doi": "10.1002/widm.1510",
+    "url": "https://doi.org/10.1002/widm.1510",
+    "formatted_apa": "Saha, P. K., Nadeem, S. A., \\& Comellas, A. P. (2023). A survey on artificial intelligence in pulmonary imaging. \\textit{WIREs Data Mining and Knowledge Discovery}, \\textit{13}(6), e1510. \\url{https://doi.org/10.1002/widm.1510}",
+    "verification_status": "Verified against Crossref and PubMed metadata by the review authors"
+  },
+  {
+    "cite_key": "W055",
+    "citation_label": "Sait \\& Shaikh(2025)",
+    "year": "2025",
+    "doi": "10.3390/diagnostics15202562",
+    "url": "https://doi.org/10.3390/diagnostics15202562",
+    "formatted_apa": "Sait, A. R. W., \\& Shaikh, M. A. (2025). Artificial intelligence-powered chronic obstructive pulmonary disease detection techniques---A review. \\textit{Diagnostics}, \\textit{15}(20), 2562. \\url{https://doi.org/10.3390/diagnostics15202562}",
+    "verification_status": "Verified against Crossref and PubMed metadata by the review authors"
+  },
+  {
+    "cite_key": "T102",
+    "citation_label": "Saky et~al.(2026)",
+    "year": "2026",
+    "doi": "10.3390/life16071108",
+    "url": "https://doi.org/10.3390/life16071108",
+    "formatted_apa": "Saky, S. M. A. I., Arefin, M. S., Islam, M. R., Islam, M. S., Sumon, R. I., Masud, M. M. R., Lapina, M., Babenko, M., \\& Muthanna, M. (2026). Explainable Multi-Modal Deep Learning for Recording-Level Classification of Respiratory Audio Signals Under Internal and Domain-Shift Evaluation. \\textit{Life}, \\textit{16}(7), 1108. \\url{https://doi.org/10.3390/life16071108}",
+    "verification_status": "Verified against Crossref and PubMed metadata by the review authors"
+  },
+  {
+    "cite_key": "W056",
+    "citation_label": "Selvaraju et~al.(2017)",
+    "year": "2017",
+    "doi": "10.1109/ICCV.2017.74",
+    "url": "https://doi.org/10.1109/ICCV.2017.74",
+    "formatted_apa": "Selvaraju, R. R., Cogswell, M., Das, A., Vedantam, R., Parikh, D., \\& Batra, D. (2017). Grad-CAM: Visual explanations from deep networks via gradient-based localization. \\textit{Proceedings of the IEEE International Conference on Computer Vision (ICCV)}, 618--626. \\url{https://doi.org/10.1109/ICCV.2017.74}",
+    "verification_status": "Verified against Crossref and PubMed metadata by the review authors"
+  },
+  {
+    "cite_key": "B319",
+    "citation_label": "Shi et~al.(2025)",
+    "year": "2025",
+    "doi": "10.3389/fimmu.2025.1666195",
+    "url": "https://doi.org/10.3389/fimmu.2025.1666195",
+    "formatted_apa": "Shi, J., Wang, Z., Rao, Y., Li, D., Luo, Y., Zhang, Y., Pei, Y., Gai, X., \\& Sun, Y. (2025). Integrating bioinformatics and molecular experiments to reveal the critical role of the cellular energy metabolism-related marker PLA2G1B in COPD epithelial cells. \\textit{Frontiers in Immunology}, \\textit{16}, 1666195. \\url{https://doi.org/10.3389/fimmu.2025.1666195}",
+    "verification_status": "Verified against Crossref and PubMed metadata by the review authors"
+  },
+  {
+    "cite_key": "A001",
+    "citation_label": "Shin et~al.(2026)",
+    "year": "2026",
+    "doi": "10.1007/s00408-026-00871-5",
+    "url": "https://doi.org/10.1007/s00408-026-00871-5",
+    "formatted_apa": "Shin, J., Cooley, M. E., Hammer, M. J., Yang, C.-F. J., Hajime, U., Maiorino, E., Casaburi, R., Boueiz, A. R. E., Estepar, R. S. J., \\& Castaldi, P. J. (2026). Clinical History, Spirometry, and CT Features Can Predict Dyspnea in Smokers with and without Spirometry-Defined COPD. \\textit{Lung}, \\textit{204}(1), 10. \\url{https://doi.org/10.1007/s00408-026-00871-5}",
+    "verification_status": "Verified against Crossref and PubMed metadata by the review authors"
+  },
+  {
+    "cite_key": "T183",
+    "citation_label": "Shiraishi et~al.(2024)",
+    "year": "2024",
+    "doi": "10.1186/s12890-024-03002-z",
+    "url": "https://doi.org/10.1186/s12890-024-03002-z",
+    "formatted_apa": "Shiraishi, Y., Tanabe, N., Sakamoto, R., Maetani, T., Kaji, S., Shima, H., Terada, S., Terada, K., Ikezoe, K., Tanizawa, K., Oguma, T., Handa, T., Sato, S., Muro, S., \\& Hirai, T. (2024). Longitudinal assessment of interstitial lung abnormalities on CT in patients with COPD using artificial intelligence-based segmentation: a prospective observational study. \\textit{BMC Pulmonary Medicine}, \\textit{24}(1), 200. \\url{https://doi.org/10.1186/s12890-024-03002-z}",
+    "verification_status": "Verified against Crossref and PubMed metadata by the review authors"
+  },
+  {
+    "cite_key": "W057",
+    "citation_label": "Smith et~al.(2023)",
+    "year": "2023",
+    "doi": "10.1016/S2589-7500(23)00177-2",
+    "url": "https://doi.org/10.1016/S2589-7500(23)00177-2",
+    "formatted_apa": "Smith, L. A., Oakden-Rayner, L., Bird, A., Zeng, M., To, M.-S., Mukherjee, S., \\& Palmer, L. J. (2023). Machine learning and deep learning predictive models for long-term prognosis in patients with chronic obstructive pulmonary disease: A systematic review and meta-analysis. \\textit{The Lancet Digital Health}, \\textit{5}(12), e872--e881. \\url{https://doi.org/10.1016/S2589-7500(23)00177-2}",
+    "verification_status": "Verified against Crossref and PubMed metadata by the review authors"
+  },
+  {
+    "cite_key": "W058",
+    "citation_label": "Sounderajah et~al.(2025)",
+    "year": "2025",
+    "doi": "10.1038/s41591-025-03953-8",
+    "url": "https://doi.org/10.1038/s41591-025-03953-8",
+    "formatted_apa": "Sounderajah, V., Guni, A., Liu, X., Collins, G. S., Karthikesalingam, A., Markar, S. R., Golub, R. M., Denniston, A. K., Shetty, S., Moher, D., Bossuyt, P. M., Darzi, A., \\& Ashrafian, H. (2025). The STARD-AI reporting guideline for diagnostic accuracy studies using artificial intelligence. \\textit{Nature Medicine}, \\textit{31}, 3283--3289. \\url{https://doi.org/10.1038/s41591-025-03953-8}",
+    "verification_status": "Verified against Crossref and PubMed metadata by the review authors"
+  },
+  {
+    "cite_key": "Validation",
+    "citation_label": "Steyerberg \\& Harrell(2016)",
+    "year": "2016",
+    "doi": "10.1016/j.jclinepi.2015.04.005",
+    "url": "https://doi.org/10.1016/j.jclinepi.2015.04.005",
+    "formatted_apa": "Steyerberg, E. W., \\& Harrell, F. E. (2016). Prediction models need appropriate internal, internal--external, and external validation. \\textit{Journal of Clinical Epidemiology}, \\textit{69}, 245--247. \\url{https://doi.org/10.1016/j.jclinepi.2015.04.005}",
+    "verification_status": "Verified against Crossref and PubMed metadata by the review authors"
+  },
+  {
+    "cite_key": "W060",
+    "citation_label": "Stolz et~al.(2022)",
+    "year": "2022",
+    "doi": "10.1016/S0140-6736(22)01273-9",
+    "url": "https://doi.org/10.1016/S0140-6736(22)01273-9",
+    "formatted_apa": "Stolz, D., Mkorombindo, T., Schumann, D. M., Agusti, A., Ash, S. Y., Bafadhel, M., Bai, C., Chalmers, J. D., Criner, G. J., Dharmage, S. C., Franssen, F. M. E., Frey, U., Han, M. K., Hansel, N. N., Hawkins, N. M., Kalhan, R., Konigshoff, M., Ko, F. W. S., Latshang, T. D., \\& Martinez, F. J. (2022). Towards the elimination of chronic obstructive pulmonary disease: A Lancet Commission. \\textit{The Lancet}, \\textit{400}(10356), 921--972. \\url{https://doi.org/10.1016/S0140-6736(22)01273-9}",
+    "verification_status": "Verified against Crossref and PubMed metadata by the review authors"
+  },
+  {
+    "cite_key": "T120",
+    "citation_label": "Sui et~al.(2025)",
+    "year": "2025",
+    "doi": "10.2147/copd.s528988",
+    "url": "https://doi.org/10.2147/copd.s528988",
+    "formatted_apa": "Sui, H., Mo, Z., Wei, Y., Shi, F., Cheng, K., \\& Liu, L. (2025). Diagnosis and Severity Assessment of COPD Based on Machine Learning of Chest CT Images. \\textit{International Journal of Chronic Obstructive Pulmonary Disease}, \\textit{20}, 2853--2867. \\url{https://doi.org/10.2147/copd.s528988}",
+    "verification_status": "Verified against Crossref and PubMed metadata by the review authors"
+  },
+  {
+    "cite_key": "B243",
+    "citation_label": "Sui et~al.(2024)",
+    "year": "2024",
+    "doi": "10.1172/jci.insight.180239",
+    "url": "https://doi.org/10.1172/jci.insight.180239",
+    "formatted_apa": "Sui, J., Xiao, H., Mbaekwe, U., Ting, N.-C., Murday, K., Hu, Q., Gregory, A. D., Kapellos, T. S., Yildirim, A. \u00d6., K\u00f6nigshoff, M., Zhang, Y., Sciurba, F., Das, J., \\& Kliment, C. R. (2024). Interpretable machine learning uncovers epithelial transcriptional rewiring and a role for Gelsolin in COPD. \\textit{JCI Insight}, \\textit{9}(21), e180239. \\url{https://doi.org/10.1172/jci.insight.180239}",
+    "verification_status": "Verified against Crossref and PubMed metadata by the review authors"
+  },
+  {
+    "cite_key": "T223",
+    "citation_label": "Sun et~al.(2022)",
+    "year": "2022",
+    "doi": "10.1007/s00330-022-08632-7",
+    "url": "https://doi.org/10.1007/s00330-022-08632-7",
+    "formatted_apa": "Sun, J., Liao, X., Yan, Y., Zhang, X., Sun, J., Tan, W., Liu, B., Wu, J., Guo, Q., Gao, S., Li, Z., Wang, K., \\& Li, Q. (2022). Detection and staging of chronic obstructive pulmonary disease using a computed tomography-based weakly supervised deep learning approach. \\textit{European Radiology}, \\textit{32}, 5319--5329. \\url{https://doi.org/10.1007/s00330-022-08632-7}",
+    "verification_status": "Verified against Crossref and PubMed metadata by the review authors"
+  },
+  {
+    "cite_key": "B467",
+    "citation_label": "Sun et~al.(2023)",
+    "year": "2023",
+    "doi": "10.3389/fcvm.2023.1121102",
+    "url": "https://doi.org/10.3389/fcvm.2023.1121102",
+    "formatted_apa": "Sun, Z., Lin, J., Zhang, T., Sun, X., Wang, T., Duan, J., \\& Yao, K. (2023). Combining bioinformatics and machine learning to identify common mechanisms and biomarkers of chronic obstructive pulmonary disease and atrial fibrillation. \\textit{Frontiers in Cardiovascular Medicine}, \\textit{10}, 1121102. \\url{https://doi.org/10.3389/fcvm.2023.1121102}",
+    "verification_status": "Verified against Crossref and PubMed metadata by the review authors"
+  },
+  {
+    "cite_key": "B278",
+    "citation_label": "Sunjaya et~al.(2025)",
+    "year": "2025",
+    "doi": "10.1183/23120541.00116-2025",
+    "url": "https://doi.org/10.1183/23120541.00116-2025",
+    "formatted_apa": "Sunjaya, A., Edwards, G. D., Harvey, J., Sylvester, K., Purvis, J., Rutter, M., Shakespeare, J., Moore, V., El-Emir, E., Doe, G., Van Orshoven, K., Patel, S., de Vos, M., Elmahy, A., Cuyvers, B., Desbordes, P., Sehdev, S., Evans, R. A., Morgan, M. D., . . . Man, W. D.-C. (2025). Validation of artificial intelligence spirometry diagnostic support software in primary care: a blinded diagnostic accuracy study. \\textit{ERJ Open Research}, \\textit{11}(5), 00116--2025. \\url{https://doi.org/10.1183/23120541.00116-2025}",
+    "verification_status": "Verified against Crossref and PubMed metadata by the review authors"
+  },
+  {
+    "cite_key": "B590",
+    "citation_label": "Talker et~al.(2024)",
+    "year": "2024",
+    "doi": "10.1080/15412555.2024.2321379",
+    "url": "https://doi.org/10.1080/15412555.2024.2321379",
+    "formatted_apa": "Talker, L., Dogan, C., Neville, D., Lim, R. H., Broomfield, H., Lambert, G., Selim, A., Brown, T., Wiffen, L., Carter, J., Ashdown, H. F., Hayward, G., Vijaykumar, E., Weiss, S. T., Chauhan, A., \\& Patel, A. X. (2024). Diagnosis and severity assessment of COPD using a novel fast-response capnometer and interpretable machine learning. \\textit{COPD: Journal of Chronic Obstructive Pulmonary Disease}, \\textit{21}(1), 2321379. \\url{https://doi.org/10.1080/15412555.2024.2321379}",
+    "verification_status": "Verified against Crossref and PubMed metadata by the review authors"
+  },
+  {
+    "cite_key": "T276",
+    "citation_label": "Tang et~al.(2020)",
+    "year": "2020",
+    "doi": "10.1016/S2589-7500(20)30064-9",
+    "url": "https://doi.org/10.1016/S2589-7500(20)30064-9",
+    "formatted_apa": "Tang, L. Y. W., Coxson, H. O., Lam, S., Leipsic, J., Tam, R. C., \\& Sin, D. D. (2020). Towards large-scale case-finding: Training and validation of residual networks for detection of chronic obstructive pulmonary disease using low-dose CT. \\textit{The Lancet Digital Health}, \\textit{2}(5), e259--e267. \\url{https://doi.org/10.1016/S2589-7500(20)30064-9}",
+    "verification_status": "Verified against Crossref and PubMed metadata by the review authors"
+  },
+  {
+    "cite_key": "B017",
+    "citation_label": "Tasnim \\& Mondal(2026)",
+    "year": "2026",
+    "doi": "10.1016/j.jgeb.2026.100766",
+    "url": "https://doi.org/10.1016/j.jgeb.2026.100766",
+    "formatted_apa": "Tasnim, W., \\& Mondal, M. R. H. (2026). Discovering potential key biomarkers and molecular mechanisms in Chronic Obstructive Pulmonary Disease and rheumatoid arthritis using integrated bioinformatics and machine learning approaches. \\textit{Journal of Genetic Engineering and Biotechnology}, \\textit{24}(3), 100766. \\url{https://doi.org/10.1016/j.jgeb.2026.100766}",
+    "verification_status": "Verified against Crossref and PubMed metadata by the review authors"
+  },
+  {
+    "cite_key": "CLAIM",
+    "citation_label": "Tejani et~al.(2024)",
+    "year": "2024",
+    "doi": "10.1148/ryai.240300",
+    "url": "https://doi.org/10.1148/ryai.240300",
+    "formatted_apa": "Tejani, A. S., Klontzas, M. E., Gatti, A. A., Mongan, J. T., Moy, L., Park, S. H., Kahn, C. E., Abbara, S., Afat, S., Anazodo, U. C., Andreychenko, A., Asselbergs, F. W., Badano, A., Baessler, B., Bold, B., Bisdas, S., Brismar, T. B., Cacciamani, G. E., Carrino, J. A., . . . Zins, M. (2024). Checklist for Artificial Intelligence in Medical Imaging (CLAIM): 2024 Update. \\textit{Radiology: Artificial Intelligence}, \\textit{6}(4), e240300. \\url{https://doi.org/10.1148/ryai.240300}",
+    "verification_status": "Verified against Crossref and PubMed metadata by the review authors"
+  },
+  {
+    "cite_key": "W064",
+    "citation_label": "Testa et~al.(2025)",
+    "year": "2025",
+    "doi": "10.3390/jcm14248725",
+    "url": "https://doi.org/10.3390/jcm14248725",
+    "formatted_apa": "Testa, D., Magnoni, P., Fanizza, C., Bussa, M., Zanfino, A., Khaleghi Hashemian, D., Rebora, P., Bisceglia, L., \\& Russo, A. G. (2025). Prognostic models for disease progression and outcomes in chronic obstructive pulmonary disease: A systematic review and meta-analysis. \\textit{Journal of Clinical Medicine}, \\textit{14}(24), 8725. \\url{https://doi.org/10.3390/jcm14248725}",
+    "verification_status": "Verified against Crossref and PubMed metadata by the review authors"
+  },
+  {
+    "cite_key": "T012",
+    "citation_label": "Tian et~al.(2026)",
+    "year": "2026",
+    "doi": "10.2147/copd.s589883",
+    "url": "https://doi.org/10.2147/copd.s589883",
+    "formatted_apa": "Tian, H., Wu, F., Sun, C., Deng, Z., Zhou, Y., \\& Ran, P. (2026). Construction and Validation of Active Case-Finding Tool in Community Participants with Chronic Obstructive Pulmonary Disease Using an Interpretable Machine Learning Approach. \\textit{International Journal of Chronic Obstructive Pulmonary Disease}, \\textit{21}, 1--17. \\url{https://doi.org/10.2147/copd.s589883}",
+    "verification_status": "Verified against Crossref and PubMed metadata by the review authors"
+  },
+  {
+    "cite_key": "W066",
+    "citation_label": "Topalovic et~al.(2019)",
+    "year": "2019",
+    "doi": "10.1183/13993003.01660-2018",
+    "url": "https://doi.org/10.1183/13993003.01660-2018",
+    "formatted_apa": "Topalovic, M., Das, N., Burgel, P.-R., Daenen, M., Derom, E., Haenebalcke, C., Janssen, R., Kerstjens, H. A. M., Liistro, G., Louis, R., Ninane, V., Pison, C., Schlesser, M., Vercauter, P., Vogelmeier, C. F., Wouters, E., Wynants, J., \\& Janssens, W. (2019). Artificial intelligence outperforms pulmonologists in the interpretation of pulmonary function tests. \\textit{European Respiratory Journal}, \\textit{53}(4), 1801660. \\url{https://doi.org/10.1183/13993003.01660-2018}",
+    "verification_status": "Verified against Crossref and PubMed metadata by the review authors"
+  },
+  {
+    "cite_key": "B806",
+    "citation_label": "Topole et~al.(2023)",
+    "year": "2023",
+    "doi": "10.1183/23120541.00292-2022",
+    "url": "https://doi.org/10.1183/23120541.00292-2022",
+    "formatted_apa": "Topole, E., Biondaro, S., Montagna, I., Corre, S., Corradi, M., Stanojevic, S., Graham, B., Das, N., Ray, K., \\& Topalovic, M. (2023). Artificial intelligence based software facilitates spirometry quality control in asthma and COPD clinical trials. \\textit{ERJ Open Research}, \\textit{9}(1), 00292--2022. \\url{https://doi.org/10.1183/23120541.00292-2022}",
+    "verification_status": "Verified against Crossref and PubMed metadata by the review authors"
+  },
+  {
+    "cite_key": "PRISMAScR",
+    "citation_label": "Tricco et~al.(2018)",
+    "year": "2018",
+    "doi": "10.7326/m18-0850",
+    "url": "https://doi.org/10.7326/m18-0850",
+    "formatted_apa": "Tricco, A. C., Lillie, E., Zarin, W., O'Brien, K. K., Colquhoun, H., Levac, D., Moher, D., Peters, M. D. J., Horsley, T., Weeks, L., Hempel, S., Akl, E. A., Chang, C., McGowan, J., Stewart, L., Hartling, L., Aldcroft, A., Wilson, M. G., Garritty, C., . . . Straus, S. E. (2018). PRISMA Extension for Scoping Reviews (PRISMA-ScR): Checklist and Explanation. \\textit{Annals of Internal Medicine}, \\textit{169}(7), 467--473. \\url{https://doi.org/10.7326/m18-0850}",
+    "verification_status": "Verified against Crossref and PubMed metadata by the review authors"
+  },
+  {
+    "cite_key": "MollCorrection",
+    "citation_label": "Unknown et~al.(2021)",
+    "year": "2021",
+    "doi": "10.1016/j.chest.2021.03.045",
+    "url": "https://doi.org/10.1016/j.chest.2021.03.045",
+    "formatted_apa": "Anonymous. (2021). Correction to Text, Figure, and Tables in: Machine Learning and Prediction of All-Cause Mortality in COPD. \\textit{Chest}, \\textit{159}(5), 2123--2128. \\url{https://doi.org/10.1016/j.chest.2021.03.045}",
+    "verification_status": "Verified against Crossref and PubMed metadata by the review authors"
+  },
+  {
+    "cite_key": "T037",
+    "citation_label": "Vaid et~al.(2026)",
+    "year": "2026",
+    "doi": "10.1016/j.ebiom.2025.106066",
+    "url": "https://doi.org/10.1016/j.ebiom.2025.106066",
+    "formatted_apa": "Vaid, A., Sharma, J., Jiang, J., Lampert, J., Sawant, A., Argulian, E., Lerakis, S., Tandon, P., Kovatch, P., Powell, C., Cairns, C. B., Nadkarni, G. N., \\& Kraft, M. (2026). Automated diagnosis of chronic obstructive pulmonary disease using deep learning applied to electrocardiograms. \\textit{eBioMedicine}, \\textit{123}, 106066. \\url{https://doi.org/10.1016/j.ebiom.2025.106066}",
+    "verification_status": "Verified against Crossref and PubMed metadata by the review authors"
+  },
+  {
+    "cite_key": "Calibration",
+    "citation_label": "Van Calster et~al.(2019)",
+    "year": "2019",
+    "doi": "10.1186/s12916-019-1466-7",
+    "url": "https://doi.org/10.1186/s12916-019-1466-7",
+    "formatted_apa": "Van Calster, B., McLernon, D. J., van Smeden, M., Wynants, L., \\& Steyerberg, E. W. (2019). Calibration: the Achilles heel of predictive analytics. \\textit{BMC Medicine}, \\textit{17}(1), 230. \\url{https://doi.org/10.1186/s12916-019-1466-7}",
+    "verification_status": "Verified against Crossref and PubMed metadata by the review authors"
+  },
+  {
+    "cite_key": "DECIDEAI",
+    "citation_label": "Vasey et~al.(2022)",
+    "year": "2022",
+    "doi": "10.1136/bmj-2022-070904",
+    "url": "https://doi.org/10.1136/bmj-2022-070904",
+    "formatted_apa": "Vasey, B., Nagendran, M., Campbell, B., Clifton, D. A., Collins, G. S., Denaxas, S., Denniston, A. K., Faes, L., Geerts, B., Ibrahim, M., Liu, X., Mateen, B. A., Mathur, P., McCradden, M. D., Morgan, L., Ordish, J., Rogers, C., Saria, S., Ting, D. S. W., . . . McCulloch, P. (2022). Reporting guideline for the early stage clinical evaluation of decision support systems driven by artificial intelligence: DECIDE-AI. \\textit{BMJ}, \\textit{377}, e070904. \\url{https://doi.org/10.1136/bmj-2022-070904}",
+    "verification_status": "Verified against Crossref and PubMed metadata by the review authors"
+  },
+  {
+    "cite_key": "Vaswani2017",
+    "citation_label": "Vaswani et~al.(2017)",
+    "year": "2017",
+    "doi": "",
+    "url": "",
+    "formatted_apa": "Vaswani, A., Shazeer, N., Parmar, N., Uszkoreit, J., Jones, L., Gomez, A. N., Kaiser, L., \\& Polosukhin, I. (2017). Attention is all you need. \\textit{Advances in Neural Information Processing Systems}, \\textit{30}, 5998--6008.",
+    "verification_status": "Verified against Crossref and PubMed metadata by the review authors"
+  },
+  {
+    "cite_key": "T133",
+    "citation_label": "Verstraete et~al.(2025)",
+    "year": "2025",
+    "doi": "10.1136/thorax-2025-223095",
+    "url": "https://doi.org/10.1136/thorax-2025-223095",
+    "formatted_apa": "Verstraete, K., Gyselinck, I., Huts, H., Djamin, R. S., Staes, M., Talman, S., Lindberg, S., van der Eerden, M., De Vos, M., \\& Janssens, W. (2025). Identifying azithromycin responders with an individual treatment effect model in COPD. \\textit{Thorax}, \\textit{80}(12), 900--908. \\url{https://doi.org/10.1136/thorax-2025-223095}",
+    "verification_status": "Verified against Crossref and PubMed metadata by the review authors"
+  },
+  {
+    "cite_key": "NetBenefit",
+    "citation_label": "Vickers \\& Elkin(2006)",
+    "year": "2006",
+    "doi": "10.1177/0272989x06295361",
+    "url": "https://doi.org/10.1177/0272989x06295361",
+    "formatted_apa": "Vickers, A. J., \\& Elkin, E. B. (2006). Decision Curve Analysis: A Novel Method for Evaluating Prediction Models. \\textit{Medical Decision Making}, \\textit{26}(6), 565--574. \\url{https://doi.org/10.1177/0272989x06295361}",
+    "verification_status": "Verified against Crossref and PubMed metadata by the review authors"
+  },
+  {
+    "cite_key": "B624",
+    "citation_label": "Wang et~al.(2023a)",
+    "year": "2023",
+    "doi": "10.3389/fphys.2023.1144192",
+    "url": "https://doi.org/10.3389/fphys.2023.1144192",
+    "formatted_apa": "Wang, J. M., Labaki, W. W., Murray, S., Martinez, F. J., Curtis, J. L., Hoffman, E. A., Ram, S., Bell, A. J., Galban, C. J., Han, M. K., \\& Hatt, C. (2023a). Machine learning for screening of at-risk, mild and moderate COPD patients at risk of FEV1 decline: results from COPDGene and SPIROMICS. \\textit{Frontiers in Physiology}, \\textit{14}, 1144192. \\url{https://doi.org/10.3389/fphys.2023.1144192}",
+    "verification_status": "Verified against Crossref and PubMed metadata by the review authors"
+  },
+  {
+    "cite_key": "B633",
+    "citation_label": "Wang et~al.(2022)",
+    "year": "2022",
+    "doi": "10.1038/s41598-022-22434-3",
+    "url": "https://doi.org/10.1038/s41598-022-22434-3",
+    "formatted_apa": "Wang, L., Li, G., Ezeana, C. F., Ogunti, R., Puppala, M., He, T., Yu, X., Wong, S. S. Y., Yin, Z., Roberts, A. W., Nezamabadi, A., Xu, P., Frost, A., Jackson, R. E., \\& Wong, S. T. C. (2022). An AI-driven clinical care pathway to reduce 30-day readmission for chronic obstructive pulmonary disease (COPD) patients. \\textit{Scientific Reports}, \\textit{12}(1), 20633. \\url{https://doi.org/10.1038/s41598-022-22434-3}",
+    "verification_status": "Verified against Crossref and PubMed metadata by the review authors"
+  },
+  {
+    "cite_key": "T207",
+    "citation_label": "Wang et~al.(2023b)",
+    "year": "2023",
+    "doi": "10.1016/j.ijmedinf.2023.105211",
+    "url": "https://doi.org/10.1016/j.ijmedinf.2023.105211",
+    "formatted_apa": "Wang, R., Chen, L.-C., Moukheiber, L., Seastedt, K. P., Moukheiber, M., Moukheiber, D., Zaiman, Z., Moukheiber, S., Litchman, T., Trivedi, H., Steinberg, R., Gichoya, J. W., Kuo, P.-C., \\& Celi, L. A. (2023b). Enabling chronic obstructive pulmonary disease diagnosis through chest X-rays: A multi-site and multi-modality study. \\textit{International Journal of Medical Informatics}, \\textit{178}, 105211. \\url{https://doi.org/10.1016/j.ijmedinf.2023.105211}",
+    "verification_status": "Verified against Crossref and PubMed metadata by the review authors"
+  },
+  {
+    "cite_key": "B149",
+    "citation_label": "Wang et~al.(2025a)",
+    "year": "2025",
+    "doi": "10.2147/copd.s556818",
+    "url": "https://doi.org/10.2147/copd.s556818",
+    "formatted_apa": "Wang, S., Tang, W., \\& Yang, H. (2025a). Integrating Bioinformatics Analysis with RT-qPCR Experimental Validation to Investigate Immune Cell and Telomere-Related Biomarkers in Chronic Obstructive Pulmonary Disease. \\textit{International Journal of Chronic Obstructive Pulmonary Disease}, \\textit{20}, 3839--3854. \\url{https://doi.org/10.2147/copd.s556818}",
+    "verification_status": "Verified against Crossref and PubMed metadata by the review authors"
+  },
+  {
+    "cite_key": "B223",
+    "citation_label": "Wang et~al.(2025b)",
+    "year": "2025",
+    "doi": "10.3389/fmed.2025.1612390",
+    "url": "https://doi.org/10.3389/fmed.2025.1612390",
+    "formatted_apa": "Wang, W., Wu, L., Ouyang, C., \\& Huang, T. (2025b). Identification and validation for biomarkers associated with mitochondrial metabolism in chronic obstructive pulmonary disease. \\textit{Frontiers in Medicine}, \\textit{12}, 1612390. \\url{https://doi.org/10.3389/fmed.2025.1612390}",
+    "verification_status": "Verified against Crossref and PubMed metadata by the review authors"
+  },
+  {
+    "cite_key": "B006",
+    "citation_label": "Wang et~al.(2026a)",
+    "year": "2026",
+    "doi": "10.3389/fphys.2026.1870580",
+    "url": "https://doi.org/10.3389/fphys.2026.1870580",
+    "formatted_apa": "Wang, Z., Li, Y., Zhou, M., Xiang, M., \\& Lin, J. (2026a). Decoding isonicotinylation-associated patterns in neutrophil chronic obstructive pulmonary disease: evidence from integrative bioinformatic-driven multi-omics and in vitro validation. \\textit{Frontiers in Physiology}, \\textit{17}, 1870580. \\url{https://doi.org/10.3389/fphys.2026.1870580}",
+    "verification_status": "Verified against Crossref and PubMed metadata by the review authors"
+  },
+  {
+    "cite_key": "T074",
+    "citation_label": "Wang et~al.(2026b)",
+    "year": "2026",
+    "doi": "10.3390/ijms27104231",
+    "url": "https://doi.org/10.3390/ijms27104231",
+    "formatted_apa": "Wang, Z., Yang, Y., Wang, L., \\& Luo, Z. (2026b). Unfolding Immune Dysregulation in COPD: Identification of a Three-Gene Signature and Functional Validation of TCF7 in Human Lung Tissue and T Lymphocytes. \\textit{International Journal of Molecular Sciences}, \\textit{27}(10), 4231. \\url{https://doi.org/10.3390/ijms27104231}",
+    "verification_status": "Verified against Crossref and PubMed metadata by the review authors"
+  },
+  {
+    "cite_key": "B561",
+    "citation_label": "Wei et~al.(2025)",
+    "year": "2025",
+    "doi": "10.3389/fmed.2025.1592802",
+    "url": "https://doi.org/10.3389/fmed.2025.1592802",
+    "formatted_apa": "Wei, C., Zhu, Y., Chen, C., Li, F., \\& Zheng, L. (2025). Analysis of immune characteristics and inflammatory mechanisms in COPD patients: a multi-layered study combining bulk and single-cell transcriptome analysis and machine learning. \\textit{Frontiers in Medicine}, \\textit{12}, 1592802. \\url{https://doi.org/10.3389/fmed.2025.1592802}",
+    "verification_status": "Verified against Crossref and PubMed metadata by the review authors"
+  },
+  {
+    "cite_key": "W072",
+    "citation_label": "Wen et~al.(2025)",
+    "year": "2025",
+    "doi": "10.1186/s12938-025-01420-6",
+    "url": "https://doi.org/10.1186/s12938-025-01420-6",
+    "formatted_apa": "Wen, G., Wang, C., Zhao, W., Meng, J., Xu, Y., Wang, R., \\& Zeng, Z. (2025). Assessing chronic obstructive pulmonary disease risk based on exhalation and cough sounds. \\textit{BioMedical Engineering OnLine}, \\textit{24}(1), 82. \\url{https://doi.org/10.1186/s12938-025-01420-6}",
+    "verification_status": "Verified against Crossref and PubMed metadata by the review authors"
+  },
+  {
+    "cite_key": "B788",
+    "citation_label": "Wisselink et~al.(2021)",
+    "year": "2021",
+    "doi": "10.1016/j.ejrad.2021.109646",
+    "url": "https://doi.org/10.1016/j.ejrad.2021.109646",
+    "formatted_apa": "Wisselink, H. J., Pelgrim, G. J., Rook, M., Imkamp, K., van Ooijen, P. M. A., van den Berge, M., de Bock, G. H., \\& Vliegenthart, R. (2021). Ultra-low-dose CT combined with noise reduction techniques for quantification of emphysema in COPD patients: An intra-individual comparison study with standard-dose CT. \\textit{European Journal of Radiology}, \\textit{138}, 109646. \\url{https://doi.org/10.1016/j.ejrad.2021.109646}",
+    "verification_status": "Verified against Crossref and PubMed metadata by the review authors"
+  },
+  {
+    "cite_key": "W073",
+    "citation_label": "Wolff et~al.(2019)",
+    "year": "2019",
+    "doi": "10.7326/M18-1376",
+    "url": "https://doi.org/10.7326/M18-1376",
+    "formatted_apa": "Wolff, R. F., Moons, K. G. M., Riley, R. D., Whiting, P. F., Westwood, M., Collins, G. S., Reitsma, J. B., Kleijnen, J., \\& Mallett, S. (2019). PROBAST: A tool to assess the risk of bias and applicability of prediction model studies. \\textit{Annals of Internal Medicine}, \\textit{170}(1), 51--58. \\url{https://doi.org/10.7326/M18-1376}",
+    "verification_status": "Verified against Crossref and PubMed metadata by the review authors"
+  },
+  {
+    "cite_key": "B192",
+    "citation_label": "Wu et~al.(2025)",
+    "year": "2025",
+    "doi": "10.1183/23120541.00651-2024",
+    "url": "https://doi.org/10.1183/23120541.00651-2024",
+    "formatted_apa": "Wu, C.-Y., Hsu, C.-N., Wang, C., Chien, J.-Y., Wang, C.-C., \\& Lin, F.-J. (2025). Predicting outcomes after hospitalisation for COPD exacerbation using machine learning. \\textit{ERJ Open Research}, \\textit{11}(3), 00651-2024. \\url{https://doi.org/10.1183/23120541.00651-2024}",
+    "verification_status": "Verified against Crossref and PubMed metadata by the review authors"
+  },
+  {
+    "cite_key": "W077",
+    "citation_label": "Wu et~al.(2026a)",
+    "year": "2026",
+    "doi": "10.1002/widm.70120",
+    "url": "https://doi.org/10.1002/widm.70120",
+    "formatted_apa": "Wu, H., Xu, Y., Zhang, Z., Jiang, D., \\& Li, H. (2026a). Advancements in medical information fusion: A review of deep learning models and their applications. \\textit{WIREs Data Mining and Knowledge Discovery}, \\textit{16}(3), e70120. \\url{https://doi.org/10.1002/widm.70120}",
+    "verification_status": "Verified against Crossref and PubMed metadata by the review authors"
+  },
+  {
+    "cite_key": "T215",
+    "citation_label": "Wu et~al.(2024a)",
+    "year": "2024",
+    "doi": "10.3389/fmed.2024.1370917",
+    "url": "https://doi.org/10.3389/fmed.2024.1370917",
+    "formatted_apa": "Wu, J., Lu, Y., Dong, S., Wu, L., \\& Shen, X. (2024a). Predicting COPD exacerbations based on quantitative CT analysis: an external validation study. \\textit{Frontiers in Medicine}, \\textit{11}, 1370917. \\url{https://doi.org/10.3389/fmed.2024.1370917}",
+    "verification_status": "Verified against Crossref and PubMed metadata by the review authors"
+  },
+  {
+    "cite_key": "W074",
+    "citation_label": "Wu et~al.(2026b)",
+    "year": "2026",
+    "doi": "10.7189/jogh.16.04028",
+    "url": "https://doi.org/10.7189/jogh.16.04028",
+    "formatted_apa": "Wu, Q., Guo, H., Li, R., Han, J., Zhang, Z., Jingesi, A., \\& Kang, S. (2026b). Multimodal data-driven multitask learning for enhanced identification and classification of chronic obstructive pulmonary disease: A retrospective study. \\textit{Journal of Global Health}, \\textit{16}, 04028. \\url{https://doi.org/10.7189/jogh.16.04028}",
+    "verification_status": "Verified against Crossref and PubMed metadata by the review authors"
+  },
+  {
+    "cite_key": "W075",
+    "citation_label": "Wu et~al.(2024b)",
+    "year": "2024",
+    "doi": "10.1186/s12931-024-02913-z",
+    "url": "https://doi.org/10.1186/s12931-024-02913-z",
+    "formatted_apa": "Wu, Y., Xia, S., Liang, Z., Chen, R., \\& Qi, S. (2024b). Artificial intelligence in COPD CT images: Identification, staging, and quantitation. \\textit{Respiratory Research}, \\textit{25}, 319. \\url{https://doi.org/10.1186/s12931-024-02913-z}",
+    "verification_status": "Verified against Crossref and PubMed metadata by the review authors"
+  },
+  {
+    "cite_key": "B015",
+    "citation_label": "Xie et~al.(2026)",
+    "year": "2026",
+    "doi": "10.2147/copd.s592045",
+    "url": "https://doi.org/10.2147/copd.s592045",
+    "formatted_apa": "Xie, J., Huang, L., Chen, X., \\& Wang, X. (2026). Critical Biological Functions and Clinical Implications of Epigenetic-Related Candidate Biomarkers in Chronic Obstructive Pulmonary Disease: Integrated Machine Learning Screening and Basic Experimental Validation. \\textit{International Journal of Chronic Obstructive Pulmonary Disease}, \\textit{21}, 1--19. \\url{https://doi.org/10.2147/copd.s592045}",
+    "verification_status": "Verified against Crossref and PubMed metadata by the review authors"
+  },
+  {
+    "cite_key": "T094",
+    "citation_label": "Xing et~al.(2026)",
+    "year": "2026",
+    "doi": "10.3389/fphys.2026.1735687",
+    "url": "https://doi.org/10.3389/fphys.2026.1735687",
+    "formatted_apa": "Xing, K., Tan, C., Cheng, X., \\& Jiang, F. (2026). Evaluation of the impact of cardiopulmonary rehabilitation exercise training on cardiopulmonary function in patients with chronic obstructive pulmonary disease complicated by unstable angina pectoris using a hierarchical deep learning CT image model. \\textit{Frontiers in Physiology}, \\textit{17}, 1735687. \\url{https://doi.org/10.3389/fphys.2026.1735687}",
+    "verification_status": "Verified against Crossref and PubMed metadata by the review authors"
+  },
+  {
+    "cite_key": "W078",
+    "citation_label": "Xu et~al.(2022)",
+    "year": "2022",
+    "doi": "10.3389/fpubh.2022.1015876",
+    "url": "https://doi.org/10.3389/fpubh.2022.1015876",
+    "formatted_apa": "Xu, W., He, G., Pan, C., Shen, D., Zhang, N., Jiang, P., Liu, F., \\& Chen, J. (2022). A forced cough sound based pulmonary function assessment method by using machine learning. \\textit{Frontiers in Public Health}, \\textit{10}, 1015876. \\url{https://doi.org/10.3389/fpubh.2022.1015876}",
+    "verification_status": "Verified against Crossref and PubMed metadata by the review authors"
+  },
+  {
+    "cite_key": "T199",
+    "citation_label": "Xuan et~al.(2023)",
+    "year": "2023",
+    "doi": "10.3390/diagnostics13081440",
+    "url": "https://doi.org/10.3390/diagnostics13081440",
+    "formatted_apa": "Xuan, S., Zhang, J., Guo, Q., Zhao, L., \\& Yao, X. (2023). A Diagnostic Classifier Based on Circulating miRNA Pairs for COPD Using a Machine Learning Approach. \\textit{Diagnostics}, \\textit{13}(8), 1440. \\url{https://doi.org/10.3390/diagnostics13081440}",
+    "verification_status": "Verified against Crossref and PubMed metadata by the review authors"
+  },
+  {
+    "cite_key": "T257",
+    "citation_label": "Xue et~al.(2023)",
+    "year": "2023",
+    "doi": "10.1016/j.cmpb.2023.107356",
+    "url": "https://doi.org/10.1016/j.cmpb.2023.107356",
+    "formatted_apa": "Xue, M., Jia, S., Chen, L., Huang, H., Yu, L., \\& Zhu, W. (2023). CT-based COPD identification using multiple instance learning with two-stage attention. \\textit{Computer Methods and Programs in Biomedicine}, \\textit{231}, 107356. \\url{https://doi.org/10.1016/j.cmpb.2023.107356}",
+    "verification_status": "Verified against Crossref and PubMed metadata by the review authors"
+  },
+  {
+    "cite_key": "W080",
+    "citation_label": "Yang et~al.(2026a)",
+    "year": "2026",
+    "doi": "10.2196/83459",
+    "url": "https://doi.org/10.2196/83459",
+    "formatted_apa": "Yang, H., Wu, Y., Wu, T., Ji, J., Lei, S., \\& Xu, W. (2026a). Accuracy of deep learning in diagnosing chronic obstructive pulmonary disease: Systematic review and meta-analysis. \\textit{Journal of Medical Internet Research}, \\textit{28}, e83459. \\url{https://doi.org/10.2196/83459}",
+    "verification_status": "Verified against Crossref and PubMed metadata by the review authors"
+  },
+  {
+    "cite_key": "T097",
+    "citation_label": "Yang et~al.(2026b)",
+    "year": "2026",
+    "doi": "10.1186/s12890-026-04478-7",
+    "url": "https://doi.org/10.1186/s12890-026-04478-7",
+    "formatted_apa": "Yang, J., Huang, T., Lu, H., Lu, J., Zhou, K., \\& Qin, T. (2026b). Development and multicenter validation of machine learning models for 28-day mortality in critically ill patients with acute exacerbation of chronic obstructive pulmonary disease. \\textit{BMC Pulmonary Medicine}, \\textit{26}(1), 441. \\url{https://doi.org/10.1186/s12890-026-04478-7}",
+    "verification_status": "Verified against Crossref and PubMed metadata by the review authors"
+  },
+  {
+    "cite_key": "T100",
+    "citation_label": "Yang et~al.(2026c)",
+    "year": "2026",
+    "doi": "10.1038/s41746-026-02445-4",
+    "url": "https://doi.org/10.1038/s41746-026-02445-4",
+    "formatted_apa": "Yang, M., Liu, X., Du, W., Liu, Y., Zhu, W., Bu, Z., Mao, J., Wang, Q., Chen, S., Zhou, M., \\& Qu, J.-M. (2026c). A device-invariant multi-modal learning framework for respiratory disease classification. \\textit{npj Digital Medicine}, \\textit{9}(1), 290. \\url{https://doi.org/10.1038/s41746-026-02445-4}",
+    "verification_status": "Verified against Crossref and PubMed metadata by the review authors"
+  },
+  {
+    "cite_key": "B244",
+    "citation_label": "Yang et~al.(2025a)",
+    "year": "2025",
+    "doi": "10.1097/md.0000000000045317",
+    "url": "https://doi.org/10.1097/md.0000000000045317",
+    "formatted_apa": "Yang, T., Li, Q., Jin, G., Du, S., Yu, Y., \\& Jiang, B. (2025a). ZNF143 as a diagnostic biomarker: Insights from gene expression and immune cell infiltration in COPD and asthma. \\textit{Medicine}, \\textit{104}(43), e45317. \\url{https://doi.org/10.1097/md.0000000000045317}",
+    "verification_status": "Verified against Crossref and PubMed metadata by the review authors"
+  },
+  {
+    "cite_key": "B158",
+    "citation_label": "Yang et~al.(2025b)",
+    "year": "2025",
+    "doi": "10.3389/fgene.2025.1567173",
+    "url": "https://doi.org/10.3389/fgene.2025.1567173",
+    "formatted_apa": "Yang, X., Duan, Y., Qiu, L., Huang, X., \\& Li, F. (2025b). Identification of biomarkers associated with mitochondrial dysfunction and programmed cell death in chronic obstructive pulmonary disease via transcriptomics. \\textit{Frontiers in Genetics}, \\textit{16}, 1567173. \\url{https://doi.org/10.3389/fgene.2025.1567173}",
+    "verification_status": "Verified against Crossref and PubMed metadata by the review authors"
+  },
+  {
+    "cite_key": "T034",
+    "citation_label": "Yang et~al.(2026d)",
+    "year": "2026",
+    "doi": "10.3390/cimb48050475",
+    "url": "https://doi.org/10.3390/cimb48050475",
+    "formatted_apa": "Yang, Y., Wang, Z., Su, X., Tang, J., Zhang, Z., Fan, X., Xu, H., Wang, L., \\& Luo, Z. (2026d). A Synthetic Lethality-Informed Multi-Omic Framework for Identifying a Five-Gene Diagnostic Signature in Chronic Obstructive Pulmonary Disease. \\textit{Current Issues in Molecular Biology}, \\textit{48}(5), 475. \\url{https://doi.org/10.3390/cimb48050475}",
+    "verification_status": "Verified against Crossref and PubMed metadata by the review authors"
+  },
+  {
+    "cite_key": "T087",
+    "citation_label": "Yi et~al.(2025a)",
+    "year": "2025",
+    "doi": "10.1186/s12931-025-03238-1",
+    "url": "https://doi.org/10.1186/s12931-025-03238-1",
+    "formatted_apa": "Yi, E., Li, H., Liu, Y., Li, Q., Xie, C., Sun, R., Wu, F., Deng, Z., Zhou, K., Wang, H., Ran, X., Zhou, Y., \\& Ran, P. (2025a). An integrated machine learning model of transcriptomic genes in multi-center chronic obstructive pulmonary disease reveals the causal role of TIMP4 in airway epithelial cell. \\textit{Respiratory Research}, \\textit{26}(1), 158. \\url{https://doi.org/10.1186/s12931-025-03238-1}",
+    "verification_status": "Verified against Crossref and PubMed metadata by the review authors"
+  },
+  {
+    "cite_key": "W084",
+    "citation_label": "Yi et~al.(2025b)",
+    "year": "2025",
+    "doi": "10.3389/fmed.2025.1601736",
+    "url": "https://doi.org/10.3389/fmed.2025.1601736",
+    "formatted_apa": "Yi, Y., Shi, L., Liu, H., Wang, M., Feng, M., \\& Li, Y. (2025b). COPD-MMDDxNet: A multimodal deep learning framework for accurate COPD diagnosis using electronic medical records. \\textit{Frontiers in Medicine}, \\textit{12}, 1601736. \\url{https://doi.org/10.3389/fmed.2025.1601736}",
+    "verification_status": "Verified against Crossref and PubMed metadata by the review authors"
+  },
+  {
+    "cite_key": "B382",
+    "citation_label": "Yin et~al.(2023)",
+    "year": "2023",
+    "doi": "10.1002/advs.202203485",
+    "url": "https://doi.org/10.1002/advs.202203485",
+    "formatted_apa": "Yin, C., Udrescu, M., Gupta, G., Cheng, M., Lihu, A., Udrescu, L., Bogdan, P., Mannino, D. M., \\& Mihaicuta, S. (2023). Fractional Dynamics Foster Deep Learning of COPD Stage Prediction. \\textit{Advanced Science}, \\textit{10}(12), 2203485. \\url{https://doi.org/10.1002/advs.202203485}",
+    "verification_status": "Verified against Crossref and PubMed metadata by the review authors"
+  },
+  {
+    "cite_key": "W086",
+    "citation_label": "Yin et~al.(2024)",
+    "year": "2024",
+    "doi": "10.1016/j.cmpb.2023.108005",
+    "url": "https://doi.org/10.1016/j.cmpb.2023.108005",
+    "formatted_apa": "Yin, H., Wang, K., Yang, R., Tan, Y., Li, Q., Zhu, W., \\& Sung, S. (2024). A machine learning model for predicting acute exacerbation of in-home chronic obstructive pulmonary disease patients. \\textit{Computer Methods and Programs in Biomedicine}, \\textit{246}, 108005. \\url{https://doi.org/10.1016/j.cmpb.2023.108005}",
+    "verification_status": "Verified against Crossref and PubMed metadata by the review authors"
+  },
+  {
+    "cite_key": "B140",
+    "citation_label": "Yin et~al.(2026)",
+    "year": "2026",
+    "doi": "10.2147/jir.s537967",
+    "url": "https://doi.org/10.2147/jir.s537967",
+    "formatted_apa": "Yin, X. L., Zhai, Y., \\& Wang, L. (2026). Identification of Glycosylation-Related Biomarkers in COPD and IPF Through Integrated Machine Learning and WGCNA Analysis. \\textit{Journal of Inflammation Research}, \\textit{19}, 1--16. \\url{https://doi.org/10.2147/jir.s537967}",
+    "verification_status": "Verified against Crossref and PubMed metadata by the review authors"
+  },
+  {
+    "cite_key": "B514",
+    "citation_label": "Yoon et~al.(2023)",
+    "year": "2023",
+    "doi": "10.3346/jkms.2023.38.e220",
+    "url": "https://doi.org/10.3346/jkms.2023.38.e220",
+    "formatted_apa": "Yoon, J.-K., Park, S., Lee, K.-H., Jeong, D., Woo, J., Park, J., Yi, S.-M., Han, D., Yoo, C.-G., Kim, S., \\& Lee, C.-H. (2023). Machine Learning-Based Proteomics Reveals Ferroptosis in COPD Patient-Derived Airway Epithelial Cells Upon Smoking Exposure. \\textit{Journal of Korean Medical Science}, \\textit{38}(29), e220. \\url{https://doi.org/10.3346/jkms.2023.38.e220}",
+    "verification_status": "Verified against Crossref and PubMed metadata by the review authors"
+  },
+  {
+    "cite_key": "T229",
+    "citation_label": "Yousuf et~al.(2025)",
+    "year": "2025",
+    "doi": "10.1183/23120541.00797-2024",
+    "url": "https://doi.org/10.1183/23120541.00797-2024",
+    "formatted_apa": "Yousuf, A. J., Parekh, G., Farrow, M., Ball, G., Graziadio, S., Wilson, K., Lendrem, C., Carr, L., Watson, L., Parker, S., Finch, J., Glover, S., Mistry, V., Porter, K., Duvoix, A., O'Brien, L., Rees, S., Lewis, K. E., Davis, P., \\& Brightling, C. E. (2025). Artificial neural network risk prediction of COPD exacerbations using urine biomarkers. \\textit{ERJ Open Research}, \\textit{11}(3), 00797--2024. \\url{https://doi.org/10.1183/23120541.00797-2024}",
+    "verification_status": "Verified against Crossref and PubMed metadata by the review authors"
+  },
+  {
+    "cite_key": "T112",
+    "citation_label": "Yu et~al.(2025)",
+    "year": "2025",
+    "doi": "10.2147/ijgm.s516139",
+    "url": "https://doi.org/10.2147/ijgm.s516139",
+    "formatted_apa": "Yu, J., Xiao, T., Pan, Y., He, Y., \\& Tan, J. (2025). Single Cell Transcriptomics Genomics Based on Machine Learning Algorithm: Constructing and Validating Neutrophil Extracellular Trap Gene Model in COPD. \\textit{International Journal of General Medicine}, \\textit{18}, 2247--2261. \\url{https://doi.org/10.2147/ijgm.s516139}",
+    "verification_status": "Verified against Crossref and PubMed metadata by the review authors"
+  },
+  {
+    "cite_key": "T210",
+    "citation_label": "Yun et~al.(2021)",
+    "year": "2021",
+    "doi": "10.1038/s41598-021-94535-4",
+    "url": "https://doi.org/10.1038/s41598-021-94535-4",
+    "formatted_apa": "Yun, J., Cho, Y. H., Lee, S. M., Hwang, J., Lee, J. S., Oh, Y.-M., Lee, S.-D., Loh, L.-C., Ong, C.-K., Seo, J. B., \\& Kim, N. (2021). Deep radiomics-based survival prediction in patients with chronic obstructive pulmonary disease. \\textit{Scientific Reports}, \\textit{11}(1), 15144. \\url{https://doi.org/10.1038/s41598-021-94535-4}",
+    "verification_status": "Verified against Crossref and PubMed metadata by the review authors"
+  },
+  {
+    "cite_key": "W087",
+    "citation_label": "Zech et~al.(2018)",
+    "year": "2018",
+    "doi": "10.1371/journal.pmed.1002683",
+    "url": "https://doi.org/10.1371/journal.pmed.1002683",
+    "formatted_apa": "Zech, J. R., Badgeley, M. A., Liu, M., Costa, A. B., Titano, J. J., \\& Oermann, E. K. (2018). Variable generalization performance of a deep learning model to detect pneumonia in chest radiographs: A cross-sectional study. \\textit{PLOS Medicine}, \\textit{15}(11), e1002683. \\url{https://doi.org/10.1371/journal.pmed.1002683}",
+    "verification_status": "Verified against Crossref and PubMed metadata by the review authors"
+  },
+  {
+    "cite_key": "B239",
+    "citation_label": "Zhang et~al.(2025)",
+    "year": "2025",
+    "doi": "10.3389/fimmu.2025.1675292",
+    "url": "https://doi.org/10.3389/fimmu.2025.1675292",
+    "formatted_apa": "Zhang, C., Fu, P., Yu, J., Liu, L., Wei, X., \\& Li, X. (2025). Bioinformatics identification of mitochondria and macrophage polarization-related genes in COPD and their potential mechanisms. \\textit{Frontiers in Immunology}, \\textit{16}, 1675292. \\url{https://doi.org/10.3389/fimmu.2025.1675292}",
+    "verification_status": "Verified against Crossref and PubMed metadata by the review authors"
+  },
+  {
+    "cite_key": "B043",
+    "citation_label": "Zhang et~al.(2026a)",
+    "year": "2026",
+    "doi": "10.1371/journal.pone.0349338",
+    "url": "https://doi.org/10.1371/journal.pone.0349338",
+    "formatted_apa": "Zhang, F., Li, H., Wu, F., Xian, D., Chen, F., Xu, W., He, Y., Liu, X., \\& Zhang, W. (2026a). Identifying and validating ITGB2 and HNRNPAB as diagnostic biomarkers in chronic obstructive pulmonary disease using bioinformatics and Integrated Machine Learning Methods. \\textit{PLOS One}, \\textit{21}(5), e0349338. \\url{https://doi.org/10.1371/journal.pone.0349338}",
+    "verification_status": "Verified against Crossref and PubMed metadata by the review authors"
+  },
+  {
+    "cite_key": "W088",
+    "citation_label": "Zhang et~al.(2026b)",
+    "year": "2026",
+    "doi": "10.1002/mp.70393",
+    "url": "https://doi.org/10.1002/mp.70393",
+    "formatted_apa": "Zhang, F., Wu, D., Han, S., Wang, H., Zhang, W., \\& Ma, C. (2026b). A Hybrid-Mamba network with dual level attention fusion for multimodal COPD diagnosis. \\textit{Medical Physics}, \\textit{53}(5), e70393. \\url{https://doi.org/10.1002/mp.70393}",
+    "verification_status": "Verified against Crossref and PubMed metadata by the review authors"
+  },
+  {
+    "cite_key": "T205",
+    "citation_label": "Zhang et~al.(2026c)",
+    "year": "2026",
+    "doi": "10.2147/copd.s602126",
+    "url": "https://doi.org/10.2147/copd.s602126",
+    "formatted_apa": "Zhang, G., Wang, D., Chen, H., Dai, W., Fan, X., Liu, Y., \\& Jiang, L. (2026c). Development and External Validation of a Machine Learning Model for 90-Day Readmission in Hospitalized Older Patients with AECOPD: A Two-Center Study. \\textit{International Journal of Chronic Obstructive Pulmonary Disease}, \\textit{21}, 1--16. \\url{https://doi.org/10.2147/copd.s602126}",
+    "verification_status": "Verified against Crossref and PubMed metadata by the review authors"
+  },
+  {
+    "cite_key": "A051",
+    "citation_label": "Zhang et~al.(2026d)",
+    "year": "2026",
+    "doi": "10.1177/17534666261466906",
+    "url": "https://doi.org/10.1177/17534666261466906",
+    "formatted_apa": "Zhang, J., Yang, Q., Dai, S., Li, J., Zhang, Z., Jia, Z., Zhu, W., Yang, R., Bai, X., Li, W., Zhang, X., Zhang, X., Chen, J., \\& Zou, W. (2026d). Development and validation of a multimodal risk prediction model for early COPD progression: a retrospective study integrating clinical, functional, and CT radiomic features. \\textit{Therapeutic Advances in Respiratory Disease}, \\textit{20}, 17534666261466906. \\url{https://doi.org/10.1177/17534666261466906}",
+    "verification_status": "Verified against Crossref and PubMed metadata by the review authors"
+  },
+  {
+    "cite_key": "T258",
+    "citation_label": "Zhang et~al.(2022a)",
+    "year": "2022",
+    "doi": "10.1259/bjr.20210637",
+    "url": "https://doi.org/10.1259/bjr.20210637",
+    "formatted_apa": "Zhang, L., Jiang, B., Wisselink, H. J., Vliegenthart, R., \\& Xie, X. (2022a). COPD identification and grading based on deep learning of lung parenchyma and bronchial wall in chest CT images. \\textit{The British Journal of Radiology}, \\textit{95}(1133), 20210637. \\url{https://doi.org/10.1259/bjr.20210637}",
+    "verification_status": "Verified against Crossref and PubMed metadata by the review authors"
+  },
+  {
+    "cite_key": "T061",
+    "citation_label": "Zhang et~al.(2026e)",
+    "year": "2026",
+    "doi": "10.1371/journal.pone.0353838",
+    "url": "https://doi.org/10.1371/journal.pone.0353838",
+    "formatted_apa": "Zhang, L., Li, Z., Xia, T., Yang, T., Fu, J., Lu, Y., Xu, J., \\& Han, K. (2026e). Integrative multi-omics and machine learning identify CHRNA1 putative circadian-immune hub in COPD. \\textit{PLOS One}, \\textit{21}(7), e0353838. \\url{https://doi.org/10.1371/journal.pone.0353838}",
+    "verification_status": "Verified against Crossref and PubMed metadata by the review authors"
+  },
+  {
+    "cite_key": "B063",
+    "citation_label": "Zhang et~al.(2026f)",
+    "year": "2026",
+    "doi": "10.3389/fimmu.2026.1880745",
+    "url": "https://doi.org/10.3389/fimmu.2026.1880745",
+    "formatted_apa": "Zhang, W., Sheng, H., Shi, Y., Jiang, Y., \\& Peng, H. (2026f). Integrative machine learning and single-cell analysis identifies nicotine-related diagnostic genes and myeloid remodeling in COPD. \\textit{Frontiers in Immunology}, \\textit{17}, 1880745. \\url{https://doi.org/10.3389/fimmu.2026.1880745}",
+    "verification_status": "Verified against Crossref and PubMed metadata by the review authors"
+  },
+  {
+    "cite_key": "T052",
+    "citation_label": "Zhang et~al.(2026g)",
+    "year": "2026",
+    "doi": "10.1016/j.patter.2025.101426",
+    "url": "https://doi.org/10.1016/j.patter.2025.101426",
+    "formatted_apa": "Zhang, X., Zhao, M., Yao, F., Ma, W., Zhang, J., Li, Y., Zhou, X., Guan, Y., Xiao, Y., Fan, L., Zhou, S. K., \\& Liu, S. (2026g). A self-supervised framework for emphysema anomaly detection and staging in computed tomography scans. \\textit{Patterns}, \\textit{7}(2), 101426. \\url{https://doi.org/10.1016/j.patter.2025.101426}",
+    "verification_status": "Verified against Crossref and PubMed metadata by the review authors"
+  },
+  {
+    "cite_key": "B650",
+    "citation_label": "Zhang et~al.(2022b)",
+    "year": "2022",
+    "doi": "10.3389/fimmu.2022.740513",
+    "url": "https://doi.org/10.3389/fimmu.2022.740513",
+    "formatted_apa": "Zhang, Y., Xia, R., Lv, M., Li, Z., Jin, L., Chen, X., Han, Y., Shi, C., Jiang, Y., \\& Jin, S. (2022b). Machine-Learning Algorithm-Based Prediction of Diagnostic Gene Biomarkers Related to Immune Infiltration in Patients With Chronic Obstructive Pulmonary Disease. \\textit{Frontiers in Immunology}, \\textit{13}, 740513. \\url{https://doi.org/10.3389/fimmu.2022.740513}",
+    "verification_status": "Verified against Crossref and PubMed metadata by the review authors"
+  },
+  {
+    "cite_key": "W091",
+    "citation_label": "Zhang et~al.(2026h)",
+    "year": "2026",
+    "doi": "10.1136/thorax-2024-222397",
+    "url": "https://doi.org/10.1136/thorax-2024-222397",
+    "formatted_apa": "Zhang, Y., Ye, Z., Yang, S., Zhang, Y., Huang, Y., Xiang, H., Wu, Y., Zhang, Y., Gan, X., \\& Qin, X. (2026h). Proteomics-based risk prediction and drug targets identification for chronic obstructive pulmonary disease. \\textit{Thorax}, \\textit{81}(4), 311--319. \\url{https://doi.org/10.1136/thorax-2024-222397}",
+    "verification_status": "Verified against Crossref and PubMed metadata by the review authors"
+  },
+  {
+    "cite_key": "T142",
+    "citation_label": "Zhang et~al.(2024)",
+    "year": "2024",
+    "doi": "10.21037/jtd-24-367",
+    "url": "https://doi.org/10.21037/jtd-24-367",
+    "formatted_apa": "Zhang, Z., Wu, F., Zhou, Y., Yu, D., Sun, C., Xiong, X., Situ, Z., Liu, Z., Gu, A., Huang, X., Zheng, Y., Deng, Z., Zhao, N., Rong, Z., He, J., Xie, G., \\& Ran, P. (2024). Detection of chronic obstructive pulmonary disease with deep learning using inspiratory and expiratory chest computed tomography and clinical information. \\textit{Journal of Thoracic Disease}, \\textit{16}(9), 6101--6111. \\url{https://doi.org/10.21037/jtd-24-367}",
+    "verification_status": "Verified against Crossref and PubMed metadata by the review authors"
+  },
+  {
+    "cite_key": "T277",
+    "citation_label": "Zhang et~al.(2023)",
+    "year": "2023",
+    "doi": "10.2147/jir.s438308",
+    "url": "https://doi.org/10.2147/jir.s438308",
+    "formatted_apa": "Zhang, Z., Yu, H., Wang, Q., Ding, Y., Wang, Z., Zhao, S., \\& Bian, T. (2023). A Macrophage-Related Gene Signature for Identifying COPD Based on Bioinformatics and ex vivo Experiments. \\textit{Journal of Inflammation Research}, \\textit{16}, 5647--5665. \\url{https://doi.org/10.2147/jir.s438308}",
+    "verification_status": "Verified against Crossref and PubMed metadata by the review authors"
+  },
+  {
+    "cite_key": "T035",
+    "citation_label": "Zhao et~al.(2026)",
+    "year": "2026",
+    "doi": "10.1186/s12890-026-04219-w",
+    "url": "https://doi.org/10.1186/s12890-026-04219-w",
+    "formatted_apa": "Zhao, S., Wu, Y., Du, L., Jia, H., Monkam, P., Qian, W., Wang, R., Xia, S., \\& Qi, S. (2026). CT image-based machine learning models for predicting blood eosinophil levels in acute exacerbation of chronic obstructive pulmonary disease. \\textit{BMC Pulmonary Medicine}, \\textit{26}(1), 179. \\url{https://doi.org/10.1186/s12890-026-04219-w}",
+    "verification_status": "Verified against Crossref and PubMed metadata by the review authors"
+  },
+  {
+    "cite_key": "T127",
+    "citation_label": "Zheng et~al.(2024)",
+    "year": "2024",
+    "doi": "10.1016/j.heliyon.2024.e27808",
+    "url": "https://doi.org/10.1016/j.heliyon.2024.e27808",
+    "formatted_apa": "Zheng, H., Wang, G., Wang, Y., Wang, Q., \\& Sun, T. (2024). Combined analysis of bulk RNA and single-cell RNA sequencing to identify pyroptosis-related markers and the role of dendritic cells in chronic obstructive pulmonary disease. \\textit{Heliyon}, \\textit{10}(6), e27808. \\url{https://doi.org/10.1016/j.heliyon.2024.e27808}",
+    "verification_status": "Verified against Crossref and PubMed metadata by the review authors"
+  },
+  {
+    "cite_key": "T021",
+    "citation_label": "Zhou et~al.(2026a)",
+    "year": "2026",
+    "doi": "10.1038/s41533-026-00486-6",
+    "url": "https://doi.org/10.1038/s41533-026-00486-6",
+    "formatted_apa": "Zhou, J., Huang, J., Wang, Q., Yan, J., Cao, H., Huang, L., Chen, S., Ruan, X., Zhu, W., Mao, J., Liu, Y., Bu, Z., Yang, M., Wang, Q., Zhou, Y., Fan, E., Tong, L., Sun, X., Zhao, D., . . . Qu, J. (2026a). A cough sound-based deep learning algorithm for accessible prompt detection of chronic obstructive pulmonary disease with smartphones. \\textit{npj Primary Care Respiratory Medicine}, \\textit{36}(1), 32. \\url{https://doi.org/10.1038/s41533-026-00486-6}",
+    "verification_status": "Verified against Crossref and PubMed metadata by the review authors"
+  },
+  {
+    "cite_key": "T070",
+    "citation_label": "Zhou et~al.(2026b)",
+    "year": "2026",
+    "doi": "10.1186/s13244-026-02254-z",
+    "url": "https://doi.org/10.1186/s13244-026-02254-z",
+    "formatted_apa": "Zhou, Q., Zhai, W., Zhou, T., Wang, Y., Zhou, X., Lin, X., Li, J., Wu, H., Dai, Q., Ma, Y., Xu, F., Zhang, H., Ge, Y., \\& Fan, L. (2026b). Interpretable chronic obstructive pulmonary disease identification using chest X-ray radiomics: a multicenter study. \\textit{Insights into Imaging}, \\textit{17}(1), 81. \\url{https://doi.org/10.1186/s13244-026-02254-z}",
+    "verification_status": "Verified against Crossref and PubMed metadata by the review authors"
+  },
+  {
+    "cite_key": "T140",
+    "citation_label": "Zhou et~al.(2024a)",
+    "year": "2024",
+    "doi": "10.1016/j.ejro.2024.100580",
+    "url": "https://doi.org/10.1016/j.ejro.2024.100580",
+    "formatted_apa": "Zhou, T., Guan, Y., Lin, X., Zhou, X., Mao, L., Ma, Y., Fan, B., Li, J., Tu, W., Liu, S., \\& Fan, L. (2024a). A clinical-radiomics nomogram based on automated segmentation of chest CT to discriminate PRISm and COPD patients. \\textit{European Journal of Radiology Open}, \\textit{13}, 100580. \\url{https://doi.org/10.1016/j.ejro.2024.100580}",
+    "verification_status": "Verified against Crossref and PubMed metadata by the review authors"
+  },
+  {
+    "cite_key": "T104",
+    "citation_label": "Zhou et~al.(2024b)",
+    "year": "2024",
+    "doi": "10.2147/copd.s483007",
+    "url": "https://doi.org/10.2147/copd.s483007",
+    "formatted_apa": "Zhou, T., Zhou, X., Ni, J., Guan, Y., Jiang, X., Lin, X., Li, J., Xia, Y., Wang, X., Wang, Y., Huang, W., Tu, W., Dong, P., Li, Z., Liu, S., \\& Fan, L. (2024b). A CT-Based Lung Radiomics Nomogram for Classifying the Severity of Chronic Obstructive Pulmonary Disease. \\textit{International Journal of Chronic Obstructive Pulmonary Disease}, \\textit{19}, 2705--2717. \\url{https://doi.org/10.2147/copd.s483007}",
+    "verification_status": "Verified against Crossref and PubMed metadata by the review authors"
+  },
+  {
+    "cite_key": "T060",
+    "citation_label": "Zhou et~al.(2025)",
+    "year": "2025",
+    "doi": "10.21037/jtd-2025-972",
+    "url": "https://doi.org/10.21037/jtd-2025-972",
+    "formatted_apa": "Zhou, X., Ma, Y., Zhou, T., Xie, X., Li, Y., Guan, Y., Wang, Y., Li, J., Zhang, H., Liu, S., \\& Fan, L. (2025). A computed tomography-based lung radiomics nomogram to identify acute exacerbation of chronic obstructive pulmonary disease: a multi-institutional validation study. \\textit{Journal of Thoracic Disease}, \\textit{17}(10), 7762--7777. \\url{https://doi.org/10.21037/jtd-2025-972}",
+    "verification_status": "Verified against Crossref and PubMed metadata by the review authors"
+  },
+  {
+    "cite_key": "B064",
+    "citation_label": "Zhou et~al.(2026c)",
+    "year": "2026",
+    "doi": "10.1371/journal.pone.0343798",
+    "url": "https://doi.org/10.1371/journal.pone.0343798",
+    "formatted_apa": "Zhou, Y., Gong, H., Hao, Z., Wang, L., Li, L., \\& Zou, X. (2026c). Based on single-cell and transcriptome analysis of inflammatory pathway biomarkers and their molecular mechanisms in chronic obstructive pulmonary disease. \\textit{PLOS One}, \\textit{21}(2), e0343798. \\url{https://doi.org/10.1371/journal.pone.0343798}",
+    "verification_status": "Verified against Crossref and PubMed metadata by the review authors"
+  },
+  {
+    "cite_key": "B313",
+    "citation_label": "Zhu et~al.(2024)",
+    "year": "2024",
+    "doi": "10.1111/jcmm.70107",
+    "url": "https://doi.org/10.1111/jcmm.70107",
+    "formatted_apa": "Zhu, Z., Zeng, Z., Song, B., Chen, H., \\& Zeng, H. (2024). Identification of diagnostic biomarkers and immune cell profiles associated with COPD integrated bioinformatics and machine learning. \\textit{Journal of Cellular and Molecular Medicine}, \\textit{28}(18), e70107. \\url{https://doi.org/10.1111/jcmm.70107}",
+    "verification_status": "Verified against Crossref and PubMed metadata by the review authors"
+  },
+  {
+    "cite_key": "W093",
+    "citation_label": "Zhuang et~al.(2025)",
+    "year": "2025",
+    "doi": "10.2196/76323",
+    "url": "https://doi.org/10.2196/76323",
+    "formatted_apa": "Zhuang, M., Hassan, I. I., Ahmad, W. M. A. W., Abdul Kadir, A., Liu, X., Li, F., Gao, Y., Guan, Y., \\& Song, S. (2025). Effectiveness of digital health interventions for chronic obstructive pulmonary disease: Systematic review and meta-analysis. \\textit{Journal of Medical Internet Research}, \\textit{27}, e76323. \\url{https://doi.org/10.2196/76323}",
+    "verification_status": "Verified against Crossref and PubMed metadata by the review authors"
+  },
+  {
+    "cite_key": "T024",
+    "citation_label": "Zou et~al.(2026)",
+    "year": "2026",
+    "doi": "10.21037/jtd-2026-0843",
+    "url": "https://doi.org/10.21037/jtd-2026-0843",
+    "formatted_apa": "Zou, Z., Chen, J., Mai, Z., Wu, N., Wang, Y., Xu, R., Jiang, Z., Chen, G., \\& Xian, L. (2026). Uncovering sodium overload-associated gene signatures in chronic obstructive pulmonary disease through integrated bioinformatics and machine learning. \\textit{Journal of Thoracic Disease}, \\textit{18}(8), 858. \\url{https://doi.org/10.21037/jtd-2026-0843}",
+    "verification_status": "Verified against Crossref and PubMed metadata by the review authors"
+  },
+  {
+    "cite_key": "T221",
+    "citation_label": "Zuo et~al.(2025)",
+    "year": "2025",
+    "doi": "10.2147/jir.s511092",
+    "url": "https://doi.org/10.2147/jir.s511092",
+    "formatted_apa": "Zuo, B., Jin, L., Sun, Z., Hu, H., Yin, Y., Yang, S., \\& Liu, Z. (2025). Predicting Superaverage Length of Stay in COPD Patients with Hypercapnic Respiratory Failure Using Machine Learning. \\textit{Journal of Inflammation Research}, \\textit{18}, 5993--6008. \\url{https://doi.org/10.2147/jir.s511092}",
+    "verification_status": "Verified against Crossref and PubMed metadata by the review authors"
+  }
+]

@@ -1,0 +1,137 @@
+[
+  {
+    "reference_key": "T177",
+    "target": "CT COPD identification in the NLST external cohort",
+    "claim_as_used": "AUROC 0.881",
+    "source_locator": "Results: external validation; quantitative ten-feature CT model.",
+    "interpretation_limit": "Different from the results in the three Chinese external cohorts.",
+    "doi": "10.1016/j.eclinm.2025.103166",
+    "primary_source_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12002883/fullTextXML",
+    "checked_date": "2026-10-02",
+    "verification_scope": "Verified directly against the primary publication by the review authors."
+  },
+  {
+    "reference_key": "T004",
+    "target": "GOLD I-II versus III-IV severity classification at external hospitals",
+    "claim_as_used": "Combined AUROC 0.767; radiomics plus deep features 0.759",
+    "source_locator": "Results: external validation comparison of the combined and component models.",
+    "interpretation_limit": "Numerical difference is not presented as a statistically significant superiority claim.",
+    "doi": "10.3389/fmed.2026.1831103",
+    "primary_source_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13212252/fullTextXML",
+    "checked_date": "2026-10-02",
+    "verification_scope": "Verified directly against the primary publication by the review authors."
+  },
+  {
+    "reference_key": "T035",
+    "target": "Eosinophils >=2% in acute COPD exacerbation",
+    "claim_as_used": "193 development patients; 289 external patients; combined AUROC 0.843 internal and 0.697 external",
+    "source_locator": "Methods: cohort allocation; Results: radiomics plus quantitative CT model.",
+    "interpretation_limit": "Surrogate eosinophil category, not a corticosteroid treatment-effect outcome.",
+    "doi": "10.1186/s12890-026-04219-w",
+    "primary_source_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13085593/fullTextXML",
+    "checked_date": "2026-10-02",
+    "verification_scope": "Verified directly against the primary publication by the review authors."
+  },
+  {
+    "reference_key": "T037",
+    "target": "ICD-code-based COPD phenotype from ECG",
+    "claim_as_used": "AUROC 0.82 held-out hospital; 0.75 UK Biobank",
+    "source_locator": "Results: external validation cohorts.",
+    "interpretation_limit": "Not equivalent to prospective diagnosis against post-bronchodilator spirometry.",
+    "doi": "10.1016/j.ebiom.2025.106066",
+    "primary_source_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12805298/fullTextXML",
+    "checked_date": "2026-10-02",
+    "verification_scope": "Verified directly against the primary publication by the review authors."
+  },
+  {
+    "reference_key": "T083",
+    "target": "One-year moderate-to-severe exacerbation at the external hospital",
+    "claim_as_used": "AUROC 0.755 combined versus 0.730 clinical-only",
+    "source_locator": "Results: external-validation performance by endpoint and model.",
+    "interpretation_limit": "The severe-exacerbation endpoint has different estimates and is not substituted here.",
+    "doi": "10.2196/69785",
+    "primary_source_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12123229/fullTextXML",
+    "checked_date": "2026-10-02",
+    "verification_scope": "Verified directly against the primary publication by the review authors."
+  },
+  {
+    "reference_key": "T021",
+    "target": "External COPD cough detection",
+    "claim_as_used": "Four hospitals; 105 COPD and 617 non-COPD; AUROC 0.94",
+    "source_locator": "Methods and Results: prospective external validation cohort.",
+    "interpretation_limit": "Selected stable COPD population; case finding does not replace diagnostic confirmation.",
+    "doi": "10.1038/s41533-026-00486-6",
+    "primary_source_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13194948/fullTextXML",
+    "checked_date": "2026-10-02",
+    "verification_scope": "Verified directly against the primary publication by the review authors."
+  },
+  {
+    "reference_key": "A020",
+    "target": "At least two moderate or one severe exacerbation in the next year",
+    "claim_as_used": "TORCH external AUROC 0.76 versus 0.68 for exacerbation history",
+    "source_locator": "Results: ACCEPT 2.0 external validation after ECLIPSE recalibration.",
+    "interpretation_limit": "This is the stated primary endpoint, not the metric for every exacerbation definition.",
+    "doi": "10.1016/j.eclinm.2022.101574",
+    "primary_source_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC9309408/fullTextXML",
+    "checked_date": "2026-10-02",
+    "verification_scope": "Verified directly against the primary publication by the review authors."
+  },
+  {
+    "reference_key": "T241",
+    "target": "Thirty-day readmission after federated development",
+    "claim_as_used": "Prospective evaluation: 100 patients, Spain and Serbia",
+    "source_locator": "Results: prospective validation; 22 in Spain and 78 in Serbia.",
+    "interpretation_limit": "Retrospective headline metrics are not attributed to this small prospective sample.",
+    "doi": "10.2196/35307",
+    "primary_source_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC9204581/fullTextXML",
+    "checked_date": "2026-10-02",
+    "verification_scope": "Verified directly against the primary publication by the review authors."
+  },
+  {
+    "reference_key": "T040",
+    "target": "Mannose metabolism-related molecular markers",
+    "claim_as_used": "External validation cohort: 12 samples",
+    "source_locator": "Methods: external expression validation data.",
+    "interpretation_limit": "Small sample count does not establish robust clinical diagnostic performance.",
+    "doi": "10.2147/copd.s604522",
+    "primary_source_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13475535/fullTextXML",
+    "checked_date": "2026-10-02",
+    "verification_scope": "Verified directly against the primary publication by the review authors."
+  },
+  {
+    "reference_key": "A030",
+    "target": "Joint clinical and blood transcriptomic latent phenotypes",
+    "claim_as_used": "3,628 COPDGene participants; five extreme branches containing 1,552 individuals",
+    "source_locator": "Results: joint embedding, branch selection and ECLIPSE comparison.",
+    "interpretation_limit": "Branches select extreme phenotypes; not an exhaustive five-class assignment of all participants.",
+    "doi": "10.1038/s41467-026-72989-2",
+    "primary_source_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13392298/fullTextXML",
+    "checked_date": "2026-10-02",
+    "verification_scope": "Verified directly against the primary publication by the review authors."
+  },
+  {
+    "reference_key": "T133",
+    "target": "Heterogeneity of azithromycin treatment effects",
+    "claim_as_used": "External COLUMBUS analysis: 83 participants",
+    "source_locator": "Methods and Results: independent trial evaluation with complete required covariates.",
+    "interpretation_limit": "Not a prospective trial of model-guided prescribing.",
+    "doi": "10.1136/thorax-2025-223095",
+    "primary_source_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12703347/fullTextXML",
+    "checked_date": "2026-10-02",
+    "verification_scope": "Verified directly against the primary publication by the review authors."
+  },
+  {
+    "key": "B009",
+    "claim": "Discovery cohort 787; external Respiratory Health cohort 557.",
+    "source": "https://doi.org/10.1038/s41467-026-77040-y",
+    "location": "Results: study population and study design; Methods cohort descriptions.",
+    "limit": "External diagnostic assessment is not automatically external validation of every prognostic endpoint."
+  },
+  {
+    "key": "B278",
+    "claim": "Blinded primary-care evaluation of 1113 spirometry records.",
+    "source": "https://doi.org/10.1183/23120541.00116-2025",
+    "location": "Methods and Results: study cohort and reference-standard assessment.",
+    "limit": "Diagnostic support, not prospective patient-outcome improvement."
+  }
+]

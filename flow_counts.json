@@ -1,0 +1,21 @@
+{
+  "database_records_stream1": 1192,
+  "cross_disciplinary_entries_stream2": 474,
+  "cross_disciplinary_unique_records": 268,
+  "cross_disciplinary_non_overlapping": 140,
+  "total_unique_records_screened": 1330,
+  "database_excluded_title_abstract": 998,
+  "database_reports_sought": 194,
+  "supplementary_reports_sought": 6,
+  "contextual_methodological_sources_retained": 80,
+  "reports_sought": 200,
+  "reports_retrieved_and_assessed": 155,
+  "report_not_retrieved": 45,
+  "exclude_full_report": 30,
+  "include_primary_register": 125,
+  "total_verified_bibliography": 205,
+  "cross_disciplinary_unresolved_removed": 2,
+  "cross_disciplinary_resolved_non_overlapping_screened": 138,
+  "stream2_excluded_screening": 56,
+  "total_excluded_screening": 1054
+}

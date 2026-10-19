@@ -1,0 +1,14 @@
+{
+  "search_date": "2026-10-02",
+  "stream_1_platform": "PubMed/MEDLINE (https://pubmed.ncbi.nlm.nih.gov/) & Europe PMC (https://europepmc.org/RestfulWebService)",
+  "stream_1_parameterized_rest_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=%28TITLE_ABS%3A%22chronic+obstructive+pulmonary+disease%22+OR+TITLE_ABS%3ACOPD%29+AND+%28TITLE_ABS%3A%22machine+learning%22+OR+TITLE_ABS%3A%22deep+learning%22+OR+TITLE_ABS%3A%22artificial+intelligence%22+OR+TITLE_ABS%3A%22neural+network%22+OR+TITLE_ABS%3A%22neural+networks%22+OR+TITLE_ABS%3Aradiomics%29+AND+FIRST_PDATE%3A%5B2020-01-01+TO+2026-10-02%5D+AND+SRC%3AMED&format=json&resultType=core&pageSize=25",
+  "stream_1_query": "(TITLE_ABS:\"chronic obstructive pulmonary disease\" OR TITLE_ABS:COPD) AND (TITLE_ABS:\"machine learning\" OR TITLE_ABS:\"deep learning\" OR TITLE_ABS:\"artificial intelligence\" OR TITLE_ABS:\"neural network\" OR TITLE_ABS:\"neural networks\" OR TITLE_ABS:radiomics) AND FIRST_PDATE:[2020-01-01 TO 2026-10-02] AND SRC:MED",
+  "stream_1_records_returned": 1192,
+  "stream_2_platform": "Crossref Bibliographic REST API (https://www.crossref.org/documentation/retrieve-metadata/rest-api/) & Backward Citation Tracking",
+  "stream_2_candidate_entries": 474,
+  "stream_2_unique_non_overlapping": 140,
+  "total_unique_records_screened": 1330,
+  "screening_and_verification": "Two-stage title/abstract triage and full-text eligibility verification conducted and adjudicated by the author team (M. E. Hasan, Y.-F. Wu, and D.-J. Yu) with four-domain PROBAST+AI risk-of-bias appraisal across all 125 included primary studies.",
+  "query": "(TITLE_ABS:\"chronic obstructive pulmonary disease\" OR TITLE_ABS:COPD) AND (TITLE_ABS:\"machine learning\" OR TITLE_ABS:\"deep learning\" OR TITLE_ABS:\"artificial intelligence\" OR TITLE_ABS:\"neural network\" OR TITLE_ABS:\"neural networks\" OR TITLE_ABS:radiomics) AND FIRST_PDATE:[2020-01-01 TO 2026-10-02] AND SRC:MED",
+  "stream_1_interactive_web_url": "https://europepmc.org/search?query=%28TITLE_ABS%3A%22chronic%20obstructive%20pulmonary%20disease%22%20OR%20TITLE_ABS%3ACOPD%29%20AND%20%28TITLE_ABS%3A%22machine%20learning%22%20OR%20TITLE_ABS%3A%22deep%20learning%22%20OR%20TITLE_ABS%3A%22artificial%20intelligence%22%20OR%20TITLE_ABS%3A%22neural%20network%22%20OR%20TITLE_ABS%3A%22neural%20networks%22%20OR%20TITLE_ABS%3Aradiomics%29%20AND%20FIRST_PDATE%3A%5B2020-01-01%20TO%202026-10-02%5D%20AND%20SRC%3AMED"
+}

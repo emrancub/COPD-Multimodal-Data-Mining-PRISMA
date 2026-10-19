@@ -1,0 +1,1002 @@
+[
+  {
+    "review_id": "A001",
+    "cite_key": "A001",
+    "inputs_target_probast": "\\textbf{Inputs:} Imaging; spirometry; clinical\\newline \\textbf{Target:} Symptom phenotyping\\newline \\textbf{PROBAST+AI:} D1: Low | D2: Low | D3: Low | D4: Low (Overall: Low)",
+    "validation_basis": "Dyspnoea model developed in COPDGene and evaluated in ECLIPSE.",
+    "interpretation_limit_and_doi": "Predicts contemporaneous symptom burden; no evaluation in never-smokers or a deployed care pathway.\\newline \\url{https://doi.org/10.1007/s00408-026-00871-5}",
+    "doi": "10.1007/s00408-026-00871-5"
+  },
+  {
+    "review_id": "A020",
+    "cite_key": "A020",
+    "inputs_target_probast": "\\textbf{Inputs:} Clinical\\newline \\textbf{Target:} Future exacerbation\\newline \\textbf{PROBAST+AI:} D1: Low | D2: Low | D3: Low | D4: Low (Overall: Low)",
+    "validation_basis": "ACCEPT 2.0 recalibrated in ECLIPSE and externally evaluated in TORCH.",
+    "interpretation_limit_and_doi": "Comparator example includes calibration and net benefit; benefit from model-guided treatment remains untested.\\newline \\url{https://doi.org/10.1016/j.eclinm.2022.101574}",
+    "doi": "10.1016/j.eclinm.2022.101574"
+  },
+  {
+    "review_id": "A026",
+    "cite_key": "A026",
+    "inputs_target_probast": "\\textbf{Inputs:} Clinical\\newline \\textbf{Target:} Future exacerbation\\newline \\textbf{PROBAST+AI:} D1: Low | D2: Low | D3: Low | D4: Low (Overall: Low)",
+    "validation_basis": "Mixed-effects clinical prediction model developed across three trial cohorts and externally validated in 1,819 ECLIPSE participants.",
+    "interpretation_limit_and_doi": "Predicts exacerbation frequency and severity for risk stratification; requires recalibration across lower-prevalence primary-care settings (addressed in ACCEPT 2.0).\\newline \\url{https://doi.org/10.1016/S2213-2600(19)30397-2}",
+    "doi": "10.1016/S2213-2600(19)30397-2"
+  },
+  {
+    "review_id": "A030",
+    "cite_key": "A030",
+    "inputs_target_probast": "\\textbf{Inputs:} Clinical; molecular\\newline \\textbf{Target:} Phenotyping\\newline \\textbf{PROBAST+AI:} D1: Low | D2: Low | D3: Low | D4: Low (Overall: Low)",
+    "validation_basis": "Joint clinical/transcriptomic embedding examined in COPDGene and ECLIPSE.",
+    "interpretation_limit_and_doi": "Selected extreme branches are not an exhaustive partition of all participants or validated treatment-response groups.\\newline \\url{https://doi.org/10.1038/s41467-026-72989-2}",
+    "doi": "10.1038/s41467-026-72989-2"
+  },
+  {
+    "review_id": "A051",
+    "cite_key": "A051",
+    "inputs_target_probast": "\\textbf{Inputs:} Imaging; spirometry; clinical\\newline \\textbf{Target:} Progression composite\\newline \\textbf{PROBAST+AI:} D1: Low | D2: Low | D3: Low | D4: Low (Overall: Low)",
+    "validation_basis": "External COPDGene evaluation in people with preserved ratio and chronic cough.",
+    "interpretation_limit_and_doi": "Outcome combines lung-function decline and exacerbation; it is not identical to incident spirometric COPD.\\newline \\url{https://doi.org/10.1177/17534666261466906}",
+    "doi": "10.1177/17534666261466906"
+  },
+  {
+    "review_id": "B005",
+    "cite_key": "B005",
+    "inputs_target_probast": "\\textbf{Inputs:} Molecular\\newline \\textbf{Target:} Biomarker discovery\\newline \\textbf{PROBAST+AI:} D1: Unclear | D2: Low | D3: Low | D4: Unclear (Overall: Unclear)",
+    "validation_basis": "COPD expression models developed in GSE76925 and tested in GSE57148.",
+    "interpretation_limit_and_doi": "Population-level exposure associations and docking do not establish an exposure-mediated human treatment mechanism.\\newline \\url{https://doi.org/10.3389/fimmu.2026.1875146}",
+    "doi": "10.3389/fimmu.2026.1875146"
+  },
+  {
+    "review_id": "B006",
+    "cite_key": "B006",
+    "inputs_target_probast": "\\textbf{Inputs:} Molecular\\newline \\textbf{Target:} Biomarker discovery\\newline \\textbf{PROBAST+AI:} D1: Unclear | D2: Low | D3: Unclear | D4: High (Overall: High)",
+    "validation_basis": "Training in GSE77344 with evaluation in GSE148871.",
+    "interpretation_limit_and_doi": "Dataset labels are inconsistent in parts of the report; model selection and expression replication need separate interpretation.\\newline \\url{https://doi.org/10.3389/fphys.2026.1870580}",
+    "doi": "10.3389/fphys.2026.1870580"
+  },
+  {
+    "review_id": "B009",
+    "cite_key": "B009",
+    "inputs_target_probast": "\\textbf{Inputs:} Molecular; clinical\\newline \\textbf{Target:} Detection and prognosis\\newline \\textbf{PROBAST+AI:} D1: Low | D2: Low | D3: Low | D4: Low (Overall: Low)",
+    "validation_basis": "ECOPD discovery cohort of 787 and separate Respiratory Health cohort of 557; longitudinal follow-up also examined.",
+    "interpretation_limit_and_doi": "The scope of external diagnostic validation must not be transferred automatically to every three-year prognostic endpoint.\\newline \\url{https://doi.org/10.1038/s41467-026-77040-y}",
+    "doi": "10.1038/s41467-026-77040-y"
+  },
+  {
+    "review_id": "B011",
+    "cite_key": "B011",
+    "inputs_target_probast": "\\textbf{Inputs:} Molecular\\newline \\textbf{Target:} Biomarker discovery\\newline \\textbf{PROBAST+AI:} D1: Unclear | D2: Low | D3: Low | D4: Unclear (Overall: Unclear)",
+    "validation_basis": "GSE42057 development with reported evaluation in combined GSE148871/GSE126923 data.",
+    "interpretation_limit_and_doi": "Accession labels and population descriptions vary within the report; the narrow male/older exposure-defined target limits generalization.\\newline \\url{https://doi.org/10.3389/fmed.2026.1922619}",
+    "doi": "10.3389/fmed.2026.1922619"
+  },
+  {
+    "review_id": "B015",
+    "cite_key": "B015",
+    "inputs_target_probast": "\\textbf{Inputs:} Molecular\\newline \\textbf{Target:} Biomarker discovery\\newline \\textbf{PROBAST+AI:} D1: Unclear | D2: Low | D3: Unclear | D4: High (Overall: High)",
+    "validation_basis": "Gene selection across three airway datasets followed by expression testing in separate clinical qRT-PCR samples.",
+    "interpretation_limit_and_doi": "The three discovery datasets are not independent tests after joint feature selection; clinical expression replication is the mapped evidence.\\newline \\url{https://doi.org/10.2147/copd.s592045}",
+    "doi": "10.2147/copd.s592045"
+  },
+  {
+    "review_id": "B017",
+    "cite_key": "B017",
+    "inputs_target_probast": "\\textbf{Inputs:} Molecular\\newline \\textbf{Target:} Biomarker discovery\\newline \\textbf{PROBAST+AI:} D1: Unclear | D2: Low | D3: Low | D4: Unclear (Overall: Unclear)",
+    "validation_basis": "GSE76925 development and GSE118468 COPD test cohort.",
+    "interpretation_limit_and_doi": "The COPD test has 18 samples; cross-disease gene overlap does not demonstrate comorbidity causation.\\newline \\url{https://doi.org/10.1016/j.jgeb.2026.100766}",
+    "doi": "10.1016/j.jgeb.2026.100766"
+  },
+  {
+    "review_id": "B032",
+    "cite_key": "B032",
+    "inputs_target_probast": "\\textbf{Inputs:} Molecular\\newline \\textbf{Target:} Biomarker discovery\\newline \\textbf{PROBAST+AI:} D1: Unclear | D2: Low | D3: Unclear | D4: High (Overall: High)",
+    "validation_basis": "GSE103174 development and GSE106986 expression/ROC assessment.",
+    "interpretation_limit_and_doi": "Very small validation cohort; a nomogram fitted in discovery data is not externally validated clinical utility.\\newline \\url{https://doi.org/10.2147/copd.s615813}",
+    "doi": "10.2147/copd.s615813"
+  },
+  {
+    "review_id": "B036",
+    "cite_key": "B036",
+    "inputs_target_probast": "\\textbf{Inputs:} Molecular\\newline \\textbf{Target:} Biological replication\\newline \\textbf{PROBAST+AI:} D1: Unclear | D2: Low | D3: Low | D4: Unclear (Overall: Unclear)",
+    "validation_basis": "Endothelial IL6 findings examined in the COPD Cell Atlas and a separate disease-stage expression cohort.",
+    "interpretation_limit_and_doi": "The UK Biobank clinical classifier uses an internal random split; independent evidence concerns biological expression patterns.\\newline \\url{https://doi.org/10.1038/s41420-026-03020-2}",
+    "doi": "10.1038/s41420-026-03020-2"
+  },
+  {
+    "review_id": "B040",
+    "cite_key": "B040",
+    "inputs_target_probast": "\\textbf{Inputs:} Molecular\\newline \\textbf{Target:} Biomarker discovery\\newline \\textbf{PROBAST+AI:} D1: Unclear | D2: Low | D3: Low | D4: Unclear (Overall: Unclear)",
+    "validation_basis": "GSE38974 discovery and GSE94916 independent expression assessment.",
+    "interpretation_limit_and_doi": "Only six COPD and six control validation samples; gene filtering across cohorts is not a pristine final classifier test.\\newline \\url{https://doi.org/10.2147/copd.s596649}",
+    "doi": "10.2147/copd.s596649"
+  },
+  {
+    "review_id": "B043",
+    "cite_key": "B043",
+    "inputs_target_probast": "\\textbf{Inputs:} Molecular\\newline \\textbf{Target:} Biomarker discovery\\newline \\textbf{PROBAST+AI:} D1: Unclear | D2: Low | D3: Unclear | D4: High (Overall: High)",
+    "validation_basis": "Merged discovery cohorts followed by evaluation in GSE212331, GSE148004 and GSE1650.",
+    "interpretation_limit_and_doi": "Evaluation of many model combinations on the same cohorts requires caution about model-selection optimism.\\newline \\url{https://doi.org/10.1371/journal.pone.0349338}",
+    "doi": "10.1371/journal.pone.0349338"
+  },
+  {
+    "review_id": "B056",
+    "cite_key": "B056",
+    "inputs_target_probast": "\\textbf{Inputs:} Molecular\\newline \\textbf{Target:} Biomarker discovery\\newline \\textbf{PROBAST+AI:} D1: Unclear | D2: Low | D3: Low | D4: Unclear (Overall: Unclear)",
+    "validation_basis": "GSE248493 development and GSE94916 expression assessment.",
+    "interpretation_limit_and_doi": "The external set has 12 samples; concordant expression is not proof of diagnostic readiness.\\newline \\url{https://doi.org/10.1186/s41065-026-00682-x}",
+    "doi": "10.1186/s41065-026-00682-x"
+  },
+  {
+    "review_id": "B060",
+    "cite_key": "B060",
+    "inputs_target_probast": "\\textbf{Inputs:} Molecular\\newline \\textbf{Target:} Biomarker discovery\\newline \\textbf{PROBAST+AI:} D1: Unclear | D2: Low | D3: Unclear | D4: High (Overall: High)",
+    "validation_basis": "GSE47460 development and GSE38974 diagnostic evaluation.",
+    "interpretation_limit_and_doi": "Small external tissue cohort and preprocessing choices limit clinical transfer; genetic analyses do not establish drug benefit.\\newline \\url{https://doi.org/10.2147/copd.s548160}",
+    "doi": "10.2147/copd.s548160"
+  },
+  {
+    "review_id": "B063",
+    "cite_key": "B063",
+    "inputs_target_probast": "\\textbf{Inputs:} Molecular\\newline \\textbf{Target:} Biomarker discovery\\newline \\textbf{PROBAST+AI:} D1: Unclear | D2: Low | D3: Low | D4: Unclear (Overall: Unclear)",
+    "validation_basis": "GSE57148 discovery followed by qRT-PCR in 10 COPD and 10 control clinical samples.",
+    "interpretation_limit_and_doi": "Clinical expression replication supports candidate genes, not the externally validated performance of an entire diagnostic pipeline.\\newline \\url{https://doi.org/10.3389/fimmu.2026.1880745}",
+    "doi": "10.3389/fimmu.2026.1880745"
+  },
+  {
+    "review_id": "B064",
+    "cite_key": "B064",
+    "inputs_target_probast": "\\textbf{Inputs:} Molecular\\newline \\textbf{Target:} Biomarker discovery\\newline \\textbf{PROBAST+AI:} D1: Unclear | D2: Low | D3: Unclear | D4: High (Overall: High)",
+    "validation_basis": "GSE37768 discovery and GSE239897 expression assessment, with single-cell follow-up.",
+    "interpretation_limit_and_doi": "The validation cohort helped select the final genes; it is not untouched confirmation of the final signature.\\newline \\url{https://doi.org/10.1371/journal.pone.0343798}",
+    "doi": "10.1371/journal.pone.0343798"
+  },
+  {
+    "review_id": "B137",
+    "cite_key": "B137",
+    "inputs_target_probast": "\\textbf{Inputs:} Molecular\\newline \\textbf{Target:} Biomarker discovery\\newline \\textbf{PROBAST+AI:} D1: Unclear | D2: Low | D3: Unclear | D4: High (Overall: High)",
+    "validation_basis": "GSE100153 training and GSE124180 blood-expression assessment.",
+    "interpretation_limit_and_doi": "Cross-platform replication and small samples do not establish a clinically useful blood test.\\newline \\url{https://doi.org/10.3389/fgene.2025.1653163}",
+    "doi": "10.3389/fgene.2025.1653163"
+  },
+  {
+    "review_id": "B138",
+    "cite_key": "B138",
+    "inputs_target_probast": "\\textbf{Inputs:} Molecular\\newline \\textbf{Target:} Biomarker discovery\\newline \\textbf{PROBAST+AI:} D1: Unclear | D2: Low | D3: Low | D4: Unclear (Overall: Unclear)",
+    "validation_basis": "GSE112811 discovery and GSE146560 expression/ROC assessment.",
+    "interpretation_limit_and_doi": "External sample size is 16; apparent discrimination is imprecise and clinical utility untested.\\newline \\url{https://doi.org/10.1038/s41598-025-11347-6}",
+    "doi": "10.1038/s41598-025-11347-6"
+  },
+  {
+    "review_id": "B140",
+    "cite_key": "B140",
+    "inputs_target_probast": "\\textbf{Inputs:} Molecular\\newline \\textbf{Target:} Biomarker discovery\\newline \\textbf{PROBAST+AI:} D1: Unclear | D2: Low | D3: Unclear | D4: High (Overall: High)",
+    "validation_basis": "Separate public expression data and clinical tissue samples used to examine glycosylation candidates.",
+    "interpretation_limit_and_doi": "The report describes nonsignificant differences for all three candidates in the COPD validation dataset; attempted replication is not uniformly successful.\\newline \\url{https://doi.org/10.2147/jir.s537967}",
+    "doi": "10.2147/jir.s537967"
+  },
+  {
+    "review_id": "B149",
+    "cite_key": "B149",
+    "inputs_target_probast": "\\textbf{Inputs:} Molecular\\newline \\textbf{Target:} Biomarker discovery\\newline \\textbf{PROBAST+AI:} D1: Unclear | D2: Low | D3: Unclear | D4: High (Overall: High)",
+    "validation_basis": "GSE100153 discovery, GSE42057 assessment and small clinical qRT-PCR replication.",
+    "interpretation_limit_and_doi": "Small experimental sample and blood-compartment differences limit screening claims.\\newline \\url{https://doi.org/10.2147/copd.s556818}",
+    "doi": "10.2147/copd.s556818"
+  },
+  {
+    "review_id": "B150",
+    "cite_key": "B150",
+    "inputs_target_probast": "\\textbf{Inputs:} Molecular\\newline \\textbf{Target:} Biomarker discovery\\newline \\textbf{PROBAST+AI:} D1: Unclear | D2: Low | D3: Low | D4: Unclear (Overall: Unclear)",
+    "validation_basis": "The report describes GSE57148 training and GSE54837 validation, plus single-cell localization.",
+    "interpretation_limit_and_doi": "Description of merged versus separate data and comparator composition is ambiguous; no headline diagnostic accuracy is carried forward.\\newline \\url{https://doi.org/10.1038/s41598-024-71773-w}",
+    "doi": "10.1038/s41598-024-71773-w"
+  },
+  {
+    "review_id": "B157",
+    "cite_key": "B157",
+    "inputs_target_probast": "\\textbf{Inputs:} Molecular\\newline \\textbf{Target:} Phenotyping\\newline \\textbf{PROBAST+AI:} D1: Unclear | D2: Low | D3: Low | D4: Unclear (Overall: Unclear)",
+    "validation_basis": "Cytokine findings examined in separate cohorts and immune-cell findings in an independent single-cell dataset.",
+    "interpretation_limit_and_doi": "Replication of immune composition does not validate every learned emphysema subtype or a treatment-response rule.\\newline \\url{https://doi.org/10.1016/j.isci.2025.112966}",
+    "doi": "10.1016/j.isci.2025.112966"
+  },
+  {
+    "review_id": "B158",
+    "cite_key": "B158",
+    "inputs_target_probast": "\\textbf{Inputs:} Molecular\\newline \\textbf{Target:} Biomarker discovery\\newline \\textbf{PROBAST+AI:} D1: Unclear | D2: Low | D3: Low | D4: Unclear (Overall: Unclear)",
+    "validation_basis": "GSE42057 discovery and GSE94916 expression assessment.",
+    "interpretation_limit_and_doi": "The independent set has 12 samples; nomogram development and expression replication are separate claims.\\newline \\url{https://doi.org/10.3389/fgene.2025.1567173}",
+    "doi": "10.3389/fgene.2025.1567173"
+  },
+  {
+    "review_id": "B165",
+    "cite_key": "B165",
+    "inputs_target_probast": "\\textbf{Inputs:} Molecular\\newline \\textbf{Target:} Biomarker discovery\\newline \\textbf{PROBAST+AI:} D1: Unclear | D2: Low | D3: Low | D4: Unclear (Overall: Unclear)",
+    "validation_basis": "GSE38974 discovery and GSE8545 assessment, with additional cell/mouse experiments.",
+    "interpretation_limit_and_doi": "Animal and cell interventions do not demonstrate therapeutic benefit in people with COPD.\\newline \\url{https://doi.org/10.1155/ijog/7060748}",
+    "doi": "10.1155/ijog/7060748"
+  },
+  {
+    "review_id": "B175",
+    "cite_key": "B175",
+    "inputs_target_probast": "\\textbf{Inputs:} Molecular\\newline \\textbf{Target:} Biomarker discovery\\newline \\textbf{PROBAST+AI:} D1: Unclear | D2: Low | D3: Unclear | D4: High (Overall: High)",
+    "validation_basis": "GSE19407 development and GSE10006 expression/ROC assessment.",
+    "interpretation_limit_and_doi": "Very high classification estimates require independent audit of sample labels, preprocessing and selection; no numerical estimate is reused here.\\newline \\url{https://doi.org/10.2147/copd.s524381}",
+    "doi": "10.2147/copd.s524381"
+  },
+  {
+    "review_id": "B209",
+    "cite_key": "B209",
+    "inputs_target_probast": "\\textbf{Inputs:} Molecular\\newline \\textbf{Target:} Biomarker discovery\\newline \\textbf{PROBAST+AI:} D1: Unclear | D2: Low | D3: Unclear | D4: High (Overall: High)",
+    "validation_basis": "GSE38974 development and GSE76925 assessment of candidate genes/model.",
+    "interpretation_limit_and_doi": "Small discovery sample and unclear clinical interpretation of cluster labels limit prognosis claims.\\newline \\url{https://doi.org/10.1186/s12920-024-02076-2}",
+    "doi": "10.1186/s12920-024-02076-2"
+  },
+  {
+    "review_id": "B217",
+    "cite_key": "B217",
+    "inputs_target_probast": "\\textbf{Inputs:} Molecular\\newline \\textbf{Target:} Biomarker discovery\\newline \\textbf{PROBAST+AI:} D1: Unclear | D2: Low | D3: Low | D4: Unclear (Overall: Unclear)",
+    "validation_basis": "GSE57148 discovery with evaluation across separate lung-expression datasets.",
+    "interpretation_limit_and_doi": "The report inconsistently labels some validation cohorts and compares many models; expression replication does not establish a locked diagnostic test.\\newline \\url{https://doi.org/10.1038/s41598-025-99002-y}",
+    "doi": "10.1038/s41598-025-99002-y"
+  },
+  {
+    "review_id": "B220",
+    "cite_key": "B220",
+    "inputs_target_probast": "\\textbf{Inputs:} Molecular\\newline \\textbf{Target:} Biomarker discovery\\newline \\textbf{PROBAST+AI:} D1: Unclear | D2: Low | D3: Low | D4: Unclear (Overall: Unclear)",
+    "validation_basis": "GSE76925 development and GSE38974 external expression/model assessment.",
+    "interpretation_limit_and_doi": "Network toxicology and docking do not establish causal benzo(a)pyrene effects or treatment efficacy.\\newline \\url{https://doi.org/10.1186/s40360-025-00842-1}",
+    "doi": "10.1186/s40360-025-00842-1"
+  },
+  {
+    "review_id": "B223",
+    "cite_key": "B223",
+    "inputs_target_probast": "\\textbf{Inputs:} Molecular\\newline \\textbf{Target:} Biomarker discovery\\newline \\textbf{PROBAST+AI:} D1: Unclear | D2: Low | D3: Unclear | D4: High (Overall: High)",
+    "validation_basis": "GSE57148 discovery and GSE8581 expression/ROC assessment.",
+    "interpretation_limit_and_doi": "Both cohorts were used to select the final biomarkers; another untouched cohort is needed for confirmation.\\newline \\url{https://doi.org/10.3389/fmed.2025.1612390}",
+    "doi": "10.3389/fmed.2025.1612390"
+  },
+  {
+    "review_id": "B232",
+    "cite_key": "B232",
+    "inputs_target_probast": "\\textbf{Inputs:} Imaging; clinical\\newline \\textbf{Target:} Case finding / incident risk\\newline \\textbf{PROBAST+AI:} D1: Low | D2: Unclear | D3: Low | D4: Unclear (Overall: Unclear)",
+    "validation_basis": "External evaluation of a pre-trained deep-learning retinal biological age biomarker (RetiAGE) in 45,438 UK Biobank participants without baseline COPD over 9.8 years (448 incident COPD events; high-risk tertile HR 1.60, 95\\% CI 1.18-2.19).",
+    "interpretation_limit_and_doi": "Expands opportunistic non-respiratory risk stratification to retinal fundus photography; low absolute incident event rate (0.9\\%) limits standalone screening PPV.\\newline \\url{https://doi.org/10.1111/ceo.14501}",
+    "doi": "10.1111/ceo.14501"
+  },
+  {
+    "review_id": "B239",
+    "cite_key": "B239",
+    "inputs_target_probast": "\\textbf{Inputs:} Molecular\\newline \\textbf{Target:} Biomarker discovery\\newline \\textbf{PROBAST+AI:} D1: Unclear | D2: Low | D3: Low | D4: Unclear (Overall: Unclear)",
+    "validation_basis": "GSE151052 discovery and GSE106986 assessment, with single-cell localization.",
+    "interpretation_limit_and_doi": "Validation data informed candidate retention; this is exploratory cross-cohort evidence.\\newline \\url{https://doi.org/10.3389/fimmu.2025.1675292}",
+    "doi": "10.3389/fimmu.2025.1675292"
+  },
+  {
+    "review_id": "B241",
+    "cite_key": "B241",
+    "inputs_target_probast": "\\textbf{Inputs:} Molecular\\newline \\textbf{Target:} Biomarker discovery\\newline \\textbf{PROBAST+AI:} D1: Unclear | D2: Low | D3: Low | D4: Unclear (Overall: Unclear)",
+    "validation_basis": "Shared candidate genes examined in separate clinical PBMC samples from control, COPD and diabetes groups.",
+    "interpretation_limit_and_doi": "Modest gene-level discrimination and cross-disease comparisons do not establish a diagnostic panel for comorbid disease.\\newline \\url{https://doi.org/10.3389/fimmu.2025.1536551}",
+    "doi": "10.3389/fimmu.2025.1536551"
+  },
+  {
+    "review_id": "B243",
+    "cite_key": "B243",
+    "inputs_target_probast": "\\textbf{Inputs:} Molecular\\newline \\textbf{Target:} Biological replication\\newline \\textbf{PROBAST+AI:} D1: Low | D2: Low | D3: Low | D4: Low (Overall: Low)",
+    "validation_basis": "Mouse-derived latent-factor findings followed by human lung-tissue and COPD plasma assessment.",
+    "interpretation_limit_and_doi": "Cross-species corroboration supports a mechanistic hypothesis; it is not a validated human clinical classifier.\\newline \\url{https://doi.org/10.1172/jci.insight.180239}",
+    "doi": "10.1172/jci.insight.180239"
+  },
+  {
+    "review_id": "B244",
+    "cite_key": "B244",
+    "inputs_target_probast": "\\textbf{Inputs:} Molecular\\newline \\textbf{Target:} Biomarker discovery\\newline \\textbf{PROBAST+AI:} D1: Unclear | D2: Low | D3: Low | D4: Unclear (Overall: Unclear)",
+    "validation_basis": "GSE76925 discovery followed by GSE38974 evaluation.",
+    "interpretation_limit_and_doi": "Candidate expression/ROC confirmation is separate from a deployed COPD-versus-asthma differential diagnosis tool.\\newline \\url{https://doi.org/10.1097/md.0000000000045317}",
+    "doi": "10.1097/md.0000000000045317"
+  },
+  {
+    "review_id": "B271",
+    "cite_key": "B271",
+    "inputs_target_probast": "\\textbf{Inputs:} Molecular\\newline \\textbf{Target:} Biomarker discovery\\newline \\textbf{PROBAST+AI:} D1: Unclear | D2: Low | D3: Low | D4: Unclear (Overall: Unclear)",
+    "validation_basis": "Report describes evaluation of a COPD gene model in a separate public dataset.",
+    "interpretation_limit_and_doi": "Validation accession differs between text and caption (GSE56341 versus GSE54837); retained as qualified evidence without numerical claims.\\newline \\url{https://doi.org/10.1111/crj.70057}",
+    "doi": "10.1111/crj.70057"
+  },
+  {
+    "review_id": "B278",
+    "cite_key": "B278",
+    "inputs_target_probast": "\\textbf{Inputs:} Spirometry; clinical\\newline \\textbf{Target:} Diagnostic support\\newline \\textbf{PROBAST+AI:} D1: Low | D2: Low | D3: Low | D4: Low (Overall: Low)",
+    "validation_basis": "Blinded evaluation on 1113 real-world primary-care spirometry records with clinician-adjudicated diagnoses.",
+    "interpretation_limit_and_doi": "One-session handheld spirometry and population differences limit extrapolation; diagnostic assistance is not replacement of full clinical assessment.\\newline \\url{https://doi.org/10.1183/23120541.00116-2025}",
+    "doi": "10.1183/23120541.00116-2025"
+  },
+  {
+    "review_id": "B293",
+    "cite_key": "B293",
+    "inputs_target_probast": "\\textbf{Inputs:} Molecular\\newline \\textbf{Target:} Biomarker discovery\\newline \\textbf{PROBAST+AI:} D1: Unclear | D2: Low | D3: Unclear | D4: High (Overall: High)",
+    "validation_basis": "GSE21359 discovery, GSE76925 validation and GSE38974 additional testing.",
+    "interpretation_limit_and_doi": "Tissue and smoking differences and repeated gene selection limit early-diagnosis claims.\\newline \\url{https://doi.org/10.3390/biomedicines13082006}",
+    "doi": "10.3390/biomedicines13082006"
+  },
+  {
+    "review_id": "B313",
+    "cite_key": "B313",
+    "inputs_target_probast": "\\textbf{Inputs:} Molecular\\newline \\textbf{Target:} Biomarker discovery\\newline \\textbf{PROBAST+AI:} D1: Unclear | D2: Low | D3: Unclear | D4: High (Overall: High)",
+    "validation_basis": "Six discovery expression datasets and six additional datasets used to examine candidate genes.",
+    "interpretation_limit_and_doi": "Validation data contributed to final marker selection; nominally external AUC is not untouched confirmation.\\newline \\url{https://doi.org/10.1111/jcmm.70107}",
+    "doi": "10.1111/jcmm.70107"
+  },
+  {
+    "review_id": "B319",
+    "cite_key": "B319",
+    "inputs_target_probast": "\\textbf{Inputs:} Molecular\\newline \\textbf{Target:} Biomarker discovery\\newline \\textbf{PROBAST+AI:} D1: Unclear | D2: Low | D3: Low | D4: Unclear (Overall: Unclear)",
+    "validation_basis": "Lung-tissue discovery followed by airway-brush, sputum and blood expression/model analyses.",
+    "interpretation_limit_and_doi": "Refitting models in new tissues is not transport of one frozen model; mapped evidence concerns cross-tissue candidate assessment.\\newline \\url{https://doi.org/10.3389/fimmu.2025.1666195}",
+    "doi": "10.3389/fimmu.2025.1666195"
+  },
+  {
+    "review_id": "B357",
+    "cite_key": "B357",
+    "inputs_target_probast": "\\textbf{Inputs:} Molecular\\newline \\textbf{Target:} Biomarker discovery\\newline \\textbf{PROBAST+AI:} D1: Unclear | D2: Low | D3: Low | D4: Unclear (Overall: Unclear)",
+    "validation_basis": "GSE5058 COPD discovery and GSE8545 COPD gene assessment.",
+    "interpretation_limit_and_doi": "Shared COPD/sepsis markers and docking do not establish a clinically effective treatment.\\newline \\url{https://doi.org/10.2147/copd.s510846}",
+    "doi": "10.2147/copd.s510846"
+  },
+  {
+    "review_id": "B382",
+    "cite_key": "B382",
+    "inputs_target_probast": "\\textbf{Inputs:} Physiological signals\\newline \\textbf{Target:} Severity\\newline \\textbf{PROBAST+AI:} D1: Low | D2: Unclear | D3: Unclear | D4: High (Overall: High)",
+    "validation_basis": "Distinct WestRo and WestRo Porti participant cohorts used for a transfer evaluation.",
+    "interpretation_limit_and_doi": "Changed input dimensions and fine-tuning make this adapted transfer, not a completely untouched frozen-model test.\\newline \\url{https://doi.org/10.1002/advs.202203485}",
+    "doi": "10.1002/advs.202203485"
+  },
+  {
+    "review_id": "B467",
+    "cite_key": "B467",
+    "inputs_target_probast": "\\textbf{Inputs:} Molecular\\newline \\textbf{Target:} Biomarker discovery\\newline \\textbf{PROBAST+AI:} D1: Unclear | D2: Low | D3: Unclear | D4: High (Overall: High)",
+    "validation_basis": "GSE76925 COPD discovery and GSE106986 evaluation.",
+    "interpretation_limit_and_doi": "Small validation cohort and cross-disease correlations do not establish a COPD-atrial-fibrillation causal pathway.\\newline \\url{https://doi.org/10.3389/fcvm.2023.1121102}",
+    "doi": "10.3389/fcvm.2023.1121102"
+  },
+  {
+    "review_id": "B486",
+    "cite_key": "B486",
+    "inputs_target_probast": "\\textbf{Inputs:} Imaging; acoustics\\newline \\textbf{Target:} Case finding / severity\\newline \\textbf{PROBAST+AI:} D1: Low | D2: Unclear | D3: Unclear | D4: High (Overall: High)",
+    "validation_basis": "Multimodal CT texture and lung sound/cough audio ensemble framework evaluated across clinical data from AIIMS Raipur and external open respiratory CT and audio benchmark datasets.",
+    "interpretation_limit_and_doi": "Cross-dataset pairing of CT and audio requires strict participant-level alignment; high reported accuracy reflects curated benchmark class balance.\\newline \\url{https://doi.org/10.1016/j.cmpb.2023.107911}",
+    "doi": "10.1016/j.cmpb.2023.107911"
+  },
+  {
+    "review_id": "B514",
+    "cite_key": "B514",
+    "inputs_target_probast": "\\textbf{Inputs:} Molecular\\newline \\textbf{Target:} Biological replication\\newline \\textbf{PROBAST+AI:} D1: Unclear | D2: Low | D3: Unclear | D4: High (Overall: High)",
+    "validation_basis": "Patient-derived epithelial proteomics followed by pathway assessment in independent GSE136831 single-cell data.",
+    "interpretation_limit_and_doi": "Cross-assay pathway corroboration does not validate a patient-level diagnostic or treatment-selection score.\\newline \\url{https://doi.org/10.3346/jkms.2023.38.e220}",
+    "doi": "10.3346/jkms.2023.38.e220"
+  },
+  {
+    "review_id": "B557",
+    "cite_key": "B557",
+    "inputs_target_probast": "\\textbf{Inputs:} Molecular; clinical\\newline \\textbf{Target:} Severity / biomarker prediction\\newline \\textbf{PROBAST+AI:} D1: Low | D2: Low | D3: Low | D4: Low (Overall: Low)",
+    "validation_basis": "Protein and clinical scores developed in COPDGene and evaluated in the AAT Genetic Modifiers Study.",
+    "interpretation_limit_and_doi": "Pi*MM-to-Pi*ZZ and assay-platform differences are central; variable-importance analysis refitted in AAT GMS is a separate result.\\newline \\url{https://doi.org/10.1186/s12931-025-03320-8}",
+    "doi": "10.1186/s12931-025-03320-8"
+  },
+  {
+    "review_id": "B561",
+    "cite_key": "B561",
+    "inputs_target_probast": "\\textbf{Inputs:} Molecular\\newline \\textbf{Target:} Biomarker discovery\\newline \\textbf{PROBAST+AI:} D1: Unclear | D2: Low | D3: Low | D4: Unclear (Overall: Unclear)",
+    "validation_basis": "Airway-derived inflammatory signature followed by gene-expression assessment in five additional public datasets.",
+    "interpretation_limit_and_doi": "Gene association consistency is distinct from independent validation of the complete clinical model.\\newline \\url{https://doi.org/10.3389/fmed.2025.1592802}",
+    "doi": "10.3389/fmed.2025.1592802"
+  },
+  {
+    "review_id": "B566",
+    "cite_key": "B566",
+    "inputs_target_probast": "\\textbf{Inputs:} Molecular; clinical; environment\\newline \\textbf{Target:} Future exacerbation / biomarker discovery\\newline \\textbf{PROBAST+AI:} D1: Unclear | D2: Low | D3: Unclear | D4: High (Overall: High)",
+    "validation_basis": "Cross-system validation combining in vitro/in vivo PM2.5 exposure and murine exosome-transplantation/knockdown models (hsa\\_circ\\_0005045) with machine-learning phenotyping in a 327-patient human COPD cohort.",
+    "interpretation_limit_and_doi": "Establishes biological mechanism linking PM2.5 heavy metals to exosomal hsa\\_circ\\_0005045; human ML classifier requires independent multi-center cohort replication.\\newline \\url{https://doi.org/10.1016/j.envint.2022.107469}",
+    "doi": "10.1016/j.envint.2022.107469"
+  },
+  {
+    "review_id": "B610",
+    "cite_key": "B610",
+    "inputs_target_probast": "\\textbf{Inputs:} Imaging\\newline \\textbf{Target:} Measurement / phenotyping\\newline \\textbf{PROBAST+AI:} D1: Low | D2: Low | D3: Low | D4: Low (Overall: Low)",
+    "validation_basis": "3D U-Net + freeze-and-grow (DL-FG) airway tree detection evaluated across paired standard/low-dose CT in COPDGene Phase II (n=2x236), COPDGene Phase III (n=335), and external multiscanner NELSON trial low-dose CT (n=55).",
+    "interpretation_limit_and_doi": "Explicitly quantifies multiprotocol (19.0\\% TAC / 28.2\\% TACp) and multiscanner (12.8\\% TAC / 18.0\\% TACp) airway detection loss prior to light domain retraining.\\newline \\url{https://doi.org/10.1148/ryct.210311}",
+    "doi": "10.1148/ryct.210311"
+  },
+  {
+    "review_id": "B624",
+    "cite_key": "B624",
+    "inputs_target_probast": "\\textbf{Inputs:} Imaging; clinical; physiology\\newline \\textbf{Target:} Lung-function decline\\newline \\textbf{PROBAST+AI:} D1: Low | D2: Low | D3: Low | D4: Low (Overall: Low)",
+    "validation_basis": "COPDGene model evaluated in SPIROMICS.",
+    "interpretation_limit_and_doi": "Prediction of rapid FEV1 decline is distinct from detection of prevalent COPD; longer-horizon transfer remains uncertain.\\newline \\url{https://doi.org/10.3389/fphys.2023.1144192}",
+    "doi": "10.3389/fphys.2023.1144192"
+  },
+  {
+    "review_id": "B628",
+    "cite_key": "B628",
+    "inputs_target_probast": "\\textbf{Inputs:} Molecular\\newline \\textbf{Target:} Biomarker discovery\\newline \\textbf{PROBAST+AI:} D1: Unclear | D2: Low | D3: Low | D4: Unclear (Overall: Unclear)",
+    "validation_basis": "GSE13896 development and GSE130928 gene/model evaluation.",
+    "interpretation_limit_and_doi": "Public expression replication and cell experiments do not establish prospective clinical utility.\\newline \\url{https://doi.org/10.3389/fphar.2023.1139137}",
+    "doi": "10.3389/fphar.2023.1139137"
+  },
+  {
+    "review_id": "B633",
+    "cite_key": "B633",
+    "inputs_target_probast": "\\textbf{Inputs:} Clinical\\newline \\textbf{Target:} Readmission / workflow\\newline \\textbf{PROBAST+AI:} D1: Low | D2: Unclear | D3: Unclear | D4: High (Overall: High)",
+    "validation_basis": "Prospective temporal prediction assessment followed by a before-after evaluation of a model-linked care pathway.",
+    "interpretation_limit_and_doi": "Same-system validation and nonrandomized bundled interventions cannot isolate the model's causal contribution to readmission changes.\\newline \\url{https://doi.org/10.1038/s41598-022-22434-3}",
+    "doi": "10.1038/s41598-022-22434-3"
+  },
+  {
+    "review_id": "B637",
+    "cite_key": "B637",
+    "inputs_target_probast": "\\textbf{Inputs:} Imaging\\newline \\textbf{Target:} Detection / severity / mortality\\newline \\textbf{PROBAST+AI:} D1: Low | D2: Low | D3: Low | D4: Low (Overall: Low)",
+    "validation_basis": "Deep learning lung segmentation trained on 888 smokers (NLST + institutional) and externally evaluated with deformable registration in 8,951 COPDGene participants for GOLD staging (AUROC 0.86-0.96), 5-year FEV1 progression (OR 2.67), and 10-year mortality (HR 2.23).",
+    "interpretation_limit_and_doi": "Requires paired inspiratory-expiratory CT for air-trapping quantification; subsequent 2022 publication notice corrected minor reporting details.\\newline \\url{https://doi.org/10.1148/ryct.2021200477}",
+    "doi": "10.1148/ryct.2021200477"
+  },
+  {
+    "review_id": "B650",
+    "cite_key": "B650",
+    "inputs_target_probast": "\\textbf{Inputs:} Molecular\\newline \\textbf{Target:} Biomarker discovery\\newline \\textbf{PROBAST+AI:} D1: Unclear | D2: Low | D3: Unclear | D4: High (Overall: High)",
+    "validation_basis": "Merged GSE38974/GSE76925 discovery and GSE106986 expression/ROC assessment.",
+    "interpretation_limit_and_doi": "External gene confirmation is small-sample evidence; clinical calibration and impact remain untested.\\newline \\url{https://doi.org/10.3389/fimmu.2022.740513}",
+    "doi": "10.3389/fimmu.2022.740513"
+  },
+  {
+    "review_id": "B806",
+    "cite_key": "B806",
+    "inputs_target_probast": "\\textbf{Inputs:} Spirometry\\newline \\textbf{Target:} Measurement quality\\newline \\textbf{PROBAST+AI:} D1: Low | D2: Unclear | D3: Low | D4: Unclear (Overall: Unclear)",
+    "validation_basis": "Existing AI quality software evaluated against over-reading on legacy asthma and COPD trial spirometry.",
+    "interpretation_limit_and_doi": "Retrospective evaluation used 2005 standards; it did not demonstrate prospective improvement under updated criteria.\\newline \\url{https://doi.org/10.1183/23120541.00292-2022}",
+    "doi": "10.1183/23120541.00292-2022"
+  },
+  {
+    "review_id": "C001",
+    "cite_key": "C001",
+    "inputs_target_probast": "\\textbf{Inputs:} Imaging\\newline \\textbf{Target:} Measurement / phenotyping\\newline \\textbf{PROBAST+AI:} D1: Low | D2: Low | D3: Low | D4: Low (Overall: Low)",
+    "validation_basis": "Generative 3D deep learning model trained on SPIROMICS (n=1,055) and evaluated in SPIROMICS test (n=1,458, r=0.895) and external COPDGene cohort (n=458, r=0.897) with scan-rescan repeatability and clinical outcome association.",
+    "interpretation_limit_and_doi": "High correlation with dual-volume parametric response mapping supports biomarker validity on inspiratory CT, but does not establish interventional responsiveness without prospective trial testing.\\newline \\url{https://doi.org/10.1164/rccm.202409-1847OC}",
+    "doi": "10.1164/rccm.202409-1847OC"
+  },
+  {
+    "review_id": "C002",
+    "cite_key": "C002",
+    "inputs_target_probast": "\\textbf{Inputs:} Imaging; clinical; physiology\\newline \\textbf{Target:} Mortality\\newline \\textbf{PROBAST+AI:} D1: Low | D2: Low | D3: Low | D4: Low (Overall: Low)",
+    "validation_basis": "Random survival forest and clinical-imaging-spirometry mortality model developed in COPDGene (n=2,632) and externally validated in ECLIPSE (n=1,268).",
+    "interpretation_limit_and_doi": "Demonstrates transferable mortality discrimination across landmark cohorts; subsequent walking-distance unit correction in comparator BODE calculations highlights the importance of auditing baseline score formulas.\\newline \\url{https://doi.org/10.1016/j.chest.2020.02.079}",
+    "doi": "10.1016/j.chest.2020.02.079"
+  },
+  {
+    "review_id": "T002",
+    "cite_key": "T002",
+    "inputs_target_probast": "\\textbf{Inputs:} Imaging; clinical\\newline \\textbf{Target:} Detection / progression classification\\newline \\textbf{PROBAST+AI:} D1: Low | D2: Low | D3: Low | D4: Low (Overall: Low)",
+    "validation_basis": "Two-hospital CT radiomics/deep-feature model with a separate validation cohort.",
+    "interpretation_limit_and_doi": "Risk-classification terminology requires caution: a retrospective label is not automatically future incident COPD.\\newline \\url{https://doi.org/10.21037/jtd-2026-0549}",
+    "doi": "10.21037/jtd-2026-0549"
+  },
+  {
+    "review_id": "T004",
+    "cite_key": "T004",
+    "inputs_target_probast": "\\textbf{Inputs:} Imaging; clinical\\newline \\textbf{Target:} Severity\\newline \\textbf{PROBAST+AI:} D1: Low | D2: Low | D3: Low | D4: Low (Overall: Low)",
+    "validation_basis": "Development at one centre; external validation at two other hospitals.",
+    "interpretation_limit_and_doi": "GOLD I-II versus III-IV classification; not COPD case detection or a treatment-response model.\\newline \\url{https://doi.org/10.3389/fmed.2026.1831103}",
+    "doi": "10.3389/fmed.2026.1831103"
+  },
+  {
+    "review_id": "T012",
+    "cite_key": "T012",
+    "inputs_target_probast": "\\textbf{Inputs:} Clinical\\newline \\textbf{Target:} Case finding\\newline \\textbf{PROBAST+AI:} D1: Low | D2: Low | D3: Low | D4: Low (Overall: Low)",
+    "validation_basis": "Separate community screening cohorts for development and external validation.",
+    "interpretation_limit_and_doi": "Headline accuracy and AUC in the abstract refer to development evaluation; do not relabel them as external results.\\newline \\url{https://doi.org/10.2147/copd.s589883}",
+    "doi": "10.2147/copd.s589883"
+  },
+  {
+    "review_id": "T013",
+    "cite_key": "T013",
+    "inputs_target_probast": "\\textbf{Inputs:} Imaging\\newline \\textbf{Target:} Detection / severity\\newline \\textbf{PROBAST+AI:} D1: Low | D2: Unclear | D3: Low | D4: Unclear (Overall: Unclear)",
+    "validation_basis": "Multi-representation chest CT study integrating quantitative CT parameters, radiomics, and deep learning features for COPD identification and GOLD severity staging across independent validation partitions.",
+    "interpretation_limit_and_doi": "Combines multiple feature representations extracted from the same CT acquisition; incremental gain over single-representation CT baselines must be interpreted separately from cross-modality clinical fusion.\\newline \\url{https://doi.org/10.1159/000548595}",
+    "doi": "10.1159/000548595"
+  },
+  {
+    "review_id": "T021",
+    "cite_key": "T021",
+    "inputs_target_probast": "\\textbf{Inputs:} Acoustics\\newline \\textbf{Target:} Case finding\\newline \\textbf{PROBAST+AI:} D1: Low | D2: Low | D3: Low | D4: Low (Overall: Low)",
+    "validation_basis": "Prospective external evaluation in four hospitals after development.",
+    "interpretation_limit_and_doi": "Selected stable COPD population; a case-finding score does not replace diagnostic confirmation.\\newline \\url{https://doi.org/10.1038/s41533-026-00486-6}",
+    "doi": "10.1038/s41533-026-00486-6"
+  },
+  {
+    "review_id": "T024",
+    "cite_key": "T024",
+    "inputs_target_probast": "\\textbf{Inputs:} Molecular\\newline \\textbf{Target:} Biomarker discovery\\newline \\textbf{PROBAST+AI:} D1: Unclear | D2: Low | D3: Low | D4: Unclear (Overall: Unclear)",
+    "validation_basis": "Held-out GSE11906 and separate small qPCR sample support gene-panel evaluation.",
+    "interpretation_limit_and_doi": "Smoking, tissue and cell-composition differences limit mechanistic interpretation.\\newline \\url{https://doi.org/10.21037/jtd-2026-0843}",
+    "doi": "10.21037/jtd-2026-0843"
+  },
+  {
+    "review_id": "T034",
+    "cite_key": "T034",
+    "inputs_target_probast": "\\textbf{Inputs:} Molecular\\newline \\textbf{Target:} Biomarker discovery\\newline \\textbf{PROBAST+AI:} D1: Low | D2: Low | D3: Low | D4: Low (Overall: Low)",
+    "validation_basis": "Discovery in GSE47460 and external evaluation in GSE57148.",
+    "interpretation_limit_and_doi": "Retrospective tissue classification is not a validated early-screening blood test.\\newline \\url{https://doi.org/10.3390/cimb48050475}",
+    "doi": "10.3390/cimb48050475"
+  },
+  {
+    "review_id": "T035",
+    "cite_key": "T035",
+    "inputs_target_probast": "\\textbf{Inputs:} Imaging\\newline \\textbf{Target:} Biomarker estimation\\newline \\textbf{PROBAST+AI:} D1: Low | D2: Unclear | D3: Unclear | D4: High (Overall: High)",
+    "validation_basis": "Model developed in 193 patients and evaluated in 289 patients from another hospital.",
+    "interpretation_limit_and_doi": "Predicts a blood-eosinophil category; does not establish corticosteroid treatment benefit.\\newline \\url{https://doi.org/10.1186/s12890-026-04219-w}",
+    "doi": "10.1186/s12890-026-04219-w"
+  },
+  {
+    "review_id": "T037",
+    "cite_key": "T037",
+    "inputs_target_probast": "\\textbf{Inputs:} ECG\\newline \\textbf{Target:} Case finding\\newline \\textbf{PROBAST+AI:} D1: Low | D2: Unclear | D3: Unclear | D4: High (Overall: High)",
+    "validation_basis": "Held-out hospital evaluation and an additional UK Biobank test.",
+    "interpretation_limit_and_doi": "Development target is an ICD-code-based COPD diagnosis; ECG and spirometric phenotypes are not interchangeable.\\newline \\url{https://doi.org/10.1016/j.ebiom.2025.106066}",
+    "doi": "10.1016/j.ebiom.2025.106066"
+  },
+  {
+    "review_id": "T040",
+    "cite_key": "T040",
+    "inputs_target_probast": "\\textbf{Inputs:} Molecular\\newline \\textbf{Target:} Biomarker discovery\\newline \\textbf{PROBAST+AI:} D1: Unclear | D2: Low | D3: Unclear | D4: High (Overall: High)",
+    "validation_basis": "Independent expression datasets used to examine candidate mannose-metabolism genes.",
+    "interpretation_limit_and_doi": "External cohort contains only 12 samples; a candidate signature is not clinically established.\\newline \\url{https://doi.org/10.2147/copd.s604522}",
+    "doi": "10.2147/copd.s604522"
+  },
+  {
+    "review_id": "T044",
+    "cite_key": "T044",
+    "inputs_target_probast": "\\textbf{Inputs:} Imaging; physiology\\newline \\textbf{Target:} Differential diagnosis\\newline \\textbf{PROBAST+AI:} D1: Low | D2: Low | D3: Low | D4: Low (Overall: Low)",
+    "validation_basis": "Additional cohort of 37 patients used to evaluate asthma/COPD discrimination.",
+    "interpretation_limit_and_doi": "Small validation sample and differential-diagnosis setting limit generalization to population screening.\\newline \\url{https://doi.org/10.21037/jtd-2025-1-2558}",
+    "doi": "10.21037/jtd-2025-1-2558"
+  },
+  {
+    "review_id": "T050",
+    "cite_key": "T050",
+    "inputs_target_probast": "\\textbf{Inputs:} Molecular\\newline \\textbf{Target:} Phenotyping\\newline \\textbf{PROBAST+AI:} D1: Unclear | D2: Low | D3: Low | D4: Unclear (Overall: Unclear)",
+    "validation_basis": "Molecular subtypes examined in GSE47460 and GSE76925.",
+    "interpretation_limit_and_doi": "Computational subtype reproducibility does not establish treatment-effect heterogeneity.\\newline \\url{https://doi.org/10.2147/copd.s596477}",
+    "doi": "10.2147/copd.s596477"
+  },
+  {
+    "review_id": "T052",
+    "cite_key": "T052",
+    "inputs_target_probast": "\\textbf{Inputs:} Imaging\\newline \\textbf{Target:} Emphysema detection / staging\\newline \\textbf{PROBAST+AI:} D1: Low | D2: Low | D3: Low | D4: Low (Overall: Low)",
+    "validation_basis": "Self-supervised anomaly model assessed on several external CT datasets.",
+    "interpretation_limit_and_doi": "Emphysema extent and image-level classification must be distinguished from patient-level spirometric COPD.\\newline \\url{https://doi.org/10.1016/j.patter.2025.101426}",
+    "doi": "10.1016/j.patter.2025.101426"
+  },
+  {
+    "review_id": "T060",
+    "cite_key": "T060",
+    "inputs_target_probast": "\\textbf{Inputs:} Imaging; clinical\\newline \\textbf{Target:} Current exacerbation identification\\newline \\textbf{PROBAST+AI:} D1: Low | D2: Unclear | D3: Low | D4: Unclear (Overall: Unclear)",
+    "validation_basis": "Radiomics nomogram evaluated in an independent two-hospital cohort.",
+    "interpretation_limit_and_doi": "Distinguishes exacerbated from non-exacerbated states; this is not advance warning of a future event.\\newline \\url{https://doi.org/10.21037/jtd-2025-972}",
+    "doi": "10.21037/jtd-2025-972"
+  },
+  {
+    "review_id": "T061",
+    "cite_key": "T061",
+    "inputs_target_probast": "\\textbf{Inputs:} Molecular\\newline \\textbf{Target:} Biomarker discovery\\newline \\textbf{PROBAST+AI:} D1: Unclear | D2: Low | D3: Low | D4: Unclear (Overall: Unclear)",
+    "validation_basis": "CHRNA1 expression examined in an independent transcriptomic cohort and blood qPCR samples.",
+    "interpretation_limit_and_doi": "Replication concerns expression; the exploratory risk score is not externally validated clinical utility.\\newline \\url{https://doi.org/10.1371/journal.pone.0353838}",
+    "doi": "10.1371/journal.pone.0353838"
+  },
+  {
+    "review_id": "T062",
+    "cite_key": "T062",
+    "inputs_target_probast": "\\textbf{Inputs:} Clinical\\newline \\textbf{Target:} Acute respiratory failure risk\\newline \\textbf{PROBAST+AI:} D1: Low | D2: Unclear | D3: Low | D4: Unclear (Overall: Unclear)",
+    "validation_basis": "Recent single-hospital development; earlier seven-hospital external cohort.",
+    "interpretation_limit_and_doi": "External testing is backward in calendar time; it does not establish forward deployment performance.\\newline \\url{https://doi.org/10.3389/fmed.2026.1806614}",
+    "doi": "10.3389/fmed.2026.1806614"
+  },
+  {
+    "review_id": "T070",
+    "cite_key": "T070",
+    "inputs_target_probast": "\\textbf{Inputs:} Imaging; clinical\\newline \\textbf{Target:} Case finding\\newline \\textbf{PROBAST+AI:} D1: Low | D2: Low | D3: Low | D4: Low (Overall: Low)",
+    "validation_basis": "CXR model trained at 11 centres and tested at six other centres.",
+    "interpretation_limit_and_doi": "Most external participants came from one centre; six-centre testing does not imply equally strong site-level precision.\\newline \\url{https://doi.org/10.1186/s13244-026-02254-z}",
+    "doi": "10.1186/s13244-026-02254-z"
+  },
+  {
+    "review_id": "T074",
+    "cite_key": "T074",
+    "inputs_target_probast": "\\textbf{Inputs:} Molecular\\newline \\textbf{Target:} Biomarker discovery\\newline \\textbf{PROBAST+AI:} D1: Unclear | D2: Low | D3: Low | D4: Unclear (Overall: Unclear)",
+    "validation_basis": "Three-gene signature evaluated across independent blood/lung datasets with additional experiments.",
+    "interpretation_limit_and_doi": "Cross-tissue findings require attention to assay, cell-composition and cohort differences.\\newline \\url{https://doi.org/10.3390/ijms27104231}",
+    "doi": "10.3390/ijms27104231"
+  },
+  {
+    "review_id": "T077",
+    "cite_key": "T077",
+    "inputs_target_probast": "\\textbf{Inputs:} Molecular\\newline \\textbf{Target:} Biomarker discovery\\newline \\textbf{PROBAST+AI:} D1: Unclear | D2: Low | D3: Low | D4: Unclear (Overall: Unclear)",
+    "validation_basis": "Locked training-cohort model evaluated in GSE76925, with further gene-level assessment.",
+    "interpretation_limit_and_doi": "Perturbation experiments and docking remain distinct from proven human therapeutic benefit.\\newline \\url{https://doi.org/10.1007/s00011-026-02294-7}",
+    "doi": "10.1007/s00011-026-02294-7"
+  },
+  {
+    "review_id": "T080",
+    "cite_key": "T080",
+    "inputs_target_probast": "\\textbf{Inputs:} Imaging; clinical\\newline \\textbf{Target:} Three-class case identification\\newline \\textbf{PROBAST+AI:} D1: Low | D2: Low | D3: Low | D4: Low (Overall: Low)",
+    "validation_basis": "Separate hospital test of normal, PRISm and COPD classification.",
+    "interpretation_limit_and_doi": "PRISm is not inevitably a transitional stage progressing to COPD.\\newline \\url{https://doi.org/10.3389/fradi.2026.1829853}",
+    "doi": "10.3389/fradi.2026.1829853"
+  },
+  {
+    "review_id": "T083",
+    "cite_key": "T083",
+    "inputs_target_probast": "\\textbf{Inputs:} Spirometry; clinical\\newline \\textbf{Target:} Future exacerbation\\newline \\textbf{PROBAST+AI:} D1: Low | D2: Low | D3: Low | D4: Low (Overall: Low)",
+    "validation_basis": "Spirometry-image/clinical model developed at one teaching hospital and tested at another.",
+    "interpretation_limit_and_doi": "One-year event prediction; retrospective evaluation does not show that model-guided care prevents exacerbations.\\newline \\url{https://doi.org/10.2196/69785}",
+    "doi": "10.2196/69785"
+  },
+  {
+    "review_id": "T087",
+    "cite_key": "T087",
+    "inputs_target_probast": "\\textbf{Inputs:} Molecular\\newline \\textbf{Target:} Biomarker discovery\\newline \\textbf{PROBAST+AI:} D1: Unclear | D2: Low | D3: Unclear | D4: High (Overall: High)",
+    "validation_basis": "Thirteen-gene model examined in independent lung-tissue cohorts with mechanistic follow-up.",
+    "interpretation_limit_and_doi": "Mechanistic experiments strengthen hypotheses but do not validate a treatment-selection rule.\\newline \\url{https://doi.org/10.1186/s12931-025-03238-1}",
+    "doi": "10.1186/s12931-025-03238-1"
+  },
+  {
+    "review_id": "T094",
+    "cite_key": "T094",
+    "inputs_target_probast": "\\textbf{Inputs:} Imaging; clinical\\newline \\textbf{Target:} Rehabilitation measurement\\newline \\textbf{PROBAST+AI:} D1: Low | D2: Unclear | D3: Low | D4: Unclear (Overall: Unclear)",
+    "validation_basis": "Report describes external imaging-model evaluation in 50 patients and use in a rehabilitation trial.",
+    "interpretation_limit_and_doi": "Randomized rehabilitation is not randomization of AI-guided versus usual care.\\newline \\url{https://doi.org/10.3389/fphys.2026.1735687}",
+    "doi": "10.3389/fphys.2026.1735687"
+  },
+  {
+    "review_id": "T097",
+    "cite_key": "T097",
+    "inputs_target_probast": "\\textbf{Inputs:} Clinical\\newline \\textbf{Target:} Mortality\\newline \\textbf{PROBAST+AI:} D1: Low | D2: Low | D3: Low | D4: Low (Overall: Low)",
+    "validation_basis": "MIMIC-IV development with eICU external evaluation of 28-day mortality.",
+    "interpretation_limit_and_doi": "Few death events and differing winners across metrics; external results are exploratory.\\newline \\url{https://doi.org/10.1186/s12890-026-04478-7}",
+    "doi": "10.1186/s12890-026-04478-7"
+  },
+  {
+    "review_id": "T098",
+    "cite_key": "T098",
+    "inputs_target_probast": "\\textbf{Inputs:} Molecular\\newline \\textbf{Target:} Biomarker discovery\\newline \\textbf{PROBAST+AI:} D1: Unclear | D2: Low | D3: Low | D4: Unclear (Overall: Unclear)",
+    "validation_basis": "Lung-derived candidate genes assessed in a separate peripheral-blood experimental sample.",
+    "interpretation_limit_and_doi": "Blood expression validation is not prospective validation of a deployed diagnostic model.\\newline \\url{https://doi.org/10.1177/17534666261478820}",
+    "doi": "10.1177/17534666261478820"
+  },
+  {
+    "review_id": "T100",
+    "cite_key": "T100",
+    "inputs_target_probast": "\\textbf{Inputs:} Acoustics; clinical\\newline \\textbf{Target:} Case finding\\newline \\textbf{PROBAST+AI:} D1: Low | D2: Low | D3: Low | D4: Low (Overall: Low)",
+    "validation_basis": "Independent test using smartphone models absent during training and validation.",
+    "interpretation_limit_and_doi": "Multi-disease metrics and COPD-specific metrics must be kept separate.\\newline \\url{https://doi.org/10.1038/s41746-026-02445-4}",
+    "doi": "10.1038/s41746-026-02445-4"
+  },
+  {
+    "review_id": "T102",
+    "cite_key": "T102",
+    "inputs_target_probast": "\\textbf{Inputs:} Acoustics\\newline \\textbf{Target:} Case finding\\newline \\textbf{PROBAST+AI:} D1: Low | D2: Unclear | D3: Unclear | D4: High (Overall: High)",
+    "validation_basis": "Respiratory audio model evaluated on ICBHI and a COPD-focused external dataset.",
+    "interpretation_limit_and_doi": "Recording-level overlap and poor external transfer limit interpretation of high internal accuracy.\\newline \\url{https://doi.org/10.3390/life16071108}",
+    "doi": "10.3390/life16071108"
+  },
+  {
+    "review_id": "T104",
+    "cite_key": "T104",
+    "inputs_target_probast": "\\textbf{Inputs:} Imaging; clinical\\newline \\textbf{Target:} Severity\\newline \\textbf{PROBAST+AI:} D1: Low | D2: Unclear | D3: Low | D4: Unclear (Overall: Unclear)",
+    "validation_basis": "External cohort of 659 COPD patients from a second institution.",
+    "interpretation_limit_and_doi": "Severe/non-severe classification; adding clinical factors did not establish a statistically significant gain over radiomics.\\newline \\url{https://doi.org/10.2147/copd.s483007}",
+    "doi": "10.2147/copd.s483007"
+  },
+  {
+    "review_id": "T108",
+    "cite_key": "T108",
+    "inputs_target_probast": "\\textbf{Inputs:} Clinical\\newline \\textbf{Target:} Future exacerbation\\newline \\textbf{PROBAST+AI:} D1: Low | D2: Unclear | D3: Unclear | D4: High (Overall: High)",
+    "validation_basis": "Temporal cohort and another hospital cohort evaluated alongside model development.",
+    "interpretation_limit_and_doi": "Model selection considered external performance, so those data are not a pristine final confirmation set.\\newline \\url{https://doi.org/10.1186/s12911-025-03281-4}",
+    "doi": "10.1186/s12911-025-03281-4"
+  },
+  {
+    "review_id": "T110",
+    "cite_key": "T110",
+    "inputs_target_probast": "\\textbf{Inputs:} Imaging; clinical; physiology\\newline \\textbf{Target:} Case finding / progression\\newline \\textbf{PROBAST+AI:} D1: Low | D2: Low | D3: Low | D4: Low (Overall: Low)",
+    "validation_basis": "Sex-specific CT and clinical machine learning models evaluated across multi-cohort longitudinal respiratory datasets (CanCOLD and external cohort validation).",
+    "interpretation_limit_and_doi": "Exposes sex-specific structural and physiological heterogeneity that pooled models can mask; requires subgroup calibration verification before clinical threshold deployment.\\newline \\url{https://doi.org/10.1016/j.chest.2026.07.5207}",
+    "doi": "10.1016/j.chest.2026.07.5207"
+  },
+  {
+    "review_id": "T112",
+    "cite_key": "T112",
+    "inputs_target_probast": "\\textbf{Inputs:} Molecular\\newline \\textbf{Target:} Biomarker discovery\\newline \\textbf{PROBAST+AI:} D1: Unclear | D2: Low | D3: Low | D4: Unclear (Overall: Unclear)",
+    "validation_basis": "Smoking-specific gene models examined in separate public transcriptomic datasets.",
+    "interpretation_limit_and_doi": "Public-cohort validation remains vulnerable to platform and smoking-related confounding.\\newline \\url{https://doi.org/10.2147/ijgm.s516139}",
+    "doi": "10.2147/ijgm.s516139"
+  },
+  {
+    "review_id": "T116",
+    "cite_key": "T116",
+    "inputs_target_probast": "\\textbf{Inputs:} Clinical\\newline \\textbf{Target:} Mortality\\newline \\textbf{PROBAST+AI:} D1: Low | D2: Low | D3: Low | D4: Low (Overall: Low)",
+    "validation_basis": "MIMIC-IV, MIMIC-III and eICU used for development and temporal/geographical evaluations.",
+    "interpretation_limit_and_doi": "MIMIC versions can overlap; independence and transport before versus after recalibration need careful separation.\\newline \\url{https://doi.org/10.1186/s12931-026-03702-6}",
+    "doi": "10.1186/s12931-026-03702-6"
+  },
+  {
+    "review_id": "T120",
+    "cite_key": "T120",
+    "inputs_target_probast": "\\textbf{Inputs:} Imaging\\newline \\textbf{Target:} Detection / severity\\newline \\textbf{PROBAST+AI:} D1: Low | D2: Unclear | D3: Low | D4: Unclear (Overall: Unclear)",
+    "validation_basis": "External group of 68 individuals from other hospitals.",
+    "interpretation_limit_and_doi": "Small external sample; healthy controls may make case identification easier than clinical differential diagnosis.\\newline \\url{https://doi.org/10.2147/copd.s528988}",
+    "doi": "10.2147/copd.s528988"
+  },
+  {
+    "review_id": "T127",
+    "cite_key": "T127",
+    "inputs_target_probast": "\\textbf{Inputs:} Molecular\\newline \\textbf{Target:} Biomarker discovery\\newline \\textbf{PROBAST+AI:} D1: Unclear | D2: Low | D3: Low | D4: Unclear (Overall: Unclear)",
+    "validation_basis": "Pyroptosis-related gene models compared on internal and external expression datasets.",
+    "interpretation_limit_and_doi": "Model choice and tissue-platform effects require scrutiny before clinical translation.\\newline \\url{https://doi.org/10.1016/j.heliyon.2024.e27808}",
+    "doi": "10.1016/j.heliyon.2024.e27808"
+  },
+  {
+    "review_id": "T130",
+    "cite_key": "T130",
+    "inputs_target_probast": "\\textbf{Inputs:} Molecular\\newline \\textbf{Target:} Biomarker discovery\\newline \\textbf{PROBAST+AI:} D1: Unclear | D2: Low | D3: Low | D4: Unclear (Overall: Unclear)",
+    "validation_basis": "Candidate gene expression examined in an external GEO dataset.",
+    "interpretation_limit_and_doi": "Expression replication should not be confused with external validation of every reported diagnostic or prognostic model.\\newline \\url{https://doi.org/10.2147/jir.s534626}",
+    "doi": "10.2147/jir.s534626"
+  },
+  {
+    "review_id": "T133",
+    "cite_key": "T133",
+    "inputs_target_probast": "\\textbf{Inputs:} Clinical\\newline \\textbf{Target:} Treatment-effect modelling\\newline \\textbf{PROBAST+AI:} D1: Low | D2: Low | D3: Low | D4: Low (Overall: Low)",
+    "validation_basis": "Azithromycin causal forest developed in MACRO and evaluated in COLUMBUS.",
+    "interpretation_limit_and_doi": "Independent randomized-trial data support effect heterogeneity; prospective model-guided prescribing was not tested.\\newline \\url{https://doi.org/10.1136/thorax-2025-223095}",
+    "doi": "10.1136/thorax-2025-223095"
+  },
+  {
+    "review_id": "T135",
+    "cite_key": "RawSpirogram",
+    "inputs_target_probast": "\\textbf{Inputs:} Spirometry\\newline \\textbf{Target:} Detection / genetic discovery\\newline \\textbf{PROBAST+AI:} D1: Low | D2: Low | D3: Low | D4: Low (Overall: Low)",
+    "validation_basis": "Deep learning on raw flow-volume and volume-time spirograms in UK Biobank with replication of COPD liability scores, prognostic risk improvement, and genome-wide loci in COPDGene and independent cohorts.",
+    "interpretation_limit_and_doi": "Demonstrates how native physiological curve embeddings bridge risk prediction and genetic discovery; cross-device primary-care transport requires prospective clinical workflow evaluation.\\newline \\url{https://doi.org/10.1038/s41588-023-01372-4}",
+    "doi": "10.1038/s41588-023-01372-4"
+  },
+  {
+    "review_id": "T140",
+    "cite_key": "T140",
+    "inputs_target_probast": "\\textbf{Inputs:} Imaging; clinical\\newline \\textbf{Target:} Differential diagnosis\\newline \\textbf{PROBAST+AI:} D1: Low | D2: Low | D3: Low | D4: Low (Overall: Low)",
+    "validation_basis": "PRISm/COPD radiomics model evaluated in an independent cohort from a multicentre study.",
+    "interpretation_limit_and_doi": "Classification of current spirometric groups does not establish prediction of transition between them.\\newline \\url{https://doi.org/10.1016/j.ejro.2024.100580}",
+    "doi": "10.1016/j.ejro.2024.100580"
+  },
+  {
+    "review_id": "T141",
+    "cite_key": "T141",
+    "inputs_target_probast": "\\textbf{Inputs:} Clinical\\newline \\textbf{Target:} Phenotyping\\newline \\textbf{PROBAST+AI:} D1: Low | D2: Unclear | D3: Low | D4: Unclear (Overall: Unclear)",
+    "validation_basis": "Comorbidity clusters examined in ECLIPSE and a separate severe-COPD cohort.",
+    "interpretation_limit_and_doi": "Cluster structure and prognostic associations do not necessarily replicate together.\\newline \\url{https://doi.org/10.1183/23120541.01289-2024}",
+    "doi": "10.1183/23120541.01289-2024"
+  },
+  {
+    "review_id": "T142",
+    "cite_key": "T142",
+    "inputs_target_probast": "\\textbf{Inputs:} Imaging; clinical\\newline \\textbf{Target:} Case finding\\newline \\textbf{PROBAST+AI:} D1: Low | D2: Low | D3: Low | D4: Low (Overall: Low)",
+    "validation_basis": "Inspiratory/expiratory CT and clinical fusion assessed in a separate hospital dataset.",
+    "interpretation_limit_and_doi": "Binary detection performance should not be generalized to severity or future progression.\\newline \\url{https://doi.org/10.21037/jtd-24-367}",
+    "doi": "10.21037/jtd-24-367"
+  },
+  {
+    "review_id": "T143",
+    "cite_key": "T143",
+    "inputs_target_probast": "\\textbf{Inputs:} Molecular\\newline \\textbf{Target:} Biomarker discovery\\newline \\textbf{PROBAST+AI:} D1: Unclear | D2: Low | D3: Low | D4: Unclear (Overall: Unclear)",
+    "validation_basis": "Computational gene targets checked in an independent expression dataset.",
+    "interpretation_limit_and_doi": "Network pharmacology and docking generate hypotheses; they are not evidence of therapeutic efficacy.\\newline \\url{https://doi.org/10.3390/ijms26083907}",
+    "doi": "10.3390/ijms26083907"
+  },
+  {
+    "review_id": "T151",
+    "cite_key": "T151",
+    "inputs_target_probast": "\\textbf{Inputs:} Molecular\\newline \\textbf{Target:} Biomarker discovery\\newline \\textbf{PROBAST+AI:} D1: Unclear | D2: Low | D3: Low | D4: Unclear (Overall: Unclear)",
+    "validation_basis": "Early-COPD multi-omics study with independent protein-association validation.",
+    "interpretation_limit_and_doi": "Protein association replication does not validate the whole multimodal model as a clinical test.\\newline \\url{https://doi.org/10.1186/s12931-025-03250-5}",
+    "doi": "10.1186/s12931-025-03250-5"
+  },
+  {
+    "review_id": "T156",
+    "cite_key": "T156",
+    "inputs_target_probast": "\\textbf{Inputs:} Imaging; clinical\\newline \\textbf{Target:} Three-class case identification\\newline \\textbf{PROBAST+AI:} D1: Low | D2: Low | D3: Low | D4: Low (Overall: Low)",
+    "validation_basis": "Model development at one centre and external evaluation at two centres.",
+    "interpretation_limit_and_doi": "Class-specific performance and population spectrum matter more than a single overall accuracy.\\newline \\url{https://doi.org/10.1007/s11547-025-02061-4}",
+    "doi": "10.1007/s11547-025-02061-4"
+  },
+  {
+    "review_id": "T173",
+    "cite_key": "T173",
+    "inputs_target_probast": "\\textbf{Inputs:} Clinical; environment\\newline \\textbf{Target:} Future exacerbation\\newline \\textbf{PROBAST+AI:} D1: Low | D2: Unclear | D3: Low | D4: Unclear (Overall: Unclear)",
+    "validation_basis": "Claims-linked KOCOSS development and KNHANES external evaluation.",
+    "interpretation_limit_and_doi": "Patient-day observations are dependent; splitting and uncertainty must be assessed at the patient level.\\newline \\url{https://doi.org/10.1038/s41598-023-45835-4}",
+    "doi": "10.1038/s41598-023-45835-4"
+  },
+  {
+    "review_id": "T176",
+    "cite_key": "T176",
+    "inputs_target_probast": "\\textbf{Inputs:} Molecular\\newline \\textbf{Target:} Biomarker discovery\\newline \\textbf{PROBAST+AI:} D1: Unclear | D2: Low | D3: Low | D4: Unclear (Overall: Unclear)",
+    "validation_basis": "Transcriptomic signature assessed in separate GEO datasets.",
+    "interpretation_limit_and_doi": "An externally evaluated expression classifier does not establish usefulness as a readily deployable clinical assay.\\newline \\url{https://doi.org/10.3791/72242}",
+    "doi": "10.3791/72242"
+  },
+  {
+    "review_id": "T177",
+    "cite_key": "T177",
+    "inputs_target_probast": "\\textbf{Inputs:} Imaging\\newline \\textbf{Target:} Case finding\\newline \\textbf{PROBAST+AI:} D1: Low | D2: Low | D3: Low | D4: Low (Overall: Low)",
+    "validation_basis": "AutoCOPD evaluated in three Chinese cohorts and NLST.",
+    "interpretation_limit_and_doi": "Cohort spectrum, recruitment and spirometry definitions affect transportability and predictive values.\\newline \\url{https://doi.org/10.1016/j.eclinm.2025.103166}",
+    "doi": "10.1016/j.eclinm.2025.103166"
+  },
+  {
+    "review_id": "T183",
+    "cite_key": "T183",
+    "inputs_target_probast": "\\textbf{Inputs:} Imaging\\newline \\textbf{Target:} Structural phenotyping\\newline \\textbf{PROBAST+AI:} D1: Low | D2: Unclear | D3: Low | D4: Unclear (Overall: Unclear)",
+    "validation_basis": "Interstitial-lung-abnormality threshold tested in another COPD cohort.",
+    "interpretation_limit_and_doi": "Validation concerns a structural finding within COPD, not COPD diagnosis itself.\\newline \\url{https://doi.org/10.1186/s12890-024-03002-z}",
+    "doi": "10.1186/s12890-024-03002-z"
+  },
+  {
+    "review_id": "T199",
+    "cite_key": "T199",
+    "inputs_target_probast": "\\textbf{Inputs:} Molecular\\newline \\textbf{Target:} Biomarker discovery\\newline \\textbf{PROBAST+AI:} D1: Unclear | D2: Low | D3: Unclear | D4: High (Overall: High)",
+    "validation_basis": "Circulating-miRNA pair model tested in an external clinical cohort.",
+    "interpretation_limit_and_doi": "Assay/platform handling and external feature selection must be assessed before treating the panel as clinically ready.\\newline \\url{https://doi.org/10.3390/diagnostics13081440}",
+    "doi": "10.3390/diagnostics13081440"
+  },
+  {
+    "review_id": "T205",
+    "cite_key": "T205",
+    "inputs_target_probast": "\\textbf{Inputs:} Clinical\\newline \\textbf{Target:} Readmission\\newline \\textbf{PROBAST+AI:} D1: Low | D2: Low | D3: Low | D4: Low (Overall: Low)",
+    "validation_basis": "Older AECOPD cohort from a second hospital used for 90-day readmission evaluation.",
+    "interpretation_limit_and_doi": "Early-admission predictors and locally fitted preprocessing may affect implementation transfer.\\newline \\url{https://doi.org/10.2147/copd.s602126}",
+    "doi": "10.2147/copd.s602126"
+  },
+  {
+    "review_id": "T207",
+    "cite_key": "T207",
+    "inputs_target_probast": "\\textbf{Inputs:} Imaging; clinical\\newline \\textbf{Target:} Case finding\\newline \\textbf{PROBAST+AI:} D1: Low | D2: Low | D3: Low | D4: Low (Overall: Low)",
+    "validation_basis": "Multi-site deep learning and multimodal EHR-radiograph evaluation across distinct healthcare institutions (MIMIC-CXR, Emory, and CheXpert/Stanford cohorts).",
+    "interpretation_limit_and_doi": "Evaluates opportunistic COPD detection from routine chest radiographs across institutions; coded EHR reference labels require confirmatory spirometry in screening pathways.\\newline \\url{https://doi.org/10.1016/j.ijmedinf.2023.105211}",
+    "doi": "10.1016/j.ijmedinf.2023.105211"
+  },
+  {
+    "review_id": "T210",
+    "cite_key": "T210",
+    "inputs_target_probast": "\\textbf{Inputs:} Imaging; clinical\\newline \\textbf{Target:} Mortality\\newline \\textbf{PROBAST+AI:} D1: Low | D2: Low | D3: Low | D4: Low (Overall: Low)",
+    "validation_basis": "Deep CT features evaluated in a separate Malaysian cohort.",
+    "interpretation_limit_and_doi": "Small, predominantly male cohorts and different follow-up durations limit generalization.\\newline \\url{https://doi.org/10.1038/s41598-021-94535-4}",
+    "doi": "10.1038/s41598-021-94535-4"
+  },
+  {
+    "review_id": "T215",
+    "cite_key": "T215",
+    "inputs_target_probast": "\\textbf{Inputs:} Imaging; clinical\\newline \\textbf{Target:} Future exacerbation\\newline \\textbf{PROBAST+AI:} D1: Low | D2: Low | D3: Low | D4: Low (Overall: Low)",
+    "validation_basis": "Quantitative CT model evaluated in an external hospital cohort.",
+    "interpretation_limit_and_doi": "Repeated use of conventional scores as comparators requires consistent definitions and measurement units.\\newline \\url{https://doi.org/10.3389/fmed.2024.1370917}",
+    "doi": "10.3389/fmed.2024.1370917"
+  },
+  {
+    "review_id": "T217",
+    "cite_key": "T217",
+    "inputs_target_probast": "\\textbf{Inputs:} Spirometry; clinical\\newline \\textbf{Target:} Differential diagnosis\\newline \\textbf{PROBAST+AI:} D1: Low | D2: Low | D3: Low | D4: Low (Overall: Low)",
+    "validation_basis": "Multicenter external clinical evaluation comparing ML diagnostic differentiation against primary care physicians and pulmonologists across asthma, COPD, and asthma-COPD overlap.",
+    "interpretation_limit_and_doi": "Demonstrates comparative diagnostic accuracy against clinicians on structured clinical-spirometric cases; prospective impact on primary-care prescribing and referral remains separate.\\newline \\url{https://doi.org/10.1016/j.jaip.2023.01.017}",
+    "doi": "10.1016/j.jaip.2023.01.017"
+  },
+  {
+    "review_id": "T221",
+    "cite_key": "T221",
+    "inputs_target_probast": "\\textbf{Inputs:} Clinical\\newline \\textbf{Target:} Length of stay\\newline \\textbf{PROBAST+AI:} D1: Low | D2: Unclear | D3: Unclear | D4: High (Overall: High)",
+    "validation_basis": "Development and external cohorts from two hospitals.",
+    "interpretation_limit_and_doi": "External performance was used to choose the best model; length of stay also reflects local care processes.\\newline \\url{https://doi.org/10.2147/jir.s511092}",
+    "doi": "10.2147/jir.s511092"
+  },
+  {
+    "review_id": "T223",
+    "cite_key": "T223",
+    "inputs_target_probast": "\\textbf{Inputs:} Imaging\\newline \\textbf{Target:} Detection / severity\\newline \\textbf{PROBAST+AI:} D1: Low | D2: Low | D3: Low | D4: Low (Overall: Low)",
+    "validation_basis": "Weakly supervised volumetric chest CT deep learning model developed and externally validated across independent hospital cohorts for COPD detection and GOLD staging.",
+    "interpretation_limit_and_doi": "Reduces slice-level annotation burden via weak supervision, but scanner protocol and reconstruction kernel shifts require site-specific calibration checks.\\newline \\url{https://doi.org/10.1007/s00330-022-08632-7}",
+    "doi": "10.1007/s00330-022-08632-7"
+  },
+  {
+    "review_id": "T229",
+    "cite_key": "T229",
+    "inputs_target_probast": "\\textbf{Inputs:} Molecular; longitudinal\\newline \\textbf{Target:} Exacerbation detection / warning\\newline \\textbf{PROBAST+AI:} D1: Unclear | D2: Low | D3: Low | D4: Unclear (Overall: Unclear)",
+    "validation_basis": "Urine panel evaluated prospectively with repeated home measurements.",
+    "interpretation_limit_and_doi": "Prospective validation of the biomarker panel is distinct from independent validation of the subsequent neural network.\\newline \\url{https://doi.org/10.1183/23120541.00797-2024}",
+    "doi": "10.1183/23120541.00797-2024"
+  },
+  {
+    "review_id": "T233",
+    "cite_key": "T233",
+    "inputs_target_probast": "\\textbf{Inputs:} Imaging; clinical; spirometry\\newline \\textbf{Target:} Mortality\\newline \\textbf{PROBAST+AI:} D1: Low | D2: Low | D3: Low | D4: Low (Overall: Low)",
+    "validation_basis": "Trained on 3,475 COPD patients (435 val, 315 internal test) and externally validated across three independent hospital cohorts (n=394, 416, 337) for 5-year survival, with calibration and head-to-head comparison against BODE, ADO, SGRQ, and CAT.",
+    "interpretation_limit_and_doi": "Demonstrates calibrated survival discrimination across three external hospitals; equivalent to BODE/ADO when integrated with age, BMI, and FEV1.\\newline \\url{https://doi.org/10.1148/radiol.212071}",
+    "doi": "10.1148/radiol.212071"
+  },
+  {
+    "review_id": "T241",
+    "cite_key": "T241",
+    "inputs_target_probast": "\\textbf{Inputs:} Clinical\\newline \\textbf{Target:} Readmission\\newline \\textbf{PROBAST+AI:} D1: Low | D2: Unclear | D3: Unclear | D4: High (Overall: High)",
+    "validation_basis": "Federated retrospective development followed by a prospective two-country evaluation.",
+    "interpretation_limit_and_doi": "Small prospective sample; retrospective classification performance is not the prospective endpoint.\\newline \\url{https://doi.org/10.2196/35307}",
+    "doi": "10.2196/35307"
+  },
+  {
+    "review_id": "T252",
+    "cite_key": "T252",
+    "inputs_target_probast": "\\textbf{Inputs:} Imaging; clinical\\newline \\textbf{Target:} Acute differential diagnosis\\newline \\textbf{PROBAST+AI:} D1: Low | D2: Unclear | D3: Low | D4: Unclear (Overall: Unclear)",
+    "validation_basis": "CXR/EHR classifiers assessed on an external acute-respiratory-failure cohort.",
+    "interpretation_limit_and_doi": "COPD is one possible cause of acute respiratory failure; this is not general-population COPD screening.\\newline \\url{https://doi.org/10.1093/jamia/ocac030}",
+    "doi": "10.1093/jamia/ocac030"
+  },
+  {
+    "review_id": "T257",
+    "cite_key": "T257",
+    "inputs_target_probast": "\\textbf{Inputs:} Imaging\\newline \\textbf{Target:} Case finding\\newline \\textbf{PROBAST+AI:} D1: Low | D2: Unclear | D3: Low | D4: Unclear (Overall: Unclear)",
+    "validation_basis": "Two-stage attention multiple-instance learning (MIL) on chest CT evaluated across independent validation cohorts for patient-level COPD identification.",
+    "interpretation_limit_and_doi": "Attention weights highlight regional parenchymal slices contributing to classification, but post-hoc attention localization does not substitute for quantitative biomarker repeatability.\\newline \\url{https://doi.org/10.1016/j.cmpb.2023.107356}",
+    "doi": "10.1016/j.cmpb.2023.107356"
+  },
+  {
+    "review_id": "T258",
+    "cite_key": "T258",
+    "inputs_target_probast": "\\textbf{Inputs:} Imaging\\newline \\textbf{Target:} Detection / severity\\newline \\textbf{PROBAST+AI:} D1: Low | D2: Unclear | D3: Low | D4: Unclear (Overall: Unclear)",
+    "validation_basis": "Lung-parenchyma and airway-wall CNN tested in another hospital.",
+    "interpretation_limit_and_doi": "Four-stage grading and binary detection have different evaluation targets.\\newline \\url{https://doi.org/10.1259/bjr.20210637}",
+    "doi": "10.1259/bjr.20210637"
+  },
+  {
+    "review_id": "T269",
+    "cite_key": "T269",
+    "inputs_target_probast": "\\textbf{Inputs:} Imaging\\newline \\textbf{Target:} Detection / severity\\newline \\textbf{PROBAST+AI:} D1: Low | D2: Low | D3: Low | D4: Low (Overall: Low)",
+    "validation_basis": "COPDGene training with a separate COSYCONET test.",
+    "interpretation_limit_and_doi": "Anomaly scores are learned reference-population deviations, not direct mechanistic disease measurements.\\newline \\url{https://doi.org/10.1007/s00330-023-10540-3}",
+    "doi": "10.1007/s00330-023-10540-3"
+  },
+  {
+    "review_id": "T276",
+    "cite_key": "T276",
+    "inputs_target_probast": "\\textbf{Inputs:} Imaging\\newline \\textbf{Target:} Case finding\\newline \\textbf{PROBAST+AI:} D1: Low | D2: Low | D3: Low | D4: Low (Overall: Low)",
+    "validation_basis": "Deep residual networks trained on PanCan low-dose lung cancer screening CT scans and externally validated in ECLIPSE participants.",
+    "interpretation_limit_and_doi": "Establishes opportunistic COPD case-finding feasibility on low-dose screening CT; heavy-smoker screening eligibility constrains direct transport to never-smokers or general primary care.\\newline \\url{https://doi.org/10.1016/S2589-7500(20)30064-9}",
+    "doi": "10.1016/S2589-7500(20)30064-9"
+  },
+  {
+    "review_id": "T277",
+    "cite_key": "T277",
+    "inputs_target_probast": "\\textbf{Inputs:} Molecular\\newline \\textbf{Target:} Biomarker discovery\\newline \\textbf{PROBAST+AI:} D1: Unclear | D2: Low | D3: Unclear | D4: High (Overall: High)",
+    "validation_basis": "Macrophage-related classifier evaluated in three external transcriptomic sets.",
+    "interpretation_limit_and_doi": "External AUC varied substantially across datasets; biological plausibility does not guarantee stable diagnostic performance.\\newline \\url{https://doi.org/10.2147/jir.s438308}",
+    "doi": "10.2147/jir.s438308"
+  },
+  {
+    "review_id": "T280",
+    "cite_key": "T280",
+    "inputs_target_probast": "\\textbf{Inputs:} Imaging\\newline \\textbf{Target:} Measurement / phenotyping\\newline \\textbf{PROBAST+AI:} D1: Low | D2: Low | D3: Low | D4: Low (Overall: Low)",
+    "validation_basis": "Automated pectoralis-area extraction evaluated in an external COPD cohort.",
+    "interpretation_limit_and_doi": "Segmentation agreement is a measurement endpoint, not evidence of improved clinical outcomes.\\newline \\url{https://doi.org/10.1183/23120541.00485-2023}",
+    "doi": "10.1183/23120541.00485-2023"
+  },
+  {
+    "review_id": "T291",
+    "cite_key": "T291",
+    "inputs_target_probast": "\\textbf{Inputs:} Imaging\\newline \\textbf{Target:} Measurement / phenotyping\\newline \\textbf{PROBAST+AI:} D1: Low | D2: Low | D3: Low | D4: Low (Overall: Low)",
+    "validation_basis": "Vessel-segmentation model tested on external images and applied to a COPD cohort.",
+    "interpretation_limit_and_doi": "External point classification and clinical COPD associations are different levels of evidence.\\newline \\url{https://doi.org/10.1007/s00330-021-08036-z}",
+    "doi": "10.1007/s00330-021-08036-z"
+  }
+]

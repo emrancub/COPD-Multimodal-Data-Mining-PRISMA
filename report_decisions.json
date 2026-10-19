@@ -1,0 +1,1202 @@
+[
+  {
+    "review_id": "A001",
+    "decision": "include_primary_register",
+    "doi": "10.1007/s00408-026-00871-5",
+    "basis": "Dyspnoea model developed in COPDGene and evaluated in ECLIPSE."
+  },
+  {
+    "review_id": "A020",
+    "decision": "include_primary_register",
+    "doi": "10.1016/j.eclinm.2022.101574",
+    "basis": "ACCEPT 2.0 recalibrated in ECLIPSE and externally evaluated in TORCH."
+  },
+  {
+    "review_id": "A026",
+    "decision": "include_primary_register",
+    "doi": "10.1016/S2213-2600(19)30397-2",
+    "basis": "Mixed-effects clinical prediction model developed across three trial cohorts and externally validated in 1,819 ECLIPSE participants."
+  },
+  {
+    "review_id": "A030",
+    "decision": "include_primary_register",
+    "doi": "10.1038/s41467-026-72989-2",
+    "basis": "Joint clinical/transcriptomic embedding examined in COPDGene and ECLIPSE."
+  },
+  {
+    "review_id": "A051",
+    "decision": "include_primary_register",
+    "doi": "10.1177/17534666261466906",
+    "basis": "External COPDGene evaluation in people with preserved ratio and chronic cough."
+  },
+  {
+    "review_id": "B005",
+    "decision": "include_primary_register",
+    "doi": "10.3389/fimmu.2026.1875146",
+    "basis": "COPD expression models developed in GSE76925 and tested in GSE57148."
+  },
+  {
+    "review_id": "B006",
+    "decision": "include_primary_register",
+    "doi": "10.3389/fphys.2026.1870580",
+    "basis": "Training in GSE77344 with evaluation in GSE148871."
+  },
+  {
+    "review_id": "B009",
+    "decision": "include_primary_register",
+    "doi": "10.1038/s41467-026-77040-y",
+    "basis": "ECOPD discovery cohort of 787 and separate Respiratory Health cohort of 557; longitudinal follow-up also examined."
+  },
+  {
+    "review_id": "B011",
+    "decision": "include_primary_register",
+    "doi": "10.3389/fmed.2026.1922619",
+    "basis": "GSE42057 development with reported evaluation in combined GSE148871/GSE126923 data."
+  },
+  {
+    "review_id": "B015",
+    "decision": "include_primary_register",
+    "doi": "10.2147/copd.s592045",
+    "basis": "Gene selection across three airway datasets followed by expression testing in separate clinical qRT-PCR samples."
+  },
+  {
+    "review_id": "B017",
+    "decision": "include_primary_register",
+    "doi": "10.1016/j.jgeb.2026.100766",
+    "basis": "GSE76925 development and GSE118468 COPD test cohort."
+  },
+  {
+    "review_id": "B032",
+    "decision": "include_primary_register",
+    "doi": "10.2147/copd.s615813",
+    "basis": "GSE103174 development and GSE106986 expression/ROC assessment."
+  },
+  {
+    "review_id": "B036",
+    "decision": "include_primary_register",
+    "doi": "10.1038/s41420-026-03020-2",
+    "basis": "Endothelial IL6 findings examined in the COPD Cell Atlas and a separate disease-stage expression cohort."
+  },
+  {
+    "review_id": "B040",
+    "decision": "include_primary_register",
+    "doi": "10.2147/copd.s596649",
+    "basis": "GSE38974 discovery and GSE94916 independent expression assessment."
+  },
+  {
+    "review_id": "B043",
+    "decision": "include_primary_register",
+    "doi": "10.1371/journal.pone.0349338",
+    "basis": "Merged discovery cohorts followed by evaluation in GSE212331, GSE148004 and GSE1650."
+  },
+  {
+    "review_id": "B056",
+    "decision": "include_primary_register",
+    "doi": "10.1186/s41065-026-00682-x",
+    "basis": "GSE248493 development and GSE94916 expression assessment."
+  },
+  {
+    "review_id": "B060",
+    "decision": "include_primary_register",
+    "doi": "10.2147/copd.s548160",
+    "basis": "GSE47460 development and GSE38974 diagnostic evaluation."
+  },
+  {
+    "review_id": "B063",
+    "decision": "include_primary_register",
+    "doi": "10.3389/fimmu.2026.1880745",
+    "basis": "GSE57148 discovery followed by qRT-PCR in 10 COPD and 10 control clinical samples."
+  },
+  {
+    "review_id": "B064",
+    "decision": "include_primary_register",
+    "doi": "10.1371/journal.pone.0343798",
+    "basis": "GSE37768 discovery and GSE239897 expression assessment, with single-cell follow-up."
+  },
+  {
+    "review_id": "B137",
+    "decision": "include_primary_register",
+    "doi": "10.3389/fgene.2025.1653163",
+    "basis": "GSE100153 training and GSE124180 blood-expression assessment."
+  },
+  {
+    "review_id": "B138",
+    "decision": "include_primary_register",
+    "doi": "10.1038/s41598-025-11347-6",
+    "basis": "GSE112811 discovery and GSE146560 expression/ROC assessment."
+  },
+  {
+    "review_id": "B140",
+    "decision": "include_primary_register",
+    "doi": "10.2147/jir.s537967",
+    "basis": "Separate public expression data and clinical tissue samples used to examine glycosylation candidates."
+  },
+  {
+    "review_id": "B149",
+    "decision": "include_primary_register",
+    "doi": "10.2147/copd.s556818",
+    "basis": "GSE100153 discovery, GSE42057 assessment and small clinical qRT-PCR replication."
+  },
+  {
+    "review_id": "B150",
+    "decision": "include_primary_register",
+    "doi": "10.1038/s41598-024-71773-w",
+    "basis": "The report describes GSE57148 training and GSE54837 validation, plus single-cell localization."
+  },
+  {
+    "review_id": "B157",
+    "decision": "include_primary_register",
+    "doi": "10.1016/j.isci.2025.112966",
+    "basis": "Cytokine findings examined in separate cohorts and immune-cell findings in an independent single-cell dataset."
+  },
+  {
+    "review_id": "B158",
+    "decision": "include_primary_register",
+    "doi": "10.3389/fgene.2025.1567173",
+    "basis": "GSE42057 discovery and GSE94916 expression assessment."
+  },
+  {
+    "review_id": "B165",
+    "decision": "include_primary_register",
+    "doi": "10.1155/ijog/7060748",
+    "basis": "GSE38974 discovery and GSE8545 assessment, with additional cell/mouse experiments."
+  },
+  {
+    "review_id": "B175",
+    "decision": "include_primary_register",
+    "doi": "10.2147/copd.s524381",
+    "basis": "GSE19407 development and GSE10006 expression/ROC assessment."
+  },
+  {
+    "review_id": "B209",
+    "decision": "include_primary_register",
+    "doi": "10.1186/s12920-024-02076-2",
+    "basis": "GSE38974 development and GSE76925 assessment of candidate genes/model."
+  },
+  {
+    "review_id": "B217",
+    "decision": "include_primary_register",
+    "doi": "10.1038/s41598-025-99002-y",
+    "basis": "GSE57148 discovery with evaluation across separate lung-expression datasets."
+  },
+  {
+    "review_id": "B220",
+    "decision": "include_primary_register",
+    "doi": "10.1186/s40360-025-00842-1",
+    "basis": "GSE76925 development and GSE38974 external expression/model assessment."
+  },
+  {
+    "review_id": "B223",
+    "decision": "include_primary_register",
+    "doi": "10.3389/fmed.2025.1612390",
+    "basis": "GSE57148 discovery and GSE8581 expression/ROC assessment."
+  },
+  {
+    "review_id": "B232",
+    "decision": "include_primary_register",
+    "doi": "10.1111/ceo.14501",
+    "basis": "External evaluation of a pre-trained deep-learning retinal biological age biomarker (RetiAGE) in 45,438 UK Biobank participants without baseline COPD over 9.8 years (448 incident COPD events; high-risk tertile HR 1.60, 95\\% CI 1.18-2.19)."
+  },
+  {
+    "review_id": "B239",
+    "decision": "include_primary_register",
+    "doi": "10.3389/fimmu.2025.1675292",
+    "basis": "GSE151052 discovery and GSE106986 assessment, with single-cell localization."
+  },
+  {
+    "review_id": "B241",
+    "decision": "include_primary_register",
+    "doi": "10.3389/fimmu.2025.1536551",
+    "basis": "Shared candidate genes examined in separate clinical PBMC samples from control, COPD and diabetes groups."
+  },
+  {
+    "review_id": "B243",
+    "decision": "include_primary_register",
+    "doi": "10.1172/jci.insight.180239",
+    "basis": "Mouse-derived latent-factor findings followed by human lung-tissue and COPD plasma assessment."
+  },
+  {
+    "review_id": "B244",
+    "decision": "include_primary_register",
+    "doi": "10.1097/md.0000000000045317",
+    "basis": "GSE76925 discovery followed by GSE38974 evaluation."
+  },
+  {
+    "review_id": "B271",
+    "decision": "include_primary_register",
+    "doi": "10.1111/crj.70057",
+    "basis": "Report describes evaluation of a COPD gene model in a separate public dataset."
+  },
+  {
+    "review_id": "B278",
+    "decision": "include_primary_register",
+    "doi": "10.1183/23120541.00116-2025",
+    "basis": "Blinded evaluation on 1113 real-world primary-care spirometry records with clinician-adjudicated diagnoses."
+  },
+  {
+    "review_id": "B293",
+    "decision": "include_primary_register",
+    "doi": "10.3390/biomedicines13082006",
+    "basis": "GSE21359 discovery, GSE76925 validation and GSE38974 additional testing."
+  },
+  {
+    "review_id": "B313",
+    "decision": "include_primary_register",
+    "doi": "10.1111/jcmm.70107",
+    "basis": "Six discovery expression datasets and six additional datasets used to examine candidate genes."
+  },
+  {
+    "review_id": "B319",
+    "decision": "include_primary_register",
+    "doi": "10.3389/fimmu.2025.1666195",
+    "basis": "Lung-tissue discovery followed by airway-brush, sputum and blood expression/model analyses."
+  },
+  {
+    "review_id": "B357",
+    "decision": "include_primary_register",
+    "doi": "10.2147/copd.s510846",
+    "basis": "GSE5058 COPD discovery and GSE8545 COPD gene assessment."
+  },
+  {
+    "review_id": "B382",
+    "decision": "include_primary_register",
+    "doi": "10.1002/advs.202203485",
+    "basis": "Distinct WestRo and WestRo Porti participant cohorts used for a transfer evaluation."
+  },
+  {
+    "review_id": "B467",
+    "decision": "include_primary_register",
+    "doi": "10.3389/fcvm.2023.1121102",
+    "basis": "GSE76925 COPD discovery and GSE106986 evaluation."
+  },
+  {
+    "review_id": "B486",
+    "decision": "include_primary_register",
+    "doi": "10.1016/j.cmpb.2023.107911",
+    "basis": "Multimodal CT texture and lung sound/cough audio ensemble framework evaluated across clinical data from AIIMS Raipur and external open respiratory CT and audio benchmark datasets."
+  },
+  {
+    "review_id": "B514",
+    "decision": "include_primary_register",
+    "doi": "10.3346/jkms.2023.38.e220",
+    "basis": "Patient-derived epithelial proteomics followed by pathway assessment in independent GSE136831 single-cell data."
+  },
+  {
+    "review_id": "B557",
+    "decision": "include_primary_register",
+    "doi": "10.1186/s12931-025-03320-8",
+    "basis": "Protein and clinical scores developed in COPDGene and evaluated in the AAT Genetic Modifiers Study."
+  },
+  {
+    "review_id": "B561",
+    "decision": "include_primary_register",
+    "doi": "10.3389/fmed.2025.1592802",
+    "basis": "Airway-derived inflammatory signature followed by gene-expression assessment in five additional public datasets."
+  },
+  {
+    "review_id": "B566",
+    "decision": "include_primary_register",
+    "doi": "10.1016/j.envint.2022.107469",
+    "basis": "Cross-system validation combining in vitro/in vivo PM2.5 exposure and murine exosome-transplantation/knockdown models (hsa\\_circ\\_0005045) with machine-learning phenotyping in a 327-patient human COPD cohort."
+  },
+  {
+    "review_id": "B610",
+    "decision": "include_primary_register",
+    "doi": "10.1148/ryct.210311",
+    "basis": "3D U-Net + freeze-and-grow (DL-FG) airway tree detection evaluated across paired standard/low-dose CT in COPDGene Phase II (n=2x236), COPDGene Phase III (n=335), and external multiscanner NELSON trial low-dose CT (n=55)."
+  },
+  {
+    "review_id": "B624",
+    "decision": "include_primary_register",
+    "doi": "10.3389/fphys.2023.1144192",
+    "basis": "COPDGene model evaluated in SPIROMICS."
+  },
+  {
+    "review_id": "B628",
+    "decision": "include_primary_register",
+    "doi": "10.3389/fphar.2023.1139137",
+    "basis": "GSE13896 development and GSE130928 gene/model evaluation."
+  },
+  {
+    "review_id": "B633",
+    "decision": "include_primary_register",
+    "doi": "10.1038/s41598-022-22434-3",
+    "basis": "Prospective temporal prediction assessment followed by a before-after evaluation of a model-linked care pathway."
+  },
+  {
+    "review_id": "B637",
+    "decision": "include_primary_register",
+    "doi": "10.1148/ryct.2021200477",
+    "basis": "Deep learning lung segmentation trained on 888 smokers (NLST + institutional) and externally evaluated with deformable registration in 8,951 COPDGene participants for GOLD staging (AUROC 0.86-0.96), 5-year FEV1 progression (OR 2.67), and 10-year mortality (HR 2.23)."
+  },
+  {
+    "review_id": "B650",
+    "decision": "include_primary_register",
+    "doi": "10.3389/fimmu.2022.740513",
+    "basis": "Merged GSE38974/GSE76925 discovery and GSE106986 expression/ROC assessment."
+  },
+  {
+    "review_id": "B806",
+    "decision": "include_primary_register",
+    "doi": "10.1183/23120541.00292-2022",
+    "basis": "Existing AI quality software evaluated against over-reading on legacy asthma and COPD trial spirometry."
+  },
+  {
+    "review_id": "C001",
+    "decision": "include_primary_register",
+    "doi": "10.1164/rccm.202409-1847OC",
+    "basis": "Generative 3D deep learning model trained on SPIROMICS (n=1,055) and evaluated in SPIROMICS test (n=1,458, r=0.895) and external COPDGene cohort (n=458, r=0.897) with scan-rescan repeatability and clinical outcome association."
+  },
+  {
+    "review_id": "C002",
+    "decision": "include_primary_register",
+    "doi": "10.1016/j.chest.2020.02.079",
+    "basis": "Random survival forest and clinical-imaging-spirometry mortality model developed in COPDGene (n=2,632) and externally validated in ECLIPSE (n=1,268)."
+  },
+  {
+    "review_id": "T002",
+    "decision": "include_primary_register",
+    "doi": "10.21037/jtd-2026-0549",
+    "basis": "Two-hospital CT radiomics/deep-feature model with a separate validation cohort."
+  },
+  {
+    "review_id": "T004",
+    "decision": "include_primary_register",
+    "doi": "10.3389/fmed.2026.1831103",
+    "basis": "Development at one centre; external validation at two other hospitals."
+  },
+  {
+    "review_id": "T012",
+    "decision": "include_primary_register",
+    "doi": "10.2147/copd.s589883",
+    "basis": "Separate community screening cohorts for development and external validation."
+  },
+  {
+    "review_id": "T013",
+    "decision": "include_primary_register",
+    "doi": "10.1159/000548595",
+    "basis": "Multi-representation chest CT study integrating quantitative CT parameters, radiomics, and deep learning features for COPD identification and GOLD severity staging across independent validation partitions."
+  },
+  {
+    "review_id": "T021",
+    "decision": "include_primary_register",
+    "doi": "10.1038/s41533-026-00486-6",
+    "basis": "Prospective external evaluation in four hospitals after development."
+  },
+  {
+    "review_id": "T024",
+    "decision": "include_primary_register",
+    "doi": "10.21037/jtd-2026-0843",
+    "basis": "Held-out GSE11906 and separate small qPCR sample support gene-panel evaluation."
+  },
+  {
+    "review_id": "T034",
+    "decision": "include_primary_register",
+    "doi": "10.3390/cimb48050475",
+    "basis": "Discovery in GSE47460 and external evaluation in GSE57148."
+  },
+  {
+    "review_id": "T035",
+    "decision": "include_primary_register",
+    "doi": "10.1186/s12890-026-04219-w",
+    "basis": "Model developed in 193 patients and evaluated in 289 patients from another hospital."
+  },
+  {
+    "review_id": "T037",
+    "decision": "include_primary_register",
+    "doi": "10.1016/j.ebiom.2025.106066",
+    "basis": "Held-out hospital evaluation and an additional UK Biobank test."
+  },
+  {
+    "review_id": "T040",
+    "decision": "include_primary_register",
+    "doi": "10.2147/copd.s604522",
+    "basis": "Independent expression datasets used to examine candidate mannose-metabolism genes."
+  },
+  {
+    "review_id": "T044",
+    "decision": "include_primary_register",
+    "doi": "10.21037/jtd-2025-1-2558",
+    "basis": "Additional cohort of 37 patients used to evaluate asthma/COPD discrimination."
+  },
+  {
+    "review_id": "T050",
+    "decision": "include_primary_register",
+    "doi": "10.2147/copd.s596477",
+    "basis": "Molecular subtypes examined in GSE47460 and GSE76925."
+  },
+  {
+    "review_id": "T052",
+    "decision": "include_primary_register",
+    "doi": "10.1016/j.patter.2025.101426",
+    "basis": "Self-supervised anomaly model assessed on several external CT datasets."
+  },
+  {
+    "review_id": "T060",
+    "decision": "include_primary_register",
+    "doi": "10.21037/jtd-2025-972",
+    "basis": "Radiomics nomogram evaluated in an independent two-hospital cohort."
+  },
+  {
+    "review_id": "T061",
+    "decision": "include_primary_register",
+    "doi": "10.1371/journal.pone.0353838",
+    "basis": "CHRNA1 expression examined in an independent transcriptomic cohort and blood qPCR samples."
+  },
+  {
+    "review_id": "T062",
+    "decision": "include_primary_register",
+    "doi": "10.3389/fmed.2026.1806614",
+    "basis": "Recent single-hospital development; earlier seven-hospital external cohort."
+  },
+  {
+    "review_id": "T070",
+    "decision": "include_primary_register",
+    "doi": "10.1186/s13244-026-02254-z",
+    "basis": "CXR model trained at 11 centres and tested at six other centres."
+  },
+  {
+    "review_id": "T074",
+    "decision": "include_primary_register",
+    "doi": "10.3390/ijms27104231",
+    "basis": "Three-gene signature evaluated across independent blood/lung datasets with additional experiments."
+  },
+  {
+    "review_id": "T077",
+    "decision": "include_primary_register",
+    "doi": "10.1007/s00011-026-02294-7",
+    "basis": "Locked training-cohort model evaluated in GSE76925, with further gene-level assessment."
+  },
+  {
+    "review_id": "T080",
+    "decision": "include_primary_register",
+    "doi": "10.3389/fradi.2026.1829853",
+    "basis": "Separate hospital test of normal, PRISm and COPD classification."
+  },
+  {
+    "review_id": "T083",
+    "decision": "include_primary_register",
+    "doi": "10.2196/69785",
+    "basis": "Spirometry-image/clinical model developed at one teaching hospital and tested at another."
+  },
+  {
+    "review_id": "T087",
+    "decision": "include_primary_register",
+    "doi": "10.1186/s12931-025-03238-1",
+    "basis": "Thirteen-gene model examined in independent lung-tissue cohorts with mechanistic follow-up."
+  },
+  {
+    "review_id": "T094",
+    "decision": "include_primary_register",
+    "doi": "10.3389/fphys.2026.1735687",
+    "basis": "Report describes external imaging-model evaluation in 50 patients and use in a rehabilitation trial."
+  },
+  {
+    "review_id": "T097",
+    "decision": "include_primary_register",
+    "doi": "10.1186/s12890-026-04478-7",
+    "basis": "MIMIC-IV development with eICU external evaluation of 28-day mortality."
+  },
+  {
+    "review_id": "T098",
+    "decision": "include_primary_register",
+    "doi": "10.1177/17534666261478820",
+    "basis": "Lung-derived candidate genes assessed in a separate peripheral-blood experimental sample."
+  },
+  {
+    "review_id": "T100",
+    "decision": "include_primary_register",
+    "doi": "10.1038/s41746-026-02445-4",
+    "basis": "Independent test using smartphone models absent during training and validation."
+  },
+  {
+    "review_id": "T102",
+    "decision": "include_primary_register",
+    "doi": "10.3390/life16071108",
+    "basis": "Respiratory audio model evaluated on ICBHI and a COPD-focused external dataset."
+  },
+  {
+    "review_id": "T104",
+    "decision": "include_primary_register",
+    "doi": "10.2147/copd.s483007",
+    "basis": "External cohort of 659 COPD patients from a second institution."
+  },
+  {
+    "review_id": "T108",
+    "decision": "include_primary_register",
+    "doi": "10.1186/s12911-025-03281-4",
+    "basis": "Temporal cohort and another hospital cohort evaluated alongside model development."
+  },
+  {
+    "review_id": "T110",
+    "decision": "include_primary_register",
+    "doi": "10.1016/j.chest.2026.07.5207",
+    "basis": "Sex-specific CT and clinical machine learning models evaluated across multi-cohort longitudinal respiratory datasets (CanCOLD and external cohort validation)."
+  },
+  {
+    "review_id": "T112",
+    "decision": "include_primary_register",
+    "doi": "10.2147/ijgm.s516139",
+    "basis": "Smoking-specific gene models examined in separate public transcriptomic datasets."
+  },
+  {
+    "review_id": "T116",
+    "decision": "include_primary_register",
+    "doi": "10.1186/s12931-026-03702-6",
+    "basis": "MIMIC-IV, MIMIC-III and eICU used for development and temporal/geographical evaluations."
+  },
+  {
+    "review_id": "T120",
+    "decision": "include_primary_register",
+    "doi": "10.2147/copd.s528988",
+    "basis": "External group of 68 individuals from other hospitals."
+  },
+  {
+    "review_id": "T127",
+    "decision": "include_primary_register",
+    "doi": "10.1016/j.heliyon.2024.e27808",
+    "basis": "Pyroptosis-related gene models compared on internal and external expression datasets."
+  },
+  {
+    "review_id": "T130",
+    "decision": "include_primary_register",
+    "doi": "10.2147/jir.s534626",
+    "basis": "Candidate gene expression examined in an external GEO dataset."
+  },
+  {
+    "review_id": "T133",
+    "decision": "include_primary_register",
+    "doi": "10.1136/thorax-2025-223095",
+    "basis": "Azithromycin causal forest developed in MACRO and evaluated in COLUMBUS."
+  },
+  {
+    "review_id": "T135",
+    "decision": "include_primary_register",
+    "doi": "10.1038/s41588-023-01372-4",
+    "basis": "Deep learning on raw flow-volume and volume-time spirograms in UK Biobank with replication of COPD liability scores, prognostic risk improvement, and genome-wide loci in COPDGene and independent cohorts."
+  },
+  {
+    "review_id": "T140",
+    "decision": "include_primary_register",
+    "doi": "10.1016/j.ejro.2024.100580",
+    "basis": "PRISm/COPD radiomics model evaluated in an independent cohort from a multicentre study."
+  },
+  {
+    "review_id": "T141",
+    "decision": "include_primary_register",
+    "doi": "10.1183/23120541.01289-2024",
+    "basis": "Comorbidity clusters examined in ECLIPSE and a separate severe-COPD cohort."
+  },
+  {
+    "review_id": "T142",
+    "decision": "include_primary_register",
+    "doi": "10.21037/jtd-24-367",
+    "basis": "Inspiratory/expiratory CT and clinical fusion assessed in a separate hospital dataset."
+  },
+  {
+    "review_id": "T143",
+    "decision": "include_primary_register",
+    "doi": "10.3390/ijms26083907",
+    "basis": "Computational gene targets checked in an independent expression dataset."
+  },
+  {
+    "review_id": "T151",
+    "decision": "include_primary_register",
+    "doi": "10.1186/s12931-025-03250-5",
+    "basis": "Early-COPD multi-omics study with independent protein-association validation."
+  },
+  {
+    "review_id": "T156",
+    "decision": "include_primary_register",
+    "doi": "10.1007/s11547-025-02061-4",
+    "basis": "Model development at one centre and external evaluation at two centres."
+  },
+  {
+    "review_id": "T173",
+    "decision": "include_primary_register",
+    "doi": "10.1038/s41598-023-45835-4",
+    "basis": "Claims-linked KOCOSS development and KNHANES external evaluation."
+  },
+  {
+    "review_id": "T176",
+    "decision": "include_primary_register",
+    "doi": "10.3791/72242",
+    "basis": "Transcriptomic signature assessed in separate GEO datasets."
+  },
+  {
+    "review_id": "T177",
+    "decision": "include_primary_register",
+    "doi": "10.1016/j.eclinm.2025.103166",
+    "basis": "AutoCOPD evaluated in three Chinese cohorts and NLST."
+  },
+  {
+    "review_id": "T183",
+    "decision": "include_primary_register",
+    "doi": "10.1186/s12890-024-03002-z",
+    "basis": "Interstitial-lung-abnormality threshold tested in another COPD cohort."
+  },
+  {
+    "review_id": "T199",
+    "decision": "include_primary_register",
+    "doi": "10.3390/diagnostics13081440",
+    "basis": "Circulating-miRNA pair model tested in an external clinical cohort."
+  },
+  {
+    "review_id": "T205",
+    "decision": "include_primary_register",
+    "doi": "10.2147/copd.s602126",
+    "basis": "Older AECOPD cohort from a second hospital used for 90-day readmission evaluation."
+  },
+  {
+    "review_id": "T207",
+    "decision": "include_primary_register",
+    "doi": "10.1016/j.ijmedinf.2023.105211",
+    "basis": "Multi-site deep learning and multimodal EHR-radiograph evaluation across distinct healthcare institutions (MIMIC-CXR, Emory, and CheXpert/Stanford cohorts)."
+  },
+  {
+    "review_id": "T210",
+    "decision": "include_primary_register",
+    "doi": "10.1038/s41598-021-94535-4",
+    "basis": "Deep CT features evaluated in a separate Malaysian cohort."
+  },
+  {
+    "review_id": "T215",
+    "decision": "include_primary_register",
+    "doi": "10.3389/fmed.2024.1370917",
+    "basis": "Quantitative CT model evaluated in an external hospital cohort."
+  },
+  {
+    "review_id": "T217",
+    "decision": "include_primary_register",
+    "doi": "10.1016/j.jaip.2023.01.017",
+    "basis": "Multicenter external clinical evaluation comparing ML diagnostic differentiation against primary care physicians and pulmonologists across asthma, COPD, and asthma-COPD overlap."
+  },
+  {
+    "review_id": "T221",
+    "decision": "include_primary_register",
+    "doi": "10.2147/jir.s511092",
+    "basis": "Development and external cohorts from two hospitals."
+  },
+  {
+    "review_id": "T223",
+    "decision": "include_primary_register",
+    "doi": "10.1007/s00330-022-08632-7",
+    "basis": "Weakly supervised volumetric chest CT deep learning model developed and externally validated across independent hospital cohorts for COPD detection and GOLD staging."
+  },
+  {
+    "review_id": "T229",
+    "decision": "include_primary_register",
+    "doi": "10.1183/23120541.00797-2024",
+    "basis": "Urine panel evaluated prospectively with repeated home measurements."
+  },
+  {
+    "review_id": "T233",
+    "decision": "include_primary_register",
+    "doi": "10.1148/radiol.212071",
+    "basis": "Trained on 3,475 COPD patients (435 val, 315 internal test) and externally validated across three independent hospital cohorts (n=394, 416, 337) for 5-year survival, with calibration and head-to-head comparison against BODE, ADO, SGRQ, and CAT."
+  },
+  {
+    "review_id": "T241",
+    "decision": "include_primary_register",
+    "doi": "10.2196/35307",
+    "basis": "Federated retrospective development followed by a prospective two-country evaluation."
+  },
+  {
+    "review_id": "T252",
+    "decision": "include_primary_register",
+    "doi": "10.1093/jamia/ocac030",
+    "basis": "CXR/EHR classifiers assessed on an external acute-respiratory-failure cohort."
+  },
+  {
+    "review_id": "T257",
+    "decision": "include_primary_register",
+    "doi": "10.1016/j.cmpb.2023.107356",
+    "basis": "Two-stage attention multiple-instance learning (MIL) on chest CT evaluated across independent validation cohorts for patient-level COPD identification."
+  },
+  {
+    "review_id": "T258",
+    "decision": "include_primary_register",
+    "doi": "10.1259/bjr.20210637",
+    "basis": "Lung-parenchyma and airway-wall CNN tested in another hospital."
+  },
+  {
+    "review_id": "T269",
+    "decision": "include_primary_register",
+    "doi": "10.1007/s00330-023-10540-3",
+    "basis": "COPDGene training with a separate COSYCONET test."
+  },
+  {
+    "review_id": "T276",
+    "decision": "include_primary_register",
+    "doi": "10.1016/S2589-7500(20)30064-9",
+    "basis": "Deep residual networks trained on PanCan low-dose lung cancer screening CT scans and externally validated in ECLIPSE participants."
+  },
+  {
+    "review_id": "T277",
+    "decision": "include_primary_register",
+    "doi": "10.2147/jir.s438308",
+    "basis": "Macrophage-related classifier evaluated in three external transcriptomic sets."
+  },
+  {
+    "review_id": "T280",
+    "decision": "include_primary_register",
+    "doi": "10.1183/23120541.00485-2023",
+    "basis": "Automated pectoralis-area extraction evaluated in an external COPD cohort."
+  },
+  {
+    "review_id": "T291",
+    "decision": "include_primary_register",
+    "doi": "10.1007/s00330-021-08036-z",
+    "basis": "Vessel-segmentation model tested on external images and applied to a COPD cohort."
+  },
+  {
+    "review_id": "A029",
+    "decision": "exclude_full_report",
+    "doi": "10.1038/s41467-023-37758-5",
+    "reason": "Outcome is lung-disease mortality across conditions; outside the COPD-specific outcome requirement."
+  },
+  {
+    "review_id": "B035",
+    "decision": "exclude_full_report",
+    "doi": "10.1177/20552076261429627",
+    "reason": "No qualifying separate-cohort test of the full breath-analysis pipeline established."
+  },
+  {
+    "review_id": "B051",
+    "decision": "exclude_full_report",
+    "doi": "10.2147/copd.s536395",
+    "reason": "Single-source retrospective development without qualifying separate-population evaluation."
+  },
+  {
+    "review_id": "B057",
+    "decision": "exclude_full_report",
+    "doi": "10.1371/journal.pone.0344666",
+    "reason": "Additional validation concerned tumour discrimination; COPD-specific independent evaluation not established."
+  },
+  {
+    "review_id": "B112",
+    "decision": "exclude_full_report",
+    "doi": "10.1016/j.isci.2026.114857",
+    "reason": "Single small serum discovery series; independent human COPD model/biomarker replication not established."
+  },
+  {
+    "review_id": "B117",
+    "decision": "exclude_full_report",
+    "doi": "10.2147/copd.s540092",
+    "reason": "Clinical association analyses across different targets; qualifying independent learned COPD model or biomarker replication not established."
+  },
+  {
+    "review_id": "B121",
+    "decision": "exclude_full_report",
+    "doi": "10.1038/s41598-026-37375-4",
+    "reason": "Pooled discovery cohorts and cell experiments; separate human diagnostic model/biomarker replication not established beyond cell-type localization."
+  },
+  {
+    "review_id": "B123",
+    "decision": "exclude_full_report",
+    "doi": "10.3390/genes16091027",
+    "reason": "All selected COPD datasets pooled before analysis; no separate human COPD validation cohort established."
+  },
+  {
+    "review_id": "B152",
+    "decision": "exclude_full_report",
+    "doi": "10.1002/advs.75597",
+    "reason": "Discovery/validation formed by an internal 80/20 split."
+  },
+  {
+    "review_id": "B192",
+    "decision": "exclude_full_report",
+    "doi": "10.1183/23120541.00651-2024",
+    "reason": "Same-source calendar split of nationwide hospitalizations; no qualifying separate-cohort or prospective frozen evaluation."
+  },
+  {
+    "review_id": "B210",
+    "decision": "exclude_full_report",
+    "doi": "10.1371/journal.pone.0284563",
+    "reason": "Internal random partition; independent transcriptomics informed a network prior rather than a held-out patient-level model test."
+  },
+  {
+    "review_id": "B247",
+    "decision": "exclude_full_report",
+    "doi": "10.3390/bioengineering13020153",
+    "reason": "Synthetic and real plugs derived from partitions of one COPD cohort; no separate-cohort evaluation."
+  },
+  {
+    "review_id": "B351",
+    "decision": "exclude_full_report",
+    "doi": "10.3389/fmed.2024.1462868",
+    "reason": "Datasets merged for discovery; report states biomarker validation remains to be performed."
+  },
+  {
+    "review_id": "B457",
+    "decision": "exclude_full_report",
+    "doi": "10.3390/genes14020284",
+    "reason": "No qualifying external confirmation of TRPC6 established; the second dataset lacked the marker and refit different trees."
+  },
+  {
+    "review_id": "B505",
+    "decision": "exclude_full_report",
+    "doi": "10.1002/lrh2.10391",
+    "reason": "Knowledge-based reasoning evaluated with vignettes rather than a qualifying human COPD learned-model evaluation."
+  },
+  {
+    "review_id": "B510",
+    "decision": "exclude_full_report",
+    "doi": "10.1016/j.isci.2024.109542",
+    "reason": "Two-source data pooled and randomly split 70/30."
+  },
+  {
+    "review_id": "B528",
+    "decision": "exclude_full_report",
+    "doi": "10.1186/s12931-023-02460-z",
+    "reason": "Four study cohorts pooled before patient-disjoint internal splitting."
+  },
+  {
+    "review_id": "B562",
+    "decision": "exclude_full_report",
+    "doi": "10.1136/thorax-2022-219382",
+    "reason": "Separate models developed and internally split within SUMMIT and IMPACT; the same frozen treatment-effect model was not externally tested."
+  },
+  {
+    "review_id": "B590",
+    "decision": "exclude_full_report",
+    "doi": "10.1080/15412555.2024.2321379",
+    "reason": "Multi-study capnometry cohorts (294 COPD, 705 non-COPD) pooled prior to internal patient-disjoint splitting; no separate untouched external validation cohort (retained as contextual physiological waveform reference)."
+  },
+  {
+    "review_id": "B602",
+    "decision": "exclude_full_report",
+    "doi": "10.1097/cm9.0000000000001529",
+    "reason": "Narrative technical overview, not eligible original validation research."
+  },
+  {
+    "review_id": "B696",
+    "decision": "exclude_full_report",
+    "doi": "10.2196/44410",
+    "reason": "New independent clinical evaluation targets COVID-19; COPD performance is background from prior model development."
+  },
+  {
+    "review_id": "B788",
+    "decision": "exclude_full_report",
+    "doi": "10.1016/j.ejrad.2021.109646",
+    "reason": "Single-center intra-individual protocol comparison (n=49 COPD patients) evaluating deep-learning noise reduction (DLNR) without an independent external validation cohort (retained as contextual CT dose-harmonization reference)."
+  },
+  {
+    "review_id": "B789",
+    "decision": "exclude_full_report",
+    "doi": "10.1007/s00330-020-07020-3",
+    "reason": "Single-cohort paired LDCT/SDCT evaluation (n=131) of deep-learning sharp-to-smooth kernel conversion (B50f to B31f) without an independent external validation cohort (retained as contextual CT kernel-harmonization reference)."
+  },
+  {
+    "review_id": "T036",
+    "decision": "exclude_full_report",
+    "doi": "10.4046/trd.2026.0041",
+    "reason": "Internal random split; the report explicitly states that no external validation cohort was available."
+  },
+  {
+    "review_id": "T126",
+    "decision": "exclude_full_report",
+    "doi": "10.1038/s41598-025-19810-0",
+    "reason": "Pooled multicentre development with random internal split; report states external validation was not performed."
+  },
+  {
+    "review_id": "T197",
+    "decision": "exclude_full_report",
+    "doi": "10.1155/2021/6423398",
+    "reason": "No sufficiently specified original AI prediction model and independent COPD evaluation could be established from the report."
+  },
+  {
+    "review_id": "T213",
+    "decision": "exclude_full_report",
+    "doi": "10.1186/s13054-026-05894-1",
+    "reason": "Mixed-cause acute respiratory failure; COPD-specific performance was not established for the mapped claim."
+  },
+  {
+    "review_id": "T220",
+    "decision": "exclude_full_report",
+    "doi": "10.15326/jcopdf.2023.0399",
+    "reason": "Replication used another subset of COPDGene rather than a separate cohort; the report did not meet the separate-cohort requirement."
+  },
+  {
+    "review_id": "T238",
+    "decision": "exclude_full_report",
+    "doi": "10.1136/bmjresp-2021-000980",
+    "reason": "Internal temporal phenotyping and random-split prediction within one source; no qualifying separate-cohort evaluation established."
+  },
+  {
+    "review_id": "T248",
+    "decision": "exclude_full_report",
+    "doi": "10.1109/jtehm.2022.3207825",
+    "reason": "The described external validation concerned obesity; independently evaluated COPD-specific model performance was not established."
+  },
+  {
+    "review_id": "B023",
+    "decision": "report_not_retrieved",
+    "doi": "10.1186/s12890-026-04387-9",
+    "title": "Cross-population validation of the TyG-ABSI index as a novel predictor for chronic obstructive pulmonary disease: an integrated analysis using logistic regression and explainable machine learning."
+  },
+  {
+    "review_id": "B127",
+    "decision": "report_not_retrieved",
+    "doi": "10.1007/s11517-026-03556-6",
+    "title": "Accurate segmentation of pulmonary arteries and veins via a human-in-the-loop framework with application in COPD."
+  },
+  {
+    "review_id": "B134",
+    "decision": "report_not_retrieved",
+    "doi": "10.1007/s00210-025-04783-8",
+    "title": "Unveiling the toxicological impact of cigarette smoke exposure on chronic obstructive pulmonary disease: integrated insights from network toxicology and multi-omics."
+  },
+  {
+    "review_id": "B148",
+    "decision": "report_not_retrieved",
+    "doi": "10.1148/ryct.250080",
+    "title": "Open-Source AI Model for Predicting Respiratory Mortality in COPD from Chest Radiographs."
+  },
+  {
+    "review_id": "B162",
+    "decision": "report_not_retrieved",
+    "doi": "10.1007/s00011-025-02025-4",
+    "title": "Single-cell hdWGCNA reveals a novel diagnostic model and signature genes of macrophages associated with chronic obstructive pulmonary disease."
+  },
+  {
+    "review_id": "B190",
+    "decision": "report_not_retrieved",
+    "doi": "10.1016/j.chest.2026.07.5237",
+    "title": "Integrating Quantitative CT Scan Biomarkers to Enhance COPD Detection in the Holistic Implementation Study Assessing a Northern German Interdisciplinary Lung Cancer Screening Effort Lung Cancer Screening Program."
+  },
+  {
+    "review_id": "B197",
+    "decision": "report_not_retrieved",
+    "doi": "10.1016/j.compbiomed.2025.110947",
+    "title": "LUNAR: Periodicity-aware time-series analysis framework for LUNg Auscultation Respiratory detection."
+  },
+  {
+    "review_id": "B200",
+    "decision": "report_not_retrieved",
+    "doi": "10.1016/j.compbiomed.2025.110657",
+    "title": "Developing a Panel of Shared Susceptibility Genes as Diagnostic Biomarkers for chronic obstructive pulmonary disease and Heart Failure."
+  },
+  {
+    "review_id": "B207",
+    "decision": "report_not_retrieved",
+    "doi": "10.1016/j.jocd.2025.101576",
+    "title": "Artificial intelligence for opportunistic osteoporosis screening with a Hounsfield Unit in chronic obstructive pulmonary disease patients."
+  },
+  {
+    "review_id": "B229",
+    "decision": "report_not_retrieved",
+    "doi": "10.1007/s10916-025-02154-7",
+    "title": "Edge Computing System for Automatic Detection of Chronic Respiratory Diseases Using Audio Analysis."
+  },
+  {
+    "review_id": "B251",
+    "decision": "report_not_retrieved",
+    "doi": "10.1016/j.media.2024.103286",
+    "title": "Structure and position-aware graph neural network for airway labeling."
+  },
+  {
+    "review_id": "B274",
+    "decision": "report_not_retrieved",
+    "doi": "10.1016/j.rmed.2025.108545",
+    "title": "Automated artificial intelligence detection of early or under-diagnosed interstitial lung disease by computed tomography in the COPDGene trial."
+  },
+  {
+    "review_id": "B281",
+    "decision": "report_not_retrieved",
+    "doi": "10.1021/acs.analchem.4c03681",
+    "title": "Engineered Bimetallic MOF-Crafted Bullet Aids in Penetrating Serum Metabolic Traits of Chronic Obstructive Pulmonary Disease."
+  },
+  {
+    "review_id": "B346",
+    "decision": "report_not_retrieved",
+    "doi": "10.1088/1361-6560/adf486",
+    "title": "A DCT-UNet-based framework for pulmonary airway segmentation integrating label self-updating and terminal region growing."
+  },
+  {
+    "review_id": "B393",
+    "decision": "report_not_retrieved",
+    "doi": "10.15326/jcopdf.2024.0556",
+    "title": "Identification of Severe Acute Exacerbations of Chronic Obstructive Pulmonary Disease Subgroups by Machine Learning Implementation in Electronic Health Records."
+  },
+  {
+    "review_id": "B430",
+    "decision": "report_not_retrieved",
+    "doi": "10.1093/intimm/dxad043",
+    "title": "Identification of immune-related gene signatures for chronic obstructive pulmonary disease with metabolic syndrome: evidence from integrated bulk and single-cell RNA sequencing data."
+  },
+  {
+    "review_id": "B484",
+    "decision": "report_not_retrieved",
+    "doi": "10.1109/embc58623.2025.11254626",
+    "title": "Improved Cough Classification With Symmetric Projection Attractor Reconstruction."
+  },
+  {
+    "review_id": "B493",
+    "decision": "report_not_retrieved",
+    "doi": "10.1109/embc58623.2025.11252619",
+    "title": "Deep Neural Network-Based Detection of Diaphragmatic EMG Activity: From Simulation to Clinical Data."
+  },
+  {
+    "review_id": "B506",
+    "decision": "report_not_retrieved",
+    "doi": "10.1136/thorax-2022-219158",
+    "title": "Pulmonary emphysema subtypes defined by unsupervised machine learning on CT scans."
+  },
+  {
+    "review_id": "B520",
+    "decision": "report_not_retrieved",
+    "doi": "10.3233/thc-230619",
+    "title": "Predicting mixed venous oxygen saturation (SvO2) impairment in COPD patients using clinical-CT radiomics data: A preliminary study."
+  },
+  {
+    "review_id": "B693",
+    "decision": "report_not_retrieved",
+    "doi": "10.1016/j.acra.2022.05.009",
+    "title": "Quantitative CT Lung Imaging and Machine Learning Improves Prediction of Emergency Room Visits and Hospitalizations in COPD."
+  },
+  {
+    "review_id": "B700",
+    "decision": "report_not_retrieved",
+    "doi": "10.1038/s41588-023-01388-w",
+    "title": "Deep learning model improves COPD risk prediction and gene discovery."
+  },
+  {
+    "review_id": "B764",
+    "decision": "report_not_retrieved",
+    "doi": "10.1164/rccm.201908-1600oc",
+    "title": "Disease Progression Modeling in Chronic Obstructive Pulmonary Disease."
+  },
+  {
+    "review_id": "T038",
+    "decision": "report_not_retrieved",
+    "doi": "10.1016/j.resinv.2025.10.008",
+    "title": "Superior performance of three-dimensional to two-dimensional convolutional neural network for predicting airflow limitation in patients with chronic obstructive pulmonary disease."
+  },
+  {
+    "review_id": "T054",
+    "decision": "report_not_retrieved",
+    "doi": "10.1148/ryct.250060",
+    "title": "Deep Learning Segmentation of Pectoralis Muscle Volume at CT and Comparison with Pectoralis Muscle Area in COPD."
+  },
+  {
+    "review_id": "T081",
+    "decision": "report_not_retrieved",
+    "doi": "10.1148/radiol.252958",
+    "title": "Prediction of Lobar Emphysema Progression with a CT-Based Foundational Model."
+  },
+  {
+    "review_id": "T114",
+    "decision": "report_not_retrieved",
+    "doi": "10.1007/s10278-025-01785-z",
+    "title": "COPD-TransNet: A Swin Transformer Network with Quantitative Emphysema Feature Fusion for COPD Detection and Staging from Opportunistic CT Scans."
+  },
+  {
+    "review_id": "T117",
+    "decision": "report_not_retrieved",
+    "doi": "10.1016/j.jep.2025.120126",
+    "title": "Integrating single-cell analysis and machine learning to identify COPD hub genes and explore the intervention mechanism of effective component compatibility of Bufei Yishen formula III."
+  },
+  {
+    "review_id": "T119",
+    "decision": "report_not_retrieved",
+    "doi": "10.1007/s00330-025-11969-4",
+    "title": "Bronchiectasis in patients with chronic obstructive pulmonary disease: AI-based CT quantification using the bronchial tapering ratio."
+  },
+  {
+    "review_id": "T129",
+    "decision": "report_not_retrieved",
+    "doi": "10.1016/j.ijmedinf.2025.106114",
+    "title": "Rapid machine learning model for differentiating asthma and chronic obstructive pulmonary disease using age and blood parameters."
+  },
+  {
+    "review_id": "T134",
+    "decision": "report_not_retrieved",
+    "doi": "10.1117/1.jmi.12.3.034502",
+    "title": "Classifying chronic obstructive pulmonary disease status using computed tomography imaging and convolutional neural networks: comparison of model input image types and training data severity."
+  },
+  {
+    "review_id": "T153",
+    "decision": "report_not_retrieved",
+    "doi": "10.1080/15412555.2025.2602632",
+    "title": "Ferroptosis-Related Signature Genes and Immune Landscape in Acute Exacerbation of Chronic Obstructive Pulmonary Disease."
+  },
+  {
+    "review_id": "T155",
+    "decision": "report_not_retrieved",
+    "doi": "10.1002/ctm2.1702",
+    "title": "Prediction of clinical risk assessment and survival in chronic obstructive pulmonary disease with pulmonary hypertension."
+  },
+  {
+    "review_id": "T157",
+    "decision": "report_not_retrieved",
+    "doi": "10.1159/000540383",
+    "title": "Predicting Acute Exacerbation Phenotype in Chronic Obstructive Pulmonary Disease Patients Using VGG-16 Deep Learning."
+  },
+  {
+    "review_id": "T170",
+    "decision": "report_not_retrieved",
+    "doi": "10.1016/j.ijmedinf.2026.106303",
+    "title": "Reproducing real-world clinical prediction models using the DIVE platform: A comparative validation study across three chronic diseases."
+  },
+  {
+    "review_id": "T172",
+    "decision": "report_not_retrieved",
+    "doi": "10.1164/rccm.202303-0500oc",
+    "title": "Lung Tissue Multilayer Network Analysis Uncovers the Molecular Heterogeneity of Chronic Obstructive Pulmonary Disease."
+  },
+  {
+    "review_id": "T185",
+    "decision": "report_not_retrieved",
+    "doi": "10.1093/intbio/zyaf020",
+    "title": "Explicating miRNA-mediated regulation of inflammatory pathways in COPD, MS, and lung cancer using explainable artificial intelligence: insights from peripheral blood profiles."
+  },
+  {
+    "review_id": "T191",
+    "decision": "report_not_retrieved",
+    "doi": "10.1148/ryai.240680",
+    "title": "Single Inspiratory Chest CT-based Generative Deep Learning Models to Evaluate Functional Small Airways Disease."
+  },
+  {
+    "review_id": "T195",
+    "decision": "report_not_retrieved",
+    "doi": "10.1016/j.acra.2023.03.021",
+    "title": "CT-Based Radiomic Nomogram for the Prediction of Chronic Obstructive Pulmonary Disease in Patients with Lung cancer."
+  },
+  {
+    "review_id": "T201",
+    "decision": "report_not_retrieved",
+    "doi": "10.1016/j.ijmedinf.2025.106244",
+    "title": "Construction and validation of a machine learning-based risk prediction model for invasive mechanical ventilation in AECOPD patients complicated with respiratory failure."
+  },
+  {
+    "review_id": "T206",
+    "decision": "report_not_retrieved",
+    "doi": "10.1016/j.cmpb.2024.108516",
+    "title": "BreathVisionNet: A pulmonary-function-guided CNN-transformer hybrid model for expiratory CT image synthesis."
+  },
+  {
+    "review_id": "T250",
+    "decision": "report_not_retrieved",
+    "doi": "10.1007/s00330-021-07747-7",
+    "title": "Radiomics approach for survival prediction in chronic obstructive pulmonary disease."
+  },
+  {
+    "review_id": "T260",
+    "decision": "report_not_retrieved",
+    "doi": "10.1152/japplphysiol.00150.2021",
+    "title": "A homological approach to a mathematical definition of pulmonary fibrosis and emphysema on computed tomography."
+  },
+  {
+    "review_id": "T275",
+    "decision": "report_not_retrieved",
+    "doi": "10.1016/j.acra.2024.10.029",
+    "title": "Pulmonary \\&lt;sup\\&gt;129\\&lt;/sup\\&gt;Xe MRI: CNN Registration and Segmentation to Generate Ventilation Defect Percent with Multi-center Validation."
+  },
+  {
+    "review_id": "T283",
+    "decision": "report_not_retrieved",
+    "doi": "10.1016/s2666-7568(23)00133-2",
+    "title": "Chest radiography as a biomarker of ageing: artificial intelligence-based, multi-institutional model development and validation in Japan."
+  }
+]
